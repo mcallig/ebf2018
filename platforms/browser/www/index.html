@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Palanquin+Dark|Shrikhand" rel="stylesheet">
+  <link rel="stylesheet" href="css/onsenui.css">
+  <link rel="stylesheet" href="css/onsen-css-components.min.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXAy7XBaWCwe8MkTwtyLZKLYrygrWXHw8"></script>
+  <script src="js/onsenui.min.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/scripts.js"></script>
+
+
+  <link rel="stylesheet" href="js/plugins/rateYo/jquery.rateyo.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.js"></script>
+
+  <script>
+  ons.ready(function(){
+    ebf.init();
+  });
+  var overlay;
+  USGSOverlay.prototype = new google.maps.OverlayView();
+
+  // Initialize the map and the custom overlay.
+
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById('sitemap'), {
+      zoom:19,
+      center: {lat: 55.740683, lng: -4.272249},
+      mapTypeId: 'satellite'
+    });
+
+    var bounds = new google.maps.LatLngBounds(
+        new google.maps.LatLng(62.281819, -150.287132),
+        new google.maps.LatLng(62.400471, -150.005608));
+
+    // The photograph is courtesy of the U.S. Geological Survey.
+    var srcImage = 'https://developers.google.com/maps/documentation/' +
+        'javascript/examples/full/images/talkeetna.png';
+
+    // The custom USGSOverlay object contains the USGS image,
+    // the bounds of the image, and a reference to the map.
+    overlay = new USGSOverlay(bounds, srcImage, map);
+  }
+
+  /** @constructor */
+  function USGSOverlay(bounds, image, map) {
+
+    // Initialize all properties.
+    this.bounds_ = bounds;
+    this.image_ = image;
+    this.map_ = map;
+
+    // Define a property to hold the image's div. We'll
+    // actually create this div upon receipt of the onAdd()
+    // method so we'll leave it null for now.
+    this.div_ = null;
+
+    // Explicitly call setMap on this overlay.
+    this.setMap(map);
+  }
+
+  /**
+   * onAdd is called when the map's panes are ready and the overlay has been
+   * added to the map.
+   */
+  USGSOverlay.prototype.onAdd = function() {
+
+    var div = document.createElement('div');
+    div.style.borderStyle = 'none';
+    div.style.borderWidth = '0px';
+    div.style.position = 'absolute';
+
+    // Create the img element and attach it to the div.
+    var img = document.createElement('img');
+    img.src = this.image_;
+    img.style.width = '100%';
+    img.style.height = '100%';
+    img.style.position = 'absolute';
+    div.appendChild(img);
+
+    this.div_ = div;
+
+    // Add the element to the "overlayLayer" pane.
+    var panes = this.getPanes();
+    panes.overlayLayer.appendChild(div);
+  };
+
+  USGSOverlay.prototype.draw = function() {
+
+    // We use the south-west and north-east
+    // coordinates of the overlay to peg it to the correct position and size.
+    // To do this, we need to retrieve the projection from the overlay.
+    var overlayProjection = this.getProjection();
+
+    // Retrieve the south-west and north-east coordinates of this overlay
+    // in LatLngs and convert them to pixel coordinates.
+    // We'll use these coordinates to resize the div.
+    var sw = overlayProjection.fromLatLngToDivPixel(this.bounds_.getSouthWest());
+    var ne = overlayProjection.fromLatLngToDivPixel(this.bounds_.getNorthEast());
+
+    // Resize the image's div to fit the indicated dimensions.
+    var div = this.div_;
+    div.style.left = sw.x + 'px';
+    div.style.top = ne.y + 'px';
+    div.style.width = (ne.x - sw.x) + 'px';
+    div.style.height = (sw.y - ne.y) + 'px';
+  };
+
+  // The onRemove() method will be called automatically from the API if
+  // we ever set the overlay's map property to 'null'.
+  USGSOverlay.prototype.onRemove = function() {
+    this.div_.parentNode.removeChild(this.div_);
+    this.div_ = null;
+  };
+  </script>
+
+</head>
+<body>
+  <ons-splitter>
+    <ons-splitter-side id="menu" side="left" width="220px" collapse swipeable>
+      <ons-page>
+
+        <div class="menu-header bg-color-primary-1">MENU</div>
+        <ons-list>
+          <ons-list-item onclick="fn.load('home.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-home" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              HOME
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('information.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-book" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              INFORMATION
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('beer.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-beer" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              THE BEER
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('toDrink.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-heart" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              TO DRINK LIST
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('music.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-music" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              MUSIC
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('dugs.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-paw" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              DUG'S PUB
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('sitemap.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-map" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              SITE MAP
+            </div>
+          </ons-list-item>
+        </ons-list>
+      </ons-page>
+    </ons-splitter-side>
+    <ons-splitter-content id="content" page="homePage.html"></ons-splitter-content>
+  </ons-splitter>
+
+
+  <ons-template id="homePage.html">
+    <ons-page id="homePage">
+      <ons-navigator swipeable id="ebfNavigator" page="home.html"></ons-navigator>
+    </ons-page>
+  </ons-template>
+
+
+
+  <template id="home.html">
+    <ons-page id="home">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="center title">
+          Eaglesham Beer Festival
+        </div>
+      </ons-toolbar>
+
+      <div class="countdown-container bg-color-primary-1">
+        <div class="countdown-date">
+          <ons-icon icon="fa-beer" size="200px"></ons-icon><br />
+          12PM SATURDAY JUNE 2ND 2018
+        </div>
+        <div class="countdown-wrapper">
+          <div class="days"><span id="days"></span><br />DAYS</div>
+          <div class="hours"><span id="hours"></span><br />HOURS</div>
+          <div class="minutes"><span id="minutes"></span><br />MINS</div>
+          <div class="seconds"><span id="seconds"></span><br />SECS</div>
+
+        </div>
+
+      </div>
+
+
+    </ons-page>
+  </template>
+
+  <template id="information.html">
+    <ons-page id="information">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          Information
+        </div>
+      </ons-toolbar>
+      <ons-tabbar swipeable position="bottom" modifier="purple">
+        <ons-tab page="about.html" label="About" icon="md-info-outline" >
+        </ons-tab>
+        <ons-tab page="travel.html" label="Travel" icon="md-bus">
+        </ons-tab>
+      </ons-tabbar>
+    </ons-page>
+  </template>
+
+  <template id="about.html">
+    <ons-page>
+      <div id="about" class="wrapper content"></div>
+    </ons-page>
+  </template>
+
+  <template id="travel.html">
+    <ons-page>
+      <div id="travel" class="wrapper content"></div>
+    </ons-page>
+  </template>
+
+  <template id="beer.html">
+    <ons-page id="beer">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          The Beer
+        </div>
+
+      </ons-toolbar>
+      <ons-list id="brewery-list">
+        <ons-list-header modifier="purple">Breweries</ons-list-header>
+      </ons-list>
+
+    </ons-page>
+  </template>
+
+
+  <template id="beer-list.html">
+    <ons-page id="beer-list">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+          <ons-back-button></ons-back-button>
+        </div>
+
+        <div class="title-secondary center">
+          The Beer
+        </div>
+
+      </ons-toolbar>
+      <ons-list id="ons-beer-list">
+
+      </ons-list>
+
+    </ons-page>
+  </template>
+
+  <template id="beer-detail.html">
+    <ons-page id="beer-detail">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+          <ons-back-button></ons-back-button>
+        </div>
+        <div class="title-secondary center">
+          The Beer
+        </div>
+
+      </ons-toolbar>
+      <div class="wrapper" id="beer-detail-container">
+
+      </div>
+
+    </ons-page>
+  </template>
+
+  <template id="toDrink.html">
+    <ons-page id="toDrink-list">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          To-Drink List
+        </div>
+
+      </ons-toolbar>
+      <div id="toDrink-placeholder">
+        There are no beers on your "To-Drink List". Tap the <i class="fa fa-heart red"></i> on the beer profile page to get started.
+      </div>
+      <ons-list id="ons-toDrink-list">
+
+      </ons-list>
+
+    </ons-page>
+  </template>
+
+  <template id="music.html">
+    <ons-page id="ons-music">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          Music
+        </div>
+      </ons-toolbar>
+      <div id="music" class="wrapper content">
+
+      </div>
+    </ons-page>
+  </template>
+
+  <template id="dugs.html">
+    <ons-page id="ons-dugs">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          Dug's Pub
+        </div>
+      </ons-toolbar>
+      <div id="dugs" class="wrapper content">
+
+      </div>
+    </ons-page>
+  </template>
+
+  <template id="sitemap.html">
+    <ons-page id="ons-sitemap">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          Sitemap
+        </div>
+      </ons-toolbar>
+      <div id="sitemap" class="wrapper content">
+
+      </div>
+    </ons-page>
+  </template>
+
+
+</body>
+</html>
