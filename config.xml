@@ -8,5 +8,13 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
+
+
+
     <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
 </widget>
