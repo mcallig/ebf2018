@@ -14,11 +14,11 @@
     <engine name="browser" spec="~5.0.3" />
     <plugin name="cordova-plugin-whitelist" spec="~1.3.3" />
     <allow-navigation href="*" />
-    <plugin name="cordova-plugin-splashscreen" spec="https://github.com/apache/cordova-plugin-splashscreen.git" />
+    <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
     <preference name="SplashScreenDelay" value="10000" />
     <platform name="android">
       <preference name="SplashScreen" value="screen" />
-      <splash src="splash.png" />
+      <splash src="www/res/screen/android/drawable-port-hdpi-screen.png" />
       <splash src="www/res/screen/android/drawable-land-hdpi-screen.png" density="land-hdpi"/>
       <splash src="www/res/screen/android/drawable-land-ldpi-screen.png" density="land-ldpi"/>
       <splash src="www/res/screen/android/drawable-land-mdpi-screen.png" density="land-mdpi"/>
