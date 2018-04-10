@@ -130,7 +130,7 @@
               <ons-icon icon="fa-home" class="list-item__icon"></ons-icon>
             </div>
             <div class="center">
-              HOME2
+              HOME
             </div>
           </ons-list-item>
           <ons-list-item onclick="fn.load('information.html')" tappable>
@@ -147,6 +147,22 @@
             </div>
             <div class="center">
               THE BEER
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('food.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-cutlery" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              THE FOOD
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('rest.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-glass" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              THE REST
             </div>
           </ons-list-item>
           <ons-list-item onclick="fn.load('toDrink.html')" tappable>
@@ -319,6 +335,43 @@
 
       </ons-toolbar>
       <div class="wrapper" id="beer-detail-container">
+
+      </div>
+
+    </ons-page>
+  </template>
+
+  <template id="food.html">
+    <ons-page id="food">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          The Food
+        </div>
+
+      </ons-toolbar>
+
+
+    </ons-page>
+  </template>
+
+  <template id="rest.html">
+    <ons-page id="ons-rest">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          The Rest
+        </div>
+      </ons-toolbar>
+      <div id="rest" class="wrapper content">
 
       </div>
 

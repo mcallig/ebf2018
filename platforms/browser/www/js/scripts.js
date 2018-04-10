@@ -71,6 +71,14 @@ var ebf = (function () {
           ebf.bindRemove();
           toDrinkInit = true;
         }
+        else if(page.id === "ons-dugs") {
+          ebf.pushData("dugs.html");
+
+        }
+        else if(page.id === "ons-rest") {
+          ebf.pushData("rest.html");
+
+        }
       });
 
       document.addEventListener('show', function(event) {
@@ -124,6 +132,14 @@ var ebf = (function () {
 
         case "toDrink.html" :
           ebf.doPush("toDrink-list");
+          break;
+
+        case "dugs.html" :
+          ebf.doPush("dugs");
+          break;
+
+        case "rest.html" :
+          ebf.doPush("rest");
           break;
       }
     },
@@ -188,6 +204,14 @@ var ebf = (function () {
           ebf.bindRemove();
 
         break;
+        case "dugs":
+          $("#dugs").html(globalData.dugs_pub.content);
+
+          break;
+        case "rest":
+          $("#rest").html(globalData.rest.content);
+
+          break;
       }
 
     },
@@ -214,7 +238,7 @@ var ebf = (function () {
       brewery_item+= "</div>";
       if(toDrink) {
         brewery_item+= "<div class=\"right\">";
-        brewery_item+= "<i id=\"remove_"+beer.beer.bid+"\" data-id=\""+beer.beer.bid+"\" class=\"fa fa-times-circle\" style=\"font-size:1.7em;color:#d00\"></i>";
+        brewery_item+= "<i id=\"remove_"+beer.beer.bid+"\" data-id=\""+beer.beer.bid+"\" class=\"fa fa-times-circle remove\"></i>";
         brewery_item+= "</div>";
       }
       brewery_item+= "</ons-list-item>";
@@ -278,6 +302,7 @@ var ebf = (function () {
 
           var f = {bid:bid, brewery_id:breweryId}
           localStorage.setItem("fav_"+bid, JSON.stringify(f));
+
         }
         console.log(localStorage);
       });
@@ -304,6 +329,20 @@ var ebf = (function () {
         if(localStorage.getItem("rating_"+bid) != "null")
         {
           localStorage.setItem("rating_"+bid, JSON.stringify(o));
+
+          $.ajax({
+            type: "POST",
+            url: "http://www.sunburstlabs.com/ebf/index.php",
+            crossDomain: true,
+            data: {
+              beer_id: bid,
+              rating: rating
+            },
+            dataType:"json",
+            success: function() {
+              return true;
+            }
+          });
         }
 
       });

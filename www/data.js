@@ -12,6 +12,14 @@
 		}
 
 	},
+	"dugs_pub": {
+		"title":"Dug's Pub",
+		"content":"If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. We have teamed up with leading pet store, The Pet Empawrium, to create a dedicated area to dog lovers. And we think this is the first pub of its kind in Scotland. <br /><br />Together, the EagBeerFest team and The Pet Empawrium will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival.<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. There may even be a dog-themed whisky to check out. Not only will they be serving up top doggy tipples, but the Pet Empawrium will be offering up an impressive range of their natural treats and foods. And on the day they will be joined by their fantastic veterinary team, Champion Vets, to offer a number of dog treatments, including grooming, free check-ups and training advice."
+	},
+	"rest": {
+		"title":"The Rest",
+		"content":"The rest"
+	},
 	"beer": {
 		"beer": {
 			"title": "The Beer",

@@ -267,3 +267,31 @@ i.fa-star {
 .red {
   color: #d00;
 }
+
+.remove {
+  font-size:44px;
+  color:#d00;
+}
+
+.home-container {
+  text-align:center;
+
+}
+.home-logo {
+  text-align:center;
+  background-color: #fff;
+}
+
+.home-logo img {
+  margin:30px 0;
+}
+
+.home-text {
+  padding:10px 0;
+  color:#fff;
+  font-size:1.5em;
+}
+
+.logo {
+  width:70%;
+}
