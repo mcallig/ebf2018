@@ -18,6 +18,7 @@
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
 
     <platform name="android">
+        <allow-intent href="market:*" />
         <splash src="res/screen/android/splash-land-hdpi.png" density="land-hdpi"/>
         <splash src="res/screen/android/splash-land-ldpi.png" density="land-ldpi"/>
         <splash src="res/screen/android/splash-land-mdpi.png" density="land-mdpi"/>
