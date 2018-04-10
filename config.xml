@@ -16,10 +16,10 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.3.3" />
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
-
+    <preference name = "SplashScreen" value = "splash" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <splash src="res/screen/android/splash-port-hdpi.png" />
+        <splash src="www/res/screen/android/splash-port-hdpi.png" />
         <splash src="www/res/screen/android/splash-land-hdpi.png" density="land-hdpi"/>
         <splash src="www/res/screen/android/splash-land-ldpi.png" density="land-ldpi"/>
         <splash src="www/res/screen/android/splash-land-mdpi.png" density="land-mdpi"/>
@@ -34,6 +34,7 @@
         <splash src="www/res/screen/android/splash-port-xxhdpi.png" density="port-xxhdpi"/>
         <splash src="www/res/screen/android/splash-port-xxxhdpi.png" density="port-xxxhdpi"/>
     </platform>
+
 
     <platform name="ios">
         <splash src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
