@@ -1,38 +1,38 @@
 {
-  "prepare_queue": {
-    "installed": [],
-    "uninstalled": []
-  },
-  "config_munge": {
-    "files": {}
-  },
-  "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.phonegap.ebf"
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
     },
-    "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "com.phonegap.ebf"
-    }
-  },
-  "dependent_plugins": {},
-  "modules": [
-    {
-      "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
-      "id": "cordova-plugin-splashscreen.SplashScreen",
-      "pluginId": "cordova-plugin-splashscreen",
-      "clobbers": [
-        "navigator.splashscreen"
-      ]
+    "config_munge": {
+        "files": {}
     },
-    {
-      "file": "plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js",
-      "id": "cordova-plugin-splashscreen.SplashScreenProxy",
-      "pluginId": "cordova-plugin-splashscreen",
-      "runs": true
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.ebf"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegap.ebf"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+            "id": "cordova-plugin-splashscreen.SplashScreen",
+            "pluginId": "cordova-plugin-splashscreen",
+            "clobbers": [
+                "navigator.splashscreen"
+            ]
+        },
+        {
+            "file": "plugins/cordova-plugin-splashscreen/src/browser/SplashScreenProxy.js",
+            "id": "cordova-plugin-splashscreen.SplashScreenProxy",
+            "pluginId": "cordova-plugin-splashscreen",
+            "runs": true
+        }
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-whitelist": "1.3.3",
+        "cordova-plugin-splashscreen": "5.0.2"
     }
-  ],
-  "plugin_metadata": {
-    "cordova-plugin-whitelist": "1.3.3",
-    "cordova-plugin-splashscreen": "5.0.2"
-  }
 }
