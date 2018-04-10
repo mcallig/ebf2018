@@ -17,8 +17,8 @@
   <script src="js/plugins/rateYo/jquery.rateyo.min.js"></script>
 
   <script>
+  document.addEventListener("deviceready", onDeviceReady, false);
   function onDeviceReady() {
-    document.addEventListener("deviceready", onDeviceReady, false);
         navigator.splashscreen.show();
     }
   ons.ready(function(){
