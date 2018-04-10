@@ -17,6 +17,8 @@
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
     <preference name="SplashScreenDelay" value="10000" />
     <platform name="android">
+      <preference name="SplashScreen" value="splash" />
+      <splash src="splash.png" />
       <splash src="res/screen/android/drawable-land-hdpi-screen.png" density="land-hdpi"/>
       <splash src="res/screen/android/drawable-land-ldpi-screen.png" density="land-ldpi"/>
       <splash src="res/screen/android/drawable-land-mdpi-screen.png" density="land-mdpi"/>
