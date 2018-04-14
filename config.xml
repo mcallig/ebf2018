@@ -16,28 +16,18 @@
     <allow-navigation href="*" />
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
     <preference name="SplashScreenDelay" value="3000" />
-    <preference name="ShowSplashScreenSpinner" value="false"/>
-    <splash platform="android" density="xxxhdpi" src="res/screen/android/screen-xxxhdpi-port.png" width="1280" height="1920" />
-
-    <splash platform="android" density="xxxhdpi" src="res/screen/android/screen-xxxhdpi-land.png" width="1920" height="1280" />
-
-    <splash platform="android" density="xxhdpi" src="res/screen/android/screen-xxhdpi-port.png" width="960" height="1600" />
-
-    <splash platform="android" density="xxhdpi" src="res/screen/android/screen-xxhdpi-land.png" width="1600" height="960" />
-
-    <splash platform="android" density="xhdpi" src="res/screen/android/screen-xhdpi-port.png" width="640" height="960" />
-
-    <splash platform="android" density="xhdpi" src="res/screen/android/screen-xhdpi-land.png" width="960" height="640" />
-
-    <splash platform="android" density="mdpi" src="res/screen/android/screen-mdpi-port.png" width="320" height="480" />
-
-    <splash platform="android" density="mdpi" src="res/screen/android/screen-mdpi-land.png" width="480" height="320" />
-
-    <splash platform="android" density="hdpi" src="res/screen/android/screen-hdpi-port.png" width ="480" height="640" />
-
-    <splash platform="android" density="hdpi" src="res/screen/android/screen-hdpi-land.png" width ="800" height="480" />
-
-    <splash platform="android" density="ldpi" src="res/screen/android/screen-ldpi-port.png" width="240" height="320" />
-
-    <splash platform="android" density="ldpi" src="res/screen/android/screen-ldpi-land.png" width="400" height="240" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <splash density="xxxhdpi" height="1920" platform="android" src="res/screen/android/screen-xxxhdpi-port.png" width="1280" />
+    <splash density="xxxhdpi" height="1280" platform="android" src="res/screen/android/screen-xxxhdpi-land.png" width="1920" />
+    <splash density="xxhdpi" height="1600" platform="android" src="res/screen/android/screen-xxhdpi-port.png" width="960" />
+    <splash density="xxhdpi" height="960" platform="android" src="res/screen/android/screen-xxhdpi-land.png" width="1600" />
+    <splash density="xhdpi" height="960" platform="android" src="res/screen/android/screen-xhdpi-port.png" width="640" />
+    <splash density="xhdpi" height="640" platform="android" src="res/screen/android/screen-xhdpi-land.png" width="960" />
+    <splash density="mdpi" height="480" platform="android" src="res/screen/android/screen-mdpi-port.png" width="320" />
+    <splash density="mdpi" height="320" platform="android" src="res/screen/android/screen-mdpi-land.png" width="480" />
+    <splash density="hdpi" height="640" platform="android" src="res/screen/android/screen-hdpi-port.png" width="480" />
+    <splash density="hdpi" height="480" platform="android" src="res/screen/android/screen-hdpi-land.png" width="800" />
+    <splash density="ldpi" height="320" platform="android" src="res/screen/android/screen-ldpi-port.png" width="240" />
+    <splash density="ldpi" height="240" platform="android" src="res/screen/android/screen-ldpi-land.png" width="400" />
+    <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
 </widget>

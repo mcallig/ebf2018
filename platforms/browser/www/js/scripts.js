@@ -276,7 +276,7 @@ var ebf = (function () {
       html += "<div class=\"beer-detail-header\">"+food.title+"</div>";
       html += "<div class=\"content\">";
       html += food.description;
-      html += "<br /><br /><a href=\"#\" onclick=\"window.open(\""+food.url+"\",\"_system\") />"+food.url+"</a>";
+      html += "<br /><br /><div onclick=\"window.open('"+food.url+"','_system')\"><a href=\"#\" />"+food.url+"</a></div>";
       html += "</div>";
       html += "</ons-card>"
 
