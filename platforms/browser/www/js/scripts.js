@@ -35,6 +35,10 @@ var ebf = (function () {
             ebf.pushData("toDrink.html");
             ebf.bindRemove();
           }
+          else if(page === "food.html") {
+            setTimeout(
+              ebf.initFood, 100);
+          }
           content.bringPageTop(page, {animation: "slide"});
           console.log(content.pages);
         };
@@ -267,21 +271,12 @@ var ebf = (function () {
       html += "</div>";
       return html;
     },
-    writeBeerDetail: function(beer) {
-      var html = "<div style=\"display:flex\">";
-      html += "<div><img src=\""+beer.beer.beer_label+"\" width=\"100\"/></div>";
-      html += "<div style=\"margin-left:12px\" class=\"header-font\">";
-      html += "<span class=\"beer-header\">"+beer.beer.beer_name+"</span><br />";
-      html += "<span class=\"brewery-header\">"+beer.brewery.brewery_name+"</span><br />";
-      html += "<span class=\"beer-subheader\">"+beer.beer.beer_style+"</span><br />";
-      html += "<span class=\"beer-subheader\">"+beer.beer.beer_abv+"% ABV</span>";
-      html += "<div class=\"rating-container beer-subheader\">Untappd: <div class=\"rating\" id=\"rating_"+beer.beer.bid+"\" data-rating=\""+beer.beer.rating_score+"\" style=\"margin-left:4px;margin-top:0 !important\"></div></div>"
-      html += "</div></div></div></div>";
-      html += "<ons-card>";
-      html += "<div class=\"beer-detail-header\">About "+beer.beer.beer_name+"</div>";
+    writeFoodDetail: function(food) {
+      var html = "<ons-card>";
+      html += "<div class=\"beer-detail-header\">"+food.title+"</div>";
       html += "<div class=\"content\">";
-      html += beer.beer.beer_description;
-      html += "<div style=\"display:flex;margin-top:10px\"><div style=\"margin-top:10px\"><strong>Rate It:</strong></div> <div style=\"flex: 0 auto\" id=\"user_"+beer.beer.bid+"\"></div><div style=\"flex-grow:1;vertical-align:middle;\"><i class=\"fa fa-heart"+(localStorage.getItem("fav_"+beer.beer.bid) == null ? "" : " red")+"\" style=\"float:right;font-size:25px;margin-top:6px\" /></div></div>";
+      html += food.description;
+      html += "<br /><br /><a href=\"#\" onclick=\"window.open(\""+food.url+"\",\"_system\") />"+food.url+"</a>";
       html += "</div>";
       html += "</ons-card>"
 
@@ -345,6 +340,14 @@ var ebf = (function () {
           });
         }
 
+      });
+    }
+    ,
+    initFood: function() {
+      var data = globalData.food;
+      $("#food-detail-container").html("");
+      $.each(data.vendors, function() {
+        $("#food-detail-container").append(ebf.writeFoodDetail(this));
       });
     },
     beerList: function(breweryID) {

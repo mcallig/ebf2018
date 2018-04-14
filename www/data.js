@@ -17,8 +17,74 @@
 		"content":"If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. We have teamed up with leading pet store, The Pet Empawrium, to create a dedicated area to dog lovers. And we think this is the first pub of its kind in Scotland. <br /><br />Together, the EagBeerFest team and The Pet Empawrium will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival.<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. There may even be a dog-themed whisky to check out. Not only will they be serving up top doggy tipples, but the Pet Empawrium will be offering up an impressive range of their natural treats and foods. And on the day they will be joined by their fantastic veterinary team, Champion Vets, to offer a number of dog treatments, including grooming, free check-ups and training advice."
 	},
 	"rest": {
-		"title":"The Rest",
+		"title":"Something Different",
 		"content":"The rest"
+	},
+	"food": {
+		"title":"The Food",
+		"content":"",
+		"vendors" : [
+			{
+				"title":"Aye Love Real Food",
+				"description": "Aye Love Real Food are back at the Beer Fest serving up the best damn Scotch Eggs you'll ever taste. Not only that but they'll also be on hand with their amazing sausage rolls, including a couple of delicious options for all you vegetarians and vegans.",
+				"url":"http://www.ayeloverealfood.co.uk",
+				"image":""
+			},
+			{
+				"title":"Babu Bombay Street Kitchen",
+				"description": "Babu Bombay Street Kitchen will be bringing their unique mix of spice and flavour to this year's festival, with their selection of authentic Indian street food as well as phenomenal chai.",
+				"url":"http://www.babu-kitchen.com",
+				"image":""
+			},
+			{
+				"title":"Charlie Mills Coffee",
+				"description": "Bringing you freshly roasted coffee all the way from their Moorland micro-roastery are Charlie Mills. Whether you're huddling against the Scottish June weather or enjoying a brew in the sun, or possibly even sobering up a little, Charlie Mills has you covered.",
+				"url":"http://www.charliemillscoffee.com/",
+				"image":""
+			},
+			{
+				"title":"Eglinton Arms Burger Bar",
+				"description": "Eaglesham mainstay the Eglinton Arms will have a presence at the Beer Fest this year in the form of their burger bar. ",
+				"url":"http://www.bw-eglintonarmshotel.co.uk/",
+				"image":""
+			},
+			{
+				"title":"Fujisan",
+				"description": "Fujisan are a Scottish/Japanese husband and wife team based in Glasgow serving authentic Japanese cuisine from their converted vintage trailer. They'll be making their Beer Fest debut so get along and give them a warm Eaglesham welcome.",
+				"url":"https://fujisanfood.co.uk/",
+				"image":""
+			},
+			{
+				"title":"Fire Dog",
+				"description": "Instantly recognisable on the Glasgow street food scene due to that bright red vintage Citroen truck, Fire Dog make amazing loaded gourmet hotdogs that are impossible to eat while maintaining your dignity. Perfect food to was down a few beers with.",
+				"url":"https://www.facebook.com/pg/firedoghotdogs",
+				"image":""
+			},
+			{
+				"title":"Mighty Mexican",
+				"description": "Here's hoping Mighty Mexican can bring a touch of Mexican sunshine to the beer fest this year. You might remember them from their previous outings where they served up incredible frehly-made tacos, nachos and burritos.",
+				"url":"https://www.facebook.com/mightymexican1",
+				"image":""
+			},
+			{
+				"title":"Shrimp Wreck",
+				"description": "For all you seafood lovers out there we have a real treat for you. Shrimp Wreck have become firmly established on the Glasgow street food scene with regular appearances at Taste Buchanan and Platform at Glasgow Arches. They;ll be on hand to satisfy that craving for king prawn tempura and sweet potao fries.",
+				"url":"https://www.facebook.com/pg/shrimpwreck/",
+				"image":""
+			},
+			{
+				"title":"Street Food Putter Club",
+				"description": "Street Food Putter Club provides social events with a difference. Combining mini-golf with top notch street food. Think mac and cheese, pulled pork and boneless bites, but also Korean influenced tacos and veggie gyozas. They're all over the map and we can't wait to see what they bring on the day.",
+				"url":"http://www.streetfoodputterclub.co.uk/",
+				"image":""
+			},
+			{
+				"title":"Thorntonhall Ice Cream",
+				"description": "Returning to the Beer Fest once again, Thorntonhall bring their fabulous ice cream made with milk from their own herd up at Meikle Dripps Farm. No artificial additives, emulsifiers or colourings and produced a mile down the road. You can't get better than that. Here's hoping for ice cream weather! ",
+				"url":"http://www.thorntonhallicecream.co.uk/",
+				"image":""
+			}
+		]
 	},
 	"beer": {
 		"beer": {
