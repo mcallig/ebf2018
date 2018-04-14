@@ -95,6 +95,7 @@ var ebf = (function () {
 
       document.addEventListener("backbutton", function(event) {
         event.preventDefault();
+        return false;
         //document.getElementById('ebfNavigator').popPage();
       }, true);
 
