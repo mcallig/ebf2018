@@ -95,7 +95,7 @@ var ebf = (function () {
 
       document.addEventListener("backbutton", function(event) {
         event.preventDefault();
-        document.getElementById('ebfNavigator').popPage();
+        //document.getElementById('ebfNavigator').popPage();
       }, true);
 
       ebf.setCountdown();
