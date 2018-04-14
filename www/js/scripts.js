@@ -93,6 +93,10 @@ var ebf = (function () {
         }
       });
 
+      document.addEventListener("backbutton", function(event) {
+        document.getElementById('ebfNavigator').popPage();
+      });
+
       ebf.setCountdown();
       ebf.map();
     },
