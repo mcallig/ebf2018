@@ -18,7 +18,10 @@
 
   <script>
 
-    document.addEventListener("deviceready", onDeviceReady, false);
+  $(document).ready(function () {
+    
+      document.addEventListener("deviceready", onDeviceReady, false);
+  });
 
 
   function onDeviceReady() {
@@ -32,12 +35,6 @@
     }
   ons.ready(function(){
 
-    document.addEventListener("backbutton", function(event) {
-        alert(1);
-        event.preventDefault();
-        return false;
-        //document.getElementById('ebfNavigator').popPage();
-      }, true);
     ebf.init();
   });
   var overlay;
