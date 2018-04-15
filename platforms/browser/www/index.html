@@ -6,37 +6,35 @@
   <link rel="stylesheet" href="css/onsenui.css">
   <link rel="stylesheet" href="css/onsen-css-components.min.css">
   <link rel="stylesheet" href="css/styles.css">
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXAy7XBaWCwe8MkTwtyLZKLYrygrWXHw8"></script>
-
-  <script src="js/onsenui.min.js"></script>
   <script src="js/jquery.min.js"></script>
+  <script src="js/onsenui.min.js"></script>
   <script src="js/scripts.js"></script>
+  <script src="js/plugins/rateYo/jquery.rateyo.min.js"></script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXAy7XBaWCwe8MkTwtyLZKLYrygrWXHw8"></script>
 
 
   <link rel="stylesheet" href="js/plugins/rateYo/jquery.rateyo.min.css">
-  <script src="js/plugins/rateYo/jquery.rateyo.min.js"></script>
+
 
   <script>
 
   $(document).ready(function () {
-    
+      alert("listener added");
       document.addEventListener("deviceready", onDeviceReady, false);
   });
 
-
   function onDeviceReady() {
-    alert(2);
-    document.addEventListener("backbutton", function(event) {
-        alert(1);
-        event.preventDefault();
-        return false;
-        //document.getElementById('ebfNavigator').popPage();
+    alert("device ready");
+    document.addEventListener("backbutton", function() {
+        alert("back tapped");
       }, false);
     }
-  ons.ready(function(){
 
+  ons.ready(function(){
     ebf.init();
   });
+
   var overlay;
   USGSOverlay.prototype = new google.maps.OverlayView();
 
@@ -136,6 +134,7 @@
 
 </head>
 <body>
+
   <ons-splitter>
     <ons-splitter-side id="menu" side="left" width="220px" collapse swipeable>
       <ons-page>
