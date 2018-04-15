@@ -28,62 +28,136 @@
 				"title":"Aye Love Real Food",
 				"description": "Aye Love Real Food are back at the Beer Fest serving up the best damn Scotch Eggs you'll ever taste. Not only that but they'll also be on hand with their amazing sausage rolls, including a couple of delicious options for all you vegetarians and vegans.",
 				"url":"http://www.ayeloverealfood.co.uk",
-				"image":""
+				"image":"food_ayelove.jpg"
 			},
 			{
 				"title":"Babu Bombay Street Kitchen",
 				"description": "Babu Bombay Street Kitchen will be bringing their unique mix of spice and flavour to this year's festival, with their selection of authentic Indian street food as well as phenomenal chai.",
 				"url":"http://www.babu-kitchen.com",
-				"image":""
+				"image":"food_babu.jpg"
 			},
 			{
 				"title":"Charlie Mills Coffee",
 				"description": "Bringing you freshly roasted coffee all the way from their Moorland micro-roastery are Charlie Mills. Whether you're huddling against the Scottish June weather or enjoying a brew in the sun, or possibly even sobering up a little, Charlie Mills has you covered.",
 				"url":"http://www.charliemillscoffee.com/",
-				"image":""
+				"image":"food_charliemills.png"
 			},
 			{
 				"title":"Eglinton Arms Burger Bar",
 				"description": "Eaglesham mainstay the Eglinton Arms will have a presence at the Beer Fest this year in the form of their burger bar. ",
 				"url":"http://www.bw-eglintonarmshotel.co.uk/",
-				"image":""
+				"image":"food_ea.jpg"
 			},
 			{
 				"title":"Fujisan",
 				"description": "Fujisan are a Scottish/Japanese husband and wife team based in Glasgow serving authentic Japanese cuisine from their converted vintage trailer. They'll be making their Beer Fest debut so get along and give them a warm Eaglesham welcome.",
 				"url":"https://fujisanfood.co.uk/",
-				"image":""
+				"image":"food_fujisan.jpg"
 			},
 			{
 				"title":"Fire Dog",
 				"description": "Instantly recognisable on the Glasgow street food scene due to that bright red vintage Citroen truck, Fire Dog make amazing loaded gourmet hotdogs that are impossible to eat while maintaining your dignity. Perfect food to was down a few beers with.",
 				"url":"https://www.facebook.com/pg/firedoghotdogs",
-				"image":""
+				"image":"food_firedog.jpg"
 			},
 			{
 				"title":"Mighty Mexican",
 				"description": "Here's hoping Mighty Mexican can bring a touch of Mexican sunshine to the beer fest this year. You might remember them from their previous outings where they served up incredible frehly-made tacos, nachos and burritos.",
 				"url":"https://www.facebook.com/mightymexican1",
-				"image":""
+				"image":"food_mightymexican.jpg"
 			},
 			{
 				"title":"Shrimp Wreck",
 				"description": "For all you seafood lovers out there we have a real treat for you. Shrimp Wreck have become firmly established on the Glasgow street food scene with regular appearances at Taste Buchanan and Platform at Glasgow Arches. They;ll be on hand to satisfy that craving for king prawn tempura and sweet potao fries.",
 				"url":"https://www.facebook.com/pg/shrimpwreck/",
-				"image":""
+				"image":"food_shrimpwreck.jpg"
 			},
 			{
 				"title":"Street Food Putter Club",
 				"description": "Street Food Putter Club provides social events with a difference. Combining mini-golf with top notch street food. Think mac and cheese, pulled pork and boneless bites, but also Korean influenced tacos and veggie gyozas. They're all over the map and we can't wait to see what they bring on the day.",
 				"url":"http://www.streetfoodputterclub.co.uk/",
-				"image":""
+				"image":"food_putter.jpg"
 			},
 			{
 				"title":"Thorntonhall Ice Cream",
 				"description": "Returning to the Beer Fest once again, Thorntonhall bring their fabulous ice cream made with milk from their own herd up at Meikle Dripps Farm. No artificial additives, emulsifiers or colourings and produced a mile down the road. You can't get better than that. Here's hoping for ice cream weather! ",
 				"url":"http://www.thorntonhallicecream.co.uk/",
-				"image":""
+				"image":"food_thornton.jpg"
 			}
+		]
+	},
+	"rest": {
+		"title":"Something Different",
+		"content":"",
+		"items" : [
+			{
+				"title":"Bangin' Beards",
+				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
+				"url":"https://www.banginbeards.com/",
+				"image":"rest_bb.jpg"
+			},
+			{
+				"title":"Bijou Wine Company",
+				"description": "The Bijou Wine Co brings something a wee bit special to events, festivals, weddings & parties serving great wines (of course), beers, ciders, spirits and punches.",
+				"url":"http://www.bijouwine.co.uk/",
+				"image":"rest_bijou.jpg"
+			},
+
+			{
+				"title":"Eaglesham Beanies",
+				"description": "If you've been following us on social media you can't have missed our special edition Eaglesham Beanie, produced for us by our friends at Lake and Loch. Hopefully you won't need them on the day but come the autumn you'll be kicking yourself if you don't have one of these.",
+				"url":"http://www.eagleshambeerfest.uk/store/",
+				"image":"rest_beanies.jpg"
+			},
+			{
+				"title":"Eaglesham Gin",
+				"description": "",
+				"url":"http://www.eagleshambeerfest.uk",
+				"image":"no_image.jpg"
+			},
+			{
+				"title":"Geppetto Laszlo Woodwork",
+				"description": "",
+				"url":"https://www.facebook.com/Geppetto-Laszlo-Woodwork-223833867948423/",
+				"image":"rest_laszlo.jpg"
+			},
+			{
+				"title":"Kilbryde Hospice",
+				"description": "",
+				"url":"http://kilbrydehospice.org.uk/",
+				"image":"rest_kilbryde.jpg"
+			},
+			{
+				"title":"Mearns Castle Golf Academy",
+				"description": "",
+				"url":"http://www.mcgolfacademy.co.uk/",
+				"image":"rest_mearns.jpg"
+			},
+			{
+				"title":"Rainbow Twisters",
+				"description": "",
+				"url":"http://www.rainbowtwisters.com/",
+				"image":"rest_rainbow.jpg"
+			},
+			{
+				"title":"Thistly Cross Cider",
+				"description": "Born out of a passion for making cider in the best possible way, combined with belief in the quality of Scottish produce, and asking ‘why not?’, came Thistly Cross Cider, Scotland’s award winning farmhouse ciders. Established as a collaboration between farmer, Ian Rennie, and artist-turned-cidermaker, Peter Stuart, in 2008, Thistly Cross has gained a reputation for making ciders that people rave about.",
+				"url":"https://www.thistlycrosscider.co.uk/",
+				"image":"rest_thistly.png"
+			},
+			{
+				"title":"The Tuck Shop",
+				"description": "",
+				"url":"",
+				"image":"no_image.jpg"
+			},
+			{
+				"title":"The Wee Beer Shop",
+				"description": "The Wee Beer shop is a top notch craft beer store on Pollokshaws Rd. They've been in business since October 2017 and they'll be bringing along a selection of awesome beers for you to try.",
+				"url":"http://weebeershop.co.uk/",
+				"image":"rest_weebeer.jpg"
+			}
+
 		]
 	},
 	"beer": {

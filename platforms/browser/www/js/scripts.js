@@ -39,6 +39,10 @@ var ebf = (function () {
             setTimeout(
               ebf.initFood, 100);
           }
+          else if(page === "rest.html") {
+            setTimeout(
+              ebf.initRest, 100);
+          }
           content.bringPageTop(page, {animation: "slide"});
           console.log(content.pages);
         };
@@ -79,10 +83,9 @@ var ebf = (function () {
           ebf.pushData("dugs.html");
 
         }
-        else if(page.id === "ons-rest") {
-          ebf.pushData("rest.html");
 
-        }
+
+
       });
 
       document.addEventListener('show', function(event) {
@@ -93,11 +96,7 @@ var ebf = (function () {
         }
       });
 
-      document.addEventListener("backbutton", function(event) {
-        event.preventDefault();
-        return false;
-        //document.getElementById('ebfNavigator').popPage();
-      }, true);
+      
 
       ebf.setCountdown();
       ebf.map();
@@ -148,9 +147,6 @@ var ebf = (function () {
           ebf.doPush("dugs");
           break;
 
-        case "rest.html" :
-          ebf.doPush("rest");
-          break;
       }
     },
     doPush: function(page, data) {
@@ -218,10 +214,7 @@ var ebf = (function () {
           $("#dugs").html(globalData.dugs_pub.content);
 
           break;
-        case "rest":
-          $("#rest").html(globalData.rest.content);
 
-          break;
       }
 
     },
@@ -280,9 +273,20 @@ var ebf = (function () {
     writeFoodDetail: function(food) {
       var html = "<ons-card>";
       html += "<div class=\"beer-detail-header\">"+food.title+"</div>";
-      html += "<div class=\"content\">";
+      html += "<div class=\"content\"><img src=\"images/"+food.image+"\" width=\"37%\" style=\"float:left;padding:0 15px 0 0\"/>";
       html += food.description;
       html += "<br /><br /><div onclick=\"window.open('"+food.url+"','_system')\"><a href=\"#\" />"+food.url+"</a></div>";
+      html += "</div>";
+      html += "</ons-card>"
+
+      return html;
+    },
+    writeRestDetail: function(item) {
+      var html = "<ons-card>";
+      html += "<div class=\"beer-detail-header\">"+item.title+"</div>";
+      html += "<div class=\"content\"><img src=\"images/"+item.image+"\" width=\"37%\" style=\"float:left;padding:0 15px 0 0\"/>";
+      html += item.description;
+      html += "<br /><br /><div onclick=\"window.open('"+item.url+"','_system')\"><a href=\"#\" />"+item.url+"</a></div>";
       html += "</div>";
       html += "</ons-card>"
 
@@ -354,6 +358,13 @@ var ebf = (function () {
       $("#food-detail-container").html("");
       $.each(data.vendors, function() {
         $("#food-detail-container").append(ebf.writeFoodDetail(this));
+      });
+    },
+    initRest: function() {
+      var data = globalData.rest;
+      $("#rest").html("");
+      $.each(data.items, function() {
+        $("#rest").append(ebf.writeRestDetail(this));
       });
     },
     beerList: function(breweryID) {

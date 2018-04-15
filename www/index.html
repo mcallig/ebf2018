@@ -19,7 +19,12 @@
   <script>
   document.addEventListener("deviceready", onDeviceReady, false);
   function onDeviceReady() {
-        navigator.splashscreen.show();
+    document.addEventListener("backbutton", function(event) {
+        alert(1);
+        event.preventDefault();
+        return false;
+        //document.getElementById('ebfNavigator').popPage();
+      }, true);
     }
   ons.ready(function(){
     ebf.init();
@@ -166,7 +171,7 @@
               <ons-icon icon="fa-glass" class="list-item__icon"></ons-icon>
             </div>
             <div class="center">
-              THE REST
+              SOMETHING DIFFERENT
             </div>
           </ons-list-item>
           <ons-list-item onclick="fn.load('toDrink.html')" tappable>
@@ -374,7 +379,7 @@
           </ons-toolbar-button>
         </div>
         <div class="title-secondary center">
-          The Rest
+          Something Different
         </div>
       </ons-toolbar>
       <div id="rest" class="wrapper content">
