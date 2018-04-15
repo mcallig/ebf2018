@@ -20,8 +20,9 @@
   function onLoad() {
     document.addEventListener("deviceready", onDeviceReady, false);
   }
-  
+
   function onDeviceReady() {
+    alert(2);
     document.addEventListener("backbutton", function(event) {
         alert(1);
         event.preventDefault();
