@@ -17,7 +17,10 @@
   <script src="js/plugins/rateYo/jquery.rateyo.min.js"></script>
 
   <script>
-  document.addEventListener("deviceready", onDeviceReady, false);
+  function onLoad() {
+    document.addEventListener("deviceready", onDeviceReady, false);
+  }
+  
   function onDeviceReady() {
     document.addEventListener("backbutton", function(event) {
         alert(1);
@@ -127,7 +130,7 @@
   </script>
 
 </head>
-<body>
+<body onLoad="onLoad()">
   <ons-splitter>
     <ons-splitter-side id="menu" side="left" width="220px" collapse swipeable>
       <ons-page>
