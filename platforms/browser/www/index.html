@@ -28,9 +28,10 @@
         event.preventDefault();
         return false;
         //document.getElementById('ebfNavigator').popPage();
-      }, true);
+      }, false);
     }
   ons.ready(function(){
+
     document.addEventListener("backbutton", function(event) {
         alert(1);
         event.preventDefault();
