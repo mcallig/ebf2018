@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Security-Policy" content="img-src * data: https: ; media-src *">
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">-->
   <link href="https://fonts.googleapis.com/css?family=Palanquin+Dark|Shrikhand" rel="stylesheet">
   <link rel="stylesheet" href="css/onsenui.css">
   <link rel="stylesheet" href="css/onsen-css-components.min.css">
@@ -26,6 +27,7 @@
     }
   , true);
 
+  ons.disableAutoStatusBarFill();
   ons.ready(function(){
     ebf.init();
   });
@@ -131,7 +133,7 @@
 <body>
 
   <ons-splitter>
-    <ons-splitter-side id="menu" side="left" width="220px" collapse swipeable>
+    <ons-splitter-side id="menu" side="left" width="75%" collapse swipeable>
       <ons-page>
 
         <div class="menu-header bg-color-primary-1">MENU</div>
