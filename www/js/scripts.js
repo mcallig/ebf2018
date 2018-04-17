@@ -32,16 +32,16 @@ var ebf = (function () {
           }
           else if(page == "beer-list.html") {
             breweryId = data;
-            ebf.pushData("beer-list.html", breweryId);
+            //ebf.pushData("beer-list.html", breweryId);
           }
           else if(page == "beer-detail.html") {
             beerId = data;
-            ebf.initBeerDetail(breweryId, beerId);
+            //ebf.initBeerDetail(breweryId, beerId);
           }
           else if(page == "toDrink.html" && toDrinkInit)
           {
-            ebf.pushData("toDrink.html");
-            ebf.bindRemove();
+            //ebf.pushData("toDrink.html");
+            //ebf.bindRemove();
           }
           else if(page === "food.html") {
             setTimeout(
@@ -399,22 +399,6 @@ var ebf = (function () {
       }
       if($("#rest").html() == "")
         $("#rest").append(theRest);
-    },
-    beerList: function(breweryID) {
-      ebf.load("beer-list.html");
-      var x = setInterval(function() {
-        if($("#beer-list").length > 0)
-        {
-          clearInterval(x);
-          var brewery = eval("globalData.beer.breweries.brewery_"+breweryID);
-          
-          $("#beer-list-header").append("<a href=\"javascript:fn.load('beer.html')\">The Beer</a> | "+brewery.brewery_name);
-          $.each(brewery.beer_list.items, function() {
-            $("#beer-list").append(ebf.writeBeer(this, false));
-          });
-
-        }
-      });
     },
     beerDetail: function(breweryID, beerID) {
       var beer = eval("globalData.beer.breweries.brewery_"+breweryID+".beer_list.items");
