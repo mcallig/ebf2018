@@ -24,6 +24,12 @@
     <splash density="hdpi" height="480" platform="android" src="res/screen/android/screen-hdpi-land.png" width="800" />
     <splash density="ldpi" height="320" platform="android" src="res/screen/android/screen-ldpi-port.png" width="240" />
     <splash density="ldpi" height="240" platform="android" src="res/screen/android/screen-ldpi-land.png" width="400" />
+    <splash height="480" platform="ios" src="res/screen/ios/Default~iphone.png" width="320" />
+    <splash height="960" platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" />
+    <splash height="1136" platform="ios" src="res/screen/ios/Default-568h@2x~iphone.png" width="640" />
+    <splash height="1334" platform="ios" src="res/screen/ios/Default-667h.png" width="750" />
+    <splash height="2208" platform="ios" src="res/screen/ios/Default-736h.png" width="1242" />
+    <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="ShowSplashScreenSpinner" value="false" />
 </widget>

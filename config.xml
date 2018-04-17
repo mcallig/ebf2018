@@ -29,5 +29,15 @@
     <splash density="hdpi" height="480" platform="android" src="res/screen/android/screen-hdpi-land.png" width="800" />
     <splash density="ldpi" height="320" platform="android" src="res/screen/android/screen-ldpi-port.png" width="240" />
     <splash density="ldpi" height="240" platform="android" src="res/screen/android/screen-ldpi-land.png" width="400" />
+
+    <splash platform="ios" src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
+    <splash platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" height="960"/>
+    <splash platform="ios" src="res/screen/ios/Default-568h@2x~iphone.png" width="640" height="1136"/>
+    <splash platform="ios" src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
+    <splash platform="ios" src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
+    <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
+
+    
+
     <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
 </widget>
