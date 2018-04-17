@@ -65,12 +65,14 @@ var ebf = (function () {
           }
         }
         else if(page.id === "beer-list") {
+          $("#ons-beer-list").html("");
           ebf.pushData("beer-list.html", breweryId);
         }
         else if(page.id === "beer-detail") {
           ebf.initBeerDetail(breweryId, beerId);
         }
         else if(page.id === "toDrink-list") {
+          $("#ons-toDrink-list").html("");
           ebf.pushData("toDrink.html");
           ebf.bindRemove();
           toDrinkInit = true;
