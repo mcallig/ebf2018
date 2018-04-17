@@ -25,10 +25,10 @@ var ebf = (function () {
         var menu = document.getElementById('menu');
         menu.close();
           if(page === "information.html") {
-            /*setTimeout(function() {
+            setTimeout(function() {
               $("#about").html("<h2>"+globalData.information.about.title+"</h2>"+globalData.information.about.content);
               $("#travel").html("<h2>"+globalData.information.travel.title+"</h2>"+globalData.information.travel.content);
-            },200);*/
+            },200);
           }
           else if(page == "beer-list.html") {
             breweryId = data;
@@ -38,19 +38,7 @@ var ebf = (function () {
             beerId = data;
             //ebf.initBeerDetail(breweryId, beerId);
           }
-          else if(page == "toDrink.html" && toDrinkInit)
-          {
-            //ebf.pushData("toDrink.html");
-            //ebf.bindRemove();
-          }
-          else if(page === "food.html") {
-            setTimeout(
-              ebf.initFood, 100);
-          }
-          else if(page === "rest.html") {
-            setTimeout(
-              ebf.initRest, 100);
-          }
+
           content.bringPageTop(page, {animation: "slide"});
 
         };
@@ -78,12 +66,9 @@ var ebf = (function () {
         }
         else if(page.id === "beer-list") {
           ebf.pushData("beer-list.html", breweryId);
-
         }
         else if(page.id === "beer-detail") {
             ebf.initBeerDetail(breweryId, beerId);
-
-
         }
         else if(page.id === "toDrink-list") {
           ebf.pushData("toDrink.html");
@@ -94,6 +79,15 @@ var ebf = (function () {
           ebf.pushData("dugs.html");
 
         }
+        else if(page.id == "food")
+        {
+          ebf.initFood();
+        }
+        else if(page.id == "ons-rest")
+        {
+          ebf.initRest();
+        }
+
 
 
 
