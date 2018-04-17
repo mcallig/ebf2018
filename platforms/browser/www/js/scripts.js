@@ -65,27 +65,28 @@ var ebf = (function () {
           }
         }
         else if(page.id === "beer-list") {
-          ebf.pushData("beer-list.html", breweryId);
+          //ebf.pushData("beer-list.html", breweryId);
         }
         else if(page.id === "beer-detail") {
-            ebf.initBeerDetail(breweryId, beerId);
+            //ebf.initBeerDetail(breweryId, beerId);
         }
         else if(page.id === "toDrink-list") {
-          ebf.pushData("toDrink.html");
-          ebf.bindRemove();
-          toDrinkInit = true;
+          //ebf.pushData("toDrink.html");
+          //ebf.bindRemove();
+          //toDrinkInit = true;
         }
         else if(page.id === "ons-dugs") {
-          ebf.pushData("dugs.html");
+          //if($("#ons-dugs").html() != "")
+          //  ebf.pushData("dugs.html");
 
         }
         else if(page.id == "food")
         {
-          ebf.initFood();
+          //ebf.initFood();
         }
         else if(page.id == "ons-rest")
         {
-          ebf.initRest();
+          //ebf.initRest();
         }
 
 
