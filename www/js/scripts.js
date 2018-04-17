@@ -23,6 +23,7 @@ var ebf = (function () {
       window.fn.load = function(page, data) {
         var content = document.getElementById('ebfNavigator');
         var menu = document.getElementById('menu');
+
         menu.close();
           if(page === "information.html") {
             setTimeout(function() {
@@ -38,9 +39,12 @@ var ebf = (function () {
             beerId = data;
             //ebf.initBeerDetail(breweryId, beerId);
           }
-
-          content.bringPageTop(page, {animation: "slide"});
-
+          console.log(content);
+          if(page == "beer.html" || page == "beer-list.html" || page == "beer-detail.html")
+            content.bringPageTop(page, {animation: "slide"});
+          else {
+            content.resetToPage(page);
+          }
         };
 
 

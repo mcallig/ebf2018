@@ -23,6 +23,7 @@ var ebf = (function () {
       window.fn.load = function(page, data) {
         var content = document.getElementById('ebfNavigator');
         var menu = document.getElementById('menu');
+
         menu.close();
           if(page === "information.html") {
             setTimeout(function() {
@@ -38,9 +39,12 @@ var ebf = (function () {
             beerId = data;
             //ebf.initBeerDetail(breweryId, beerId);
           }
-
-          content.bringPageTop(page, {animation: "slide"});
-
+          console.log(content);
+          if(page == "beer.html" || page == "beer-list.html" || page == "beer-detail.html")
+            content.bringPageTop(page, {animation: "slide"});
+          else {
+            content.resetToPage(page);
+          }
         };
 
 
@@ -65,12 +69,14 @@ var ebf = (function () {
           }
         }
         else if(page.id === "beer-list") {
+          $("#ons-beer-list").html("");
           ebf.pushData("beer-list.html", breweryId);
         }
         else if(page.id === "beer-detail") {
           ebf.initBeerDetail(breweryId, beerId);
         }
         else if(page.id === "toDrink-list") {
+          $("#ons-toDrink-list").html("");
           ebf.pushData("toDrink.html");
           ebf.bindRemove();
           toDrinkInit = true;
