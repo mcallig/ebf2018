@@ -25,10 +25,10 @@ var ebf = (function () {
         var menu = document.getElementById('menu');
         menu.close();
           if(page === "information.html") {
-            setTimeout(function() {
+            /*setTimeout(function() {
               $("#about").html("<h2>"+globalData.information.about.title+"</h2>"+globalData.information.about.content);
               $("#travel").html("<h2>"+globalData.information.travel.title+"</h2>"+globalData.information.travel.content);
-            },200);
+            },200);*/
           }
           else if(page == "beer-list.html") {
             breweryId = data;
