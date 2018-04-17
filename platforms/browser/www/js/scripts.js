@@ -3,6 +3,9 @@ var ebf = (function () {
   var breweryId = -1;
   var beerId = -1;
   var toDrinkInit = false;
+  var theFood = "";
+  var theRest = "";
+
   return {
     init: function() {
       ebf.initData();
@@ -21,8 +24,13 @@ var ebf = (function () {
         var content = document.getElementById('ebfNavigator');
         var menu = document.getElementById('menu');
         menu.close();
-
-          if(page == "beer-list.html") {
+          if(page === "information.html") {
+            setTimeout(function() {
+              $("#about").html("<h2>"+globalData.information.about.title+"</h2>"+globalData.information.about.content);
+              $("#travel").html("<h2>"+globalData.information.travel.title+"</h2>"+globalData.information.travel.content);
+            },200);
+          }
+          else if(page == "beer-list.html") {
             breweryId = data;
             ebf.pushData("beer-list.html", breweryId);
           }
@@ -61,9 +69,12 @@ var ebf = (function () {
         var page = event.target;
 
         if(page.id === "beer") {
-          $.each(globalData.beer.breweries, function(key, value) {
-            $("#brewery-list").append(ebf.writeBrewery(key, value));
-          });
+          if($("#brewery-list").html() != "")
+          {
+            $.each(globalData.beer.breweries, function(key, value) {
+              $("#brewery-list").append(ebf.writeBrewery(key, value));
+            });
+          }
         }
         else if(page.id === "beer-list") {
           ebf.pushData("beer-list.html", breweryId);
@@ -88,13 +99,7 @@ var ebf = (function () {
 
       });
 
-      document.addEventListener('show', function(event) {
-        var page = event.target;
-        if(page.id === "information") {
-            $("#about").html("<h2>"+globalData.information.about.title+"</h2>"+globalData.information.about.content);
-            $("#travel").html("<h2>"+globalData.information.travel.title+"</h2>"+globalData.information.travel.content);
-        }
-      });
+
 
 
 
@@ -211,7 +216,8 @@ var ebf = (function () {
 
         break;
         case "dugs":
-          $("#dugs").html(globalData.dugs_pub.content);
+          if($("#dugs").html() != "")
+            $("#dugs").html(globalData.dugs_pub.content);
 
           break;
 
@@ -371,18 +377,28 @@ var ebf = (function () {
     }
     ,
     initFood: function() {
-      var data = globalData.food;
-      $("#food-detail-container").html("");
-      $.each(data.vendors, function() {
-        $("#food-detail-container").append(ebf.writeFoodDetail(this));
-      });
+      if(theFood == "")
+      {
+        var data = globalData.food;
+        $("#food-detail-container").html("");
+        $.each(data.vendors, function() {
+          theFood += ebf.writeFoodDetail(this);
+        });
+      }
+      if($("#food-detail-container").html() == "")
+        $("#food-detail-container").append(theFood);
     },
     initRest: function() {
-      var data = globalData.rest;
-      $("#rest").html("");
-      $.each(data.items, function() {
-        $("#rest").append(ebf.writeRestDetail(this));
-      });
+      if(theRest == "")
+      {
+        var data = globalData.rest;
+        $("#rest").html("");
+        $.each(data.items, function() {
+          theRest += ebf.writeRestDetail(this);
+        });
+      }
+      if($("#rest").html() == "")
+        $("#rest").append(theRest);
     },
     beerList: function(breweryID) {
       ebf.load("beer-list.html");
