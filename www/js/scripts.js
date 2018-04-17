@@ -52,7 +52,7 @@ var ebf = (function () {
               ebf.initRest, 100);
           }
           content.bringPageTop(page, {animation: "slide"});
-          console.log(content.pages);
+
         };
 
 
@@ -159,7 +159,7 @@ var ebf = (function () {
         case "beer-list":
           $("#ons-beer-list").html("<ons-list-header modifier=\"purple\" id=\"beer-list-header\">"+data.items[0].brewery.brewery_name+"</ons-list-header>");
           $.each(data.items, function() {
-            console.log(this);
+
             $("#ons-beer-list").append(ebf.writeBeer(this,false));
             var that = this;
             $("#"+this.beer.bid).rateYo({
@@ -332,7 +332,7 @@ var ebf = (function () {
           localStorage.setItem("fav_"+bid, JSON.stringify(f));
 
         }
-        console.log(localStorage);
+
       });
 
       $("#rating_"+data.beer.bid).rateYo({
@@ -407,7 +407,7 @@ var ebf = (function () {
         {
           clearInterval(x);
           var brewery = eval("globalData.beer.breweries.brewery_"+breweryID);
-          console.log(brewery);
+          
           $("#beer-list-header").append("<a href=\"javascript:fn.load('beer.html')\">The Beer</a> | "+brewery.brewery_name);
           $.each(brewery.beer_list.items, function() {
             $("#beer-list").append(ebf.writeBeer(this, false));
