@@ -34,7 +34,7 @@ var ebf = (function () {
                 $("#about").html("<h2>"+globalData.information.about.title+"</h2>"+globalData.information.about.content);
                 $("#travel").html("<h2>"+globalData.information.travel.title+"</h2>"+globalData.information.travel.content);
               };
-            },200);
+            },350);
           }
           else if(page == "beer-list.html") {
             breweryId = data;
