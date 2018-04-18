@@ -27,16 +27,7 @@ var ebf = (function () {
         var menu = document.getElementById('menu');
 
         menu.close();
-          if(page === "information.html") {
-            setTimeout(function() {
-              if($("#about").html() == "")
-              {
-                $("#about").html("<h2>"+globalData.information.about.title+"</h2>"+globalData.information.about.content);
-                $("#travel").html("<h2>"+globalData.information.travel.title+"</h2>"+globalData.information.travel.content);
-              };
-            },350);
-          }
-          else if(page == "beer-list.html") {
+          if(page == "beer-list.html") {
             breweryId = data;
             //ebf.pushData("beer-list.html", breweryId);
           }
