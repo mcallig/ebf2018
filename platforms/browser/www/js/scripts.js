@@ -22,17 +22,18 @@ var ebf = (function () {
         menu.open();
       };
 
-      window.fn.load = function(page, data) {
+      window.fn.load = function(page, brewery, beer) {
         var content = document.getElementById('ebfNavigator');
         var menu = document.getElementById('menu');
 
         menu.close();
           if(page == "beer-list.html") {
-            breweryId = data;
+            breweryId = brewery;
             //ebf.pushData("beer-list.html", breweryId);
           }
           else if(page == "beer-detail.html") {
-            beerId = data;
+            breweryId = brewery;
+            beerId = beer;
             //ebf.initBeerDetail(breweryId, beerId);
           }
 
@@ -223,7 +224,7 @@ var ebf = (function () {
       return brewery_item;
     },
     writeBeer: function(beer, toDrink) {
-      var brewery_item ="<ons-list-item onclick=\"fn.load('beer-detail.html'," +beer.beer.bid+")\" tappable id=\"beer_"+beer.beer.bid+"\">";
+      var brewery_item ="<ons-list-item onclick=\"fn.load('beer-detail.html',"+beer.brewery.brewery_id+"," +beer.beer.bid+")\" tappable id=\"beer_"+beer.beer.bid+"\">";
       brewery_item+= "<div class=\"left\">";
       brewery_item+= "  <img class=\"list-item__thumbnail\" src=\""+beer.beer.beer_label+"\">";
       brewery_item+= "</div>";
