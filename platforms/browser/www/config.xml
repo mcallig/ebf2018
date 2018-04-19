@@ -30,6 +30,29 @@
     <splash height="1334" platform="ios" src="res/screen/ios/Default-667h.png" width="750" />
     <splash height="2208" platform="ios" src="res/screen/ios/Default-736h.png" width="1242" />
     <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
+    <icon density="ldpi" platform="android" src="res/screen/android/icon-ldpi.png" />
+    <icon density="mdpi" platform="android" src="res/screen/android/icon-mdpi.png" />
+    <icon density="hdpi" platform="android" src="res/screen/android/icon-hdpi.png" />
+    <icon density="xhdpi" platform="android" src="res/screen/android/icon-xhdpi.png" />
+    <icon density="xxhdpi" platform="android" src="res/screen/android/icon-xxhdpi.png" />
+    <icon density="xxxhdpi" platform="android" src="res/screen/android/icon-xxxhdpi.png" />
+    <icon height="180" platform="ios" src="res/screen/ios/Icon-60@3x.png" width="180" />
+    <icon height="60" platform="ios" src="res/screen/ios/Icon-60.png" width="60" />
+    <icon height="120" platform="ios" src="res/screen/ios/Icon-60@2x.png" width="120" />
+    <icon height="76" platform="ios" src="res/screen/ios/Icon-76.png" width="76" />
+    <icon height="152" platform="ios" src="res/screen/ios/Icon-76@2x.png" width="152" />
+    <icon height="40" platform="ios" src="res/screen/ios/Icon-40.png" width="40" />
+    <icon height="80" platform="ios" src="res/screen/ios/Icon-40@2x.png" width="80" />
+    <icon height="57" platform="ios" src="res/screen/ios/Icon.png" width="57" />
+    <icon height="114" platform="ios" src="res/screen/ios/Icon@2x.png" width="114" />
+    <icon height="72" platform="ios" src="res/screen/ios/Icon-72.png" width="72" />
+    <icon height="144" platform="ios" src="res/screen/ios/Icon-72@2x.png" width="144" />
+    <icon height="167" platform="ios" src="res/screen/ios/Icon-167.png" width="167" />
+    <icon height="29" platform="ios" src="res/screen/ios/Icon-small.png" width="29" />
+    <icon height="58" platform="ios" src="res/screen/ios/Icon-small@2x.png" width="58" />
+    <icon height="50" platform="ios" src="res/screen/ios/Icon-50.png" width="50" />
+    <icon height="100" platform="ios" src="res/screen/ios/Icon-50@2x.png" width="100" />
+    <icon height="167" platform="ios" src="res/screen/ios/Icon-83.5@2x.png" width="167" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="ShowSplashScreenSpinner" value="false" />
 </widget>

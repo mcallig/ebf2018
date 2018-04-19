@@ -16,10 +16,6 @@
 		"title":"Dug's Pub",
 		"content":"If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. We have teamed up with leading pet store, The Pet Empawrium, to create a dedicated area to dog lovers. And we think this is the first pub of its kind in Scotland. <br /><br />Together, the EagBeerFest team and The Pet Empawrium will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival.<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. There may even be a dog-themed whisky to check out. Not only will they be serving up top doggy tipples, but the Pet Empawrium will be offering up an impressive range of their natural treats and foods. And on the day they will be joined by their fantastic veterinary team, Champion Vets, to offer a number of dog treatments, including grooming, free check-ups and training advice."
 	},
-	"rest": {
-		"title":"Something Different",
-		"content":"The rest"
-	},
 	"food": {
 		"title":"The Food",
 		"content":"",
@@ -65,12 +61,6 @@
 				"description": "Here's hoping Mighty Mexican can bring a touch of Mexican sunshine to the beer fest this year. You might remember them from their previous outings where they served up incredible frehly-made tacos, nachos and burritos.",
 				"url":"https://www.facebook.com/mightymexican1",
 				"image":"food_mightymexican.jpg"
-			},
-			{
-				"title":"Shrimp Wreck",
-				"description": "For all you seafood lovers out there we have a real treat for you. Shrimp Wreck have become firmly established on the Glasgow street food scene with regular appearances at Taste Buchanan and Platform at Glasgow Arches. They;ll be on hand to satisfy that craving for king prawn tempura and sweet potao fries.",
-				"url":"https://www.facebook.com/pg/shrimpwreck/",
-				"image":"food_shrimpwreck.jpg"
 			},
 			{
 				"title":"Street Food Putter Club",
@@ -158,6 +148,18 @@
 				"image":"rest_weebeer.jpg"
 			}
 
+		]
+	},
+	"music": {
+		"title":"Music",
+		"content":"",
+		"items" : [
+			{
+				"title":"Bangin' Beards",
+				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
+				"url":"https://www.banginbeards.com/",
+				"image":"rest_bb.jpg"
+			}
 		]
 	},
 	"beer": {

@@ -6,6 +6,122 @@
   "version": "com.phonegap.ebf",
   "description": "A blank PhoneGap app.",
   "author": "PhoneGap Team",
-  "icons": [],
+  "icons": [
+    {
+      "src": "res/screen/android/icon-ldpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "res/screen/android/icon-mdpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "res/screen/android/icon-hdpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "res/screen/android/icon-xhdpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "res/screen/android/icon-xxhdpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "res/screen/android/icon-xxxhdpi.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "res/screen/ios/Icon-60@3x.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "res/screen/ios/Icon-60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "res/screen/ios/Icon-60@2x.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "res/screen/ios/Icon-76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "res/screen/ios/Icon-76@2x.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "res/screen/ios/Icon-40.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "res/screen/ios/Icon-40@2x.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "res/screen/ios/Icon.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "res/screen/ios/Icon@2x.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "res/screen/ios/Icon-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "res/screen/ios/Icon-72@2x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "res/screen/ios/Icon-167.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "res/screen/ios/Icon-small.png",
+      "type": "image/png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "res/screen/ios/Icon-small@2x.png",
+      "type": "image/png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "res/screen/ios/Icon-50.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "res/screen/ios/Icon-50@2x.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "res/screen/ios/Icon-83.5@2x.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    }
+  ],
   "start_url": "index.html"
 }

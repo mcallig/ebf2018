@@ -6,7 +6,7 @@ var ebf = (function () {
   var theFood = "";
   var theRest = "";
   var dugs = "";
-  var music = "";
+  var theMusic = "";
 
   return {
     init: function() {
@@ -90,7 +90,11 @@ var ebf = (function () {
           if($("#rest").html() == "")
             ebf.initRest();
         }
-
+        else if(page.id == "ons-music")
+        {
+          if($("#music").html() == "")
+            ebf.initMusic();
+        }
 
 
 
@@ -304,6 +308,17 @@ var ebf = (function () {
 
       return html;
     },
+    writeMusicDetail: function(music) {
+      var html = "<ons-card>";
+      html += "<div class=\"beer-detail-header\">"+music.title+"</div>";
+      html += "<div class=\"content\"><img src=\"images/"+music.image+"\" width=\"37%\" style=\"float:left;padding:0 15px 0 0\"/>";
+      html += music.description;
+      html += "<br /><br /><div onclick=\"window.open('"+music.url+"','_system')\"><a href=\"#\" />"+music.url+"</a></div>";
+      html += "</div>";
+      html += "</ons-card>"
+
+      return html;
+    },
     initBeerDetail: function(breweryId, beerId) {
       var data = ebf.beerDetail(breweryId, beerId);
       $("#beer-detail-container").html(ebf.writeBeerDetail(data));
@@ -394,6 +409,19 @@ var ebf = (function () {
       }
       if($("#rest").html() == "")
         $("#rest").html(theRest);
+    },
+    initMusic: function() {
+      if(theMusic == "")
+      {
+        var data = globalData.music;
+        $("#music").html("");
+        $.each(data.items, function() {
+          theMusic += ebf.writeMusicDetail(this);
+        });
+      }
+      if($("#music").html() == "")
+        $("#music").html(theMusic);
+
     },
     beerDetail: function(breweryID, beerID) {
       var beer = eval("globalData.beer.breweries.brewery_"+breweryID+".beer_list.items");
