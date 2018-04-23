@@ -122,13 +122,35 @@ body, .list, .menu-header, .header-font {
   line-height:55px;
 }
 
+.home-content {
+  color:#fff;
+
+    height: 65vw;
+    width: 100%;
+    font-size: 4vw;
+    background:url(../images/home-dog.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
+    display:flex;
+    flex-direction: row;
+    flex:1;
+    align-items:flex-end;
+    text-align:right;
+    font-family: "Palanquin Dark";
+}
+
+.right-text {
+  width:70%;
+}
+.left-text {
+  text-align:left;
+  width:30%;
+}
+
 .countdown-container {
   width: 100%;
   min-height:100%;
-  text-align:center;
-  display:flex;
-  flex-direction: column;
-  flex:1;
+
 }
 
 .countdown-date {
@@ -286,9 +308,13 @@ i.fa-star {
 }
 
 .home-text {
-  padding:10px 0;
   color:#fff;
   font-size:1.5em;
+  width:100%;
+  display:flex;
+  margin:10px;
+  line-height:120%;
+  text-shadow: 2px 2px #000;
 }
 
 .logo {

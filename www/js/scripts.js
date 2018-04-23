@@ -104,7 +104,7 @@ var ebf = (function () {
 
 
 
-      ebf.setCountdown();
+      //ebf.setCountdown();
       ebf.map();
     },
 
