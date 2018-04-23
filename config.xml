@@ -61,5 +61,4 @@
     <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
     <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
     <preference name="StatusBarOverlaysWebView" value="true" />
-    <preference name="StatusBarBackgroundColor" value="#ffffff" />
 </widget>
