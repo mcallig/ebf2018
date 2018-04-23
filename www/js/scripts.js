@@ -11,8 +11,8 @@ var ebf = (function () {
   return {
     init: function() {
       ebf.initData();
-      ons.disableAutoStyling();
-      //ons.platform.select('android'); // probably not necessary, but hey, why not.
+      //ons.disableAutoStyling();
+      ons.platform.select('android'); // probably not necessary, but hey, why not.
       ons.forcePlatformStyling('android');
 
       window.fn = {};
