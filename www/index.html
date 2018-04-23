@@ -22,13 +22,14 @@
   <script>
   document.addEventListener("deviceready",
     function() {
+      ons.disableAutoStatusBarFill();
       document.addEventListener("backbutton", function() {
         }, false);
     }
   , true);
 
 
-  //ons.disableAutoStatusBarFill();
+
   ons.ready(function(){
     ebf.init();
 
