@@ -29,55 +29,37 @@
     <splash density="hdpi" height="480" platform="android" src="res/screen/android/screen-hdpi-land.png" width="800" />
     <splash density="ldpi" height="320" platform="android" src="res/screen/android/screen-ldpi-port.png" width="240" />
     <splash density="ldpi" height="240" platform="android" src="res/screen/android/screen-ldpi-land.png" width="400" />
-
-    <splash platform="ios" src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
-    <splash platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" height="960"/>
-    <splash platform="ios" src="res/screen/ios/Default-568h@2x~iphone.png" width="640" height="1136"/>
-    <splash platform="ios" src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
-    <splash platform="ios" src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
+    <splash height="480" platform="ios" src="res/screen/ios/Default~iphone.png" width="320" />
+    <splash height="960" platform="ios" src="res/screen/ios/Default@2x~iphone.png" width="640" />
+    <splash height="1136" platform="ios" src="res/screen/ios/Default-568h@2x~iphone.png" width="640" />
+    <splash height="1334" platform="ios" src="res/screen/ios/Default-667h.png" width="750" />
+    <splash height="2208" platform="ios" src="res/screen/ios/Default-736h.png" width="1242" />
     <splash src="res/screen/ios/Default@2x~universal~anyany.png" />
-
-    <icon platform="android" src="res/screen/android/icon-ldpi.png" density="ldpi" />
-    <icon platform="android" src="res/screen/android/icon-mdpi.png" density="mdpi" />
-    <icon platform="android" src="res/screen/android/icon-hdpi.png" density="hdpi" />
-    <icon platform="android" src="res/screen/android/icon-xhdpi.png" density="xhdpi" />
-    <icon platform="android" src="res/screen/android/icon-xxhdpi.png" density="xxhdpi" />
-    <icon platform="android" src="res/screen/android/icon-xxxhdpi.png" density="xxxhdpi" />
-
-
-    <!-- iOS 8.0+ -->
-    <!-- iPhone 6 Plus  -->
-    <icon platform="ios" src="res/screen/ios/Icon-60@3x.png" width="180" height="180" />
-    <!-- iOS 7.0+ -->
-    <!-- iPhone / iPod Touch  -->
-    <icon platform="ios" src="res/screen/ios/Icon-60.png" width="60" height="60" />
-    <icon platform="ios" src="res/screen/ios/Icon-60@2x.png" width="120" height="120" />
-    <!-- iPad -->
-    <icon platform="ios" src="res/screen/ios/Icon-76.png" width="76" height="76" />
-    <icon platform="ios" src="res/screen/ios/Icon-76@2x.png" width="152" height="152" />
-    <!-- Spotlight Icon -->
-    <icon platform="ios" src="res/screen/ios/Icon-40.png" width="40" height="40" />
-    <icon platform="ios" src="res/screen/ios/Icon-40@2x.png" width="80" height="80" />
-    <!-- iOS 6.1 -->
-    <!-- iPhone / iPod Touch -->
-    <icon platform="ios" src="res/screen/ios/Icon.png" width="57" height="57" />
-    <icon platform="ios" src="res/screen/ios/Icon@2x.png" width="114" height="114" />
-    <!-- iPad -->
-    <icon platform="ios" src="res/screen/ios/Icon-72.png" width="72" height="72" />
-    <icon platform="ios" src="res/screen/ios/Icon-72@2x.png" width="144" height="144" />
-    <!-- iPad Pro -->
-    <icon platform="ios" src="res/screen/ios/Icon-167.png" width="167" height="167" />
-    <!-- iPhone Spotlight and Settings Icon -->
-    <icon platform="ios" src="res/screen/ios/Icon-small.png" width="29" height="29" />
-    <icon platform="ios" src="res/screen/ios/Icon-small@2x.png" width="58" height="58" />
-    <!-- iPad Spotlight and Settings Icon -->
-    <icon platform="ios" src="res/screen/ios/Icon-50.png" width="50" height="50" />
-    <icon platform="ios" src="res/screen/ios/Icon-50@2x.png" width="100" height="100" />
-    <!-- iPad Pro -->
-    <icon platform="ios" src="res/screen/ios/Icon-83.5@2x.png" width="167" height="167" />
-
-
-
-
+    <icon density="ldpi" platform="android" src="res/screen/android/icon-ldpi.png" />
+    <icon density="mdpi" platform="android" src="res/screen/android/icon-mdpi.png" />
+    <icon density="hdpi" platform="android" src="res/screen/android/icon-hdpi.png" />
+    <icon density="xhdpi" platform="android" src="res/screen/android/icon-xhdpi.png" />
+    <icon density="xxhdpi" platform="android" src="res/screen/android/icon-xxhdpi.png" />
+    <icon density="xxxhdpi" platform="android" src="res/screen/android/icon-xxxhdpi.png" />
+    <icon height="180" platform="ios" src="res/screen/ios/Icon-60@3x.png" width="180" />
+    <icon height="60" platform="ios" src="res/screen/ios/Icon-60.png" width="60" />
+    <icon height="120" platform="ios" src="res/screen/ios/Icon-60@2x.png" width="120" />
+    <icon height="76" platform="ios" src="res/screen/ios/Icon-76.png" width="76" />
+    <icon height="152" platform="ios" src="res/screen/ios/Icon-76@2x.png" width="152" />
+    <icon height="40" platform="ios" src="res/screen/ios/Icon-40.png" width="40" />
+    <icon height="80" platform="ios" src="res/screen/ios/Icon-40@2x.png" width="80" />
+    <icon height="57" platform="ios" src="res/screen/ios/Icon.png" width="57" />
+    <icon height="114" platform="ios" src="res/screen/ios/Icon@2x.png" width="114" />
+    <icon height="72" platform="ios" src="res/screen/ios/Icon-72.png" width="72" />
+    <icon height="144" platform="ios" src="res/screen/ios/Icon-72@2x.png" width="144" />
+    <icon height="167" platform="ios" src="res/screen/ios/Icon-167.png" width="167" />
+    <icon height="29" platform="ios" src="res/screen/ios/Icon-small.png" width="29" />
+    <icon height="58" platform="ios" src="res/screen/ios/Icon-small@2x.png" width="58" />
+    <icon height="50" platform="ios" src="res/screen/ios/Icon-50.png" width="50" />
+    <icon height="100" platform="ios" src="res/screen/ios/Icon-50@2x.png" width="100" />
+    <icon height="167" platform="ios" src="res/screen/ios/Icon-83.5@2x.png" width="167" />
     <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
+    <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#ffffff" />
 </widget>
