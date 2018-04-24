@@ -148,16 +148,38 @@ var ebf = (function () {
             return element.id == parseInt(now.id) + 1
           });
 
+          var later = globalData.schedule.items.find(function(element){
+            return element.id == parseInt(next.id) + 1
+          });
+
           if(typeof now != "undefined")
           {
-            $("#now-title").html(now.title );
+            $("#now-title").html(now.title);
             $("#now-subtitle").html(now.where + " - " + now.start + " to " + now.end);
+          }
+          else
+          {
+              $("#now-title").html("There's nothing on. Have a beer instead.");
           }
 
           if(typeof next != "undefined")
           {
             $("#next-title").html(next.title);
             $("#next-subtitle").html(next.where + " - " + next.start + " to " + next.end);
+          }
+          else
+          {
+              $("#next-title").html("There's nothing on. Have a beer instead.");
+          }
+
+          if(typeof later != "undefined")
+          {
+            $("#later-title").html(later.title);
+            $("#later-subtitle").html(later.where + " - " + later.start + " to " + later.end);
+          }
+          else
+          {
+              $("#later-title").html("There's nothing on. Have a beer instead.");
           }
         }
       });
