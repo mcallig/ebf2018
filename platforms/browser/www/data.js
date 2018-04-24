@@ -4,7 +4,7 @@
 	"information": {
 		"about": {
 			"title": "About",
-			"content": "Join us on Saturday, June 2 for the fourth annual Eaglesham Beer Festival.  The festival kicks off at 11am for VIP ticket holders, 12 noon for everyone else, and will run until 7pm – and it’s going to be huge.  Despite having over 3500 revellers through our gates last year, there were still hundreds who were left disappointed because they hadn’t bought tickets in advance.<br /><br />Being queued out the door for much of the day showed us just how much you want to be part of the special day, so this year we are selling more tickets to stop you, our loyal patrons, being turned away at the gates – but make sure and be quick, because once they are gone, they are gone.<br /><br />As usual, we’ll have some of the finest beers and brewers Scotland has to offer, with fine wines, prosecco and some of the finest street food vendors and fayre around. On top of that we’ll have a brand new, innovative gin created and bottled with one of Scotland’s most sought after botanists. And not only will there be plenty to keep the tastebuds and belly happy, there will be foot-stomping, hand-raising, head-bopping music from a number of top quality musicians. There might even be something for our four-legged friends.<br /><br />As usual, you’ll have to stay tuned here on our website, on our social media channels, and traditional media for up-to-date information about what’s sure to be our biggest and best festival yet."
+			"content": "Join us on Saturday, June 2 for the fourth annual Eaglesham Beer Festival.  The festival kicks off at 11am for VIP ticket holders, 12 noon for everyone else, and will run until 7pm - and it's going to be huge.  Despite having over 3500 revellers through our gates last year, there were still hundreds who were left disappointed because they hadn't bought tickets in advance.<br /><br />Being queued out the door for much of the day showed us just how much you want to be part of the special day, so this year we are selling more tickets to stop you, our loyal patrons, being turned away at the gates - but make sure and be quick, because once they are gone, they are gone.<br /><br />As usual, we'll have some of the finest beers and brewers Scotland has to offer, with fine wines, prosecco and some of the finest street food vendors and fayre around. On top of that we'll have a brand new, innovative gin created and bottled with one of Scotland's most sought after botanists. And not only will there be plenty to keep the tastebuds and belly happy, there will be foot-stomping, hand-raising, head-bopping music from a number of top quality musicians. There might even be something for our four-legged friends.<br /><br />As usual, you'll have to stay tuned here on our website, on our social media channels, and traditional media for up-to-date information about what's sure to be our biggest and best festival yet."
 		},
 		"travel": {
 			"title": "Travel",
@@ -14,7 +14,7 @@
 	},
 	"dugs_pub": {
 		"title":"Dug's Pub",
-		"content":"If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. We have teamed up with leading pet store, The Pet Empawrium, to create a dedicated area to dog lovers. And we think this is the first pub of its kind in Scotland. <br /><br />Together, the EagBeerFest team and The Pet Empawrium will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival.<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. There may even be a dog-themed whisky to check out. Not only will they be serving up top doggy tipples, but the Pet Empawrium will be offering up an impressive range of their natural treats and foods. And on the day they will be joined by their fantastic veterinary team, Champion Vets, to offer a number of dog treatments, including grooming, free check-ups and training advice."
+		"content":"If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug's Pub is for you. We have teamed up with leading pet store, The Pet Empawrium, to create a dedicated area to dog lovers. And we think this is the first pub of its kind in Scotland. <br /><br />Together, the EagBeerFest team and The Pet Empawrium will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year's event. There'll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug's Pub well kitted-out to make sure your dog enjoys the festival.<br /><br />Dug's Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own - and that's human beer. There may even be a dog-themed whisky to check out. Not only will they be serving up top doggy tipples, but the Pet Empawrium will be offering up an impressive range of their natural treats and foods. And on the day they will be joined by their fantastic veterinary team, Champion Vets, to offer a number of dog treatments, including grooming, free check-ups and training advice."
 	},
 	"food": {
 		"title":"The Food",
@@ -131,7 +131,7 @@
 			},
 			{
 				"title":"Thistly Cross Cider",
-				"description": "Born out of a passion for making cider in the best possible way, combined with belief in the quality of Scottish produce, and asking ‘why not?’, came Thistly Cross Cider, Scotland’s award winning farmhouse ciders. Established as a collaboration between farmer, Ian Rennie, and artist-turned-cidermaker, Peter Stuart, in 2008, Thistly Cross has gained a reputation for making ciders that people rave about.",
+				"description": "Born out of a passion for making cider in the best possible way, combined with belief in the quality of Scottish produce, and asking ‘why not?', came Thistly Cross Cider, Scotland's award winning farmhouse ciders. Established as a collaboration between farmer, Ian Rennie, and artist-turned-cidermaker, Peter Stuart, in 2008, Thistly Cross has gained a reputation for making ciders that people rave about.",
 				"url":"https://www.thistlycrosscider.co.uk/",
 				"image":"rest_thistly.png"
 			},
@@ -2207,7 +2207,7 @@
 							"badge_id": 5606,
 							"user_badge_id": 309997775,
 							"badge_name": "Verified Adventure (Level 26)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 130 check-ins at venue that is verified. Try 5 more for Level 27!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 130 check-ins at venue that is verified. Try 5 more for Level 27!",
 							"created_at": "Wed, 28 Feb 2018 18:39:54 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -2350,7 +2350,7 @@
 							"badge_id": 5614,
 							"user_badge_id": 309997470,
 							"badge_name": "Verified Adventure (Level 34)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 170 check-ins at venue that is verified. Try 5 more for Level 35!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 170 check-ins at venue that is verified. Try 5 more for Level 35!",
 							"created_at": "Wed, 28 Feb 2018 18:38:17 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -2817,7 +2817,7 @@
 							"badge_id": 5590,
 							"user_badge_id": 309474791,
 							"badge_name": "Verified Adventure (Level 10)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 50 check-ins at venue that is verified. Try 5 more for Level 11!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 50 check-ins at venue that is verified. Try 5 more for Level 11!",
 							"created_at": "Sun, 25 Feb 2018 22:53:32 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -5086,7 +5086,7 @@
 				"items": [{
 					"checkin_id": 541210056,
 					"created_at": "Fri, 22 Dec 2017 21:34:10 +0000",
-					"checkin_comment": "This is really good. It’s light and fruity. Big hop kick. Well played!",
+					"checkin_comment": "This is really good. It's light and fruity. Big hop kick. Well played!",
 					"rating_score": 4,
 					"user": {
 						"uid": 1990005,
@@ -8424,7 +8424,7 @@
 							"badge_id": 5,
 							"user_badge_id": 310590510,
 							"badge_name": "Master",
-							"badge_description": "Total Beer Domination. We’re not worthy. That's over 200 different brews!",
+							"badge_description": "Total Beer Domination. We're not worthy. That's over 200 different brews!",
 							"created_at": "Fri, 02 Mar 2018 19:52:33 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_check200_sm.jpg",
@@ -8435,7 +8435,7 @@
 							"badge_id": 260,
 							"user_badge_id": 310590513,
 							"badge_name": "Heavy Weight (Level 3)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 15 different beers with the style of Porter or Stout. Try 5 more to unlock Level 4.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 15 different beers with the style of Porter or Stout. Try 5 more to unlock Level 4.",
 							"created_at": "Fri, 02 Mar 2018 19:52:33 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -8705,7 +8705,7 @@
 							"badge_id": 94370,
 							"user_badge_id": 310588783,
 							"badge_name": "Photogenic Brew (Level 85)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 425 check-ins with a photo. Try 5 more for Level 86!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 425 check-ins with a photo. Try 5 more for Level 86!",
 							"created_at": "Fri, 02 Mar 2018 19:49:18 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -9052,7 +9052,7 @@
 							"badge_id": 1805,
 							"user_badge_id": 310586217,
 							"badge_name": "Photogenic Brew (Level 19)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 95 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 95 check-ins with a photo. ",
 							"created_at": "Fri, 02 Mar 2018 19:44:36 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -9747,7 +9747,7 @@
 							"badge_id": 1804,
 							"user_badge_id": 310559440,
 							"badge_name": "Photogenic Brew (Level 18)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 90 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 90 check-ins with a photo. ",
 							"created_at": "Fri, 02 Mar 2018 18:51:49 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -10304,7 +10304,7 @@
 						"beer_abv": 10,
 						"beer_ibu": 0,
 						"beer_slug": "fallen-brewing-co-big-raspberry-dog-chew",
-						"beer_description": "BrewDog #Collabfest 2015: Last year we thought our annual festival of UK brewing collaboration couldn’t get any bigger. And now here we are, twelve months later and #Collabfest is set to return for a third year running – bigger and better than ever.\r\n\r\nEmbrace the creativity and ingenuity of #Collabfest! In case you’re new here – each year we hook up our amazing UK bar teams with a local craft brewery and give them a blank brewsheet. What results is up to the newly-fledged partnership...\r\n\r\nBrewDog Glasgow and Fallen teamed up to produce Big Raspberry Dog Chew, a 10% raspberry salted caramel imperial milk stout.",
+						"beer_description": "BrewDog #Collabfest 2015: Last year we thought our annual festival of UK brewing collaboration couldn't get any bigger. And now here we are, twelve months later and #Collabfest is set to return for a third year running - bigger and better than ever.\r\n\r\nEmbrace the creativity and ingenuity of #Collabfest! In case you're new here - each year we hook up our amazing UK bar teams with a local craft brewery and give them a blank brewsheet. What results is up to the newly-fledged partnership...\r\n\r\nBrewDog Glasgow and Fallen teamed up to produce Big Raspberry Dog Chew, a 10% raspberry salted caramel imperial milk stout.",
 						"is_in_production": 1,
 						"created_at": "Fri, 16 Oct 2015 22:01:58 +0000",
 						"rating_score": 4.203,
@@ -13070,7 +13070,7 @@
 				}, {
 					"checkin_id": 567390463,
 					"created_at": "Thu, 01 Mar 2018 17:10:05 +0000",
-					"checkin_comment": "Black metal and above 6% ABV pale? Why they’re two of my favourite things.",
+					"checkin_comment": "Black metal and above 6% ABV pale? Why they're two of my favourite things.",
 					"rating_score": 3.5,
 					"user": {
 						"uid": 3019801,
@@ -13373,7 +13373,7 @@
 							"badge_id": 94346,
 							"user_badge_id": 310018435,
 							"badge_name": "Photogenic Brew (Level 61)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 305 check-ins with a photo. Try 5 more for Level 62!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 305 check-ins with a photo. Try 5 more for Level 62!",
 							"created_at": "Wed, 28 Feb 2018 20:11:53 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -16084,7 +16084,7 @@
 							"badge_id": 5589,
 							"user_badge_id": 310574859,
 							"badge_name": "Verified Adventure (Level 9)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 45 check-ins at venue that is verified. Try 5 more for Level 10!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 45 check-ins at venue that is verified. Try 5 more for Level 10!",
 							"created_at": "Fri, 02 Mar 2018 19:22:52 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -16180,7 +16180,7 @@
 							"badge_id": 5644,
 							"user_badge_id": 310568451,
 							"badge_name": "Wheel of Styles (Level 15)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 75 different styles. Try 5 more for Level 16!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 75 different styles. Try 5 more for Level 16!",
 							"created_at": "Fri, 02 Mar 2018 19:10:37 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -16306,7 +16306,7 @@
 							"badge_id": 5643,
 							"user_badge_id": 310567328,
 							"badge_name": "Wheel of Styles (Level 14)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 70 different styles. Try 5 more for Level 15!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 70 different styles. Try 5 more for Level 15!",
 							"created_at": "Fri, 02 Mar 2018 19:08:23 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -16525,7 +16525,7 @@
 							"badge_id": 5632,
 							"user_badge_id": 310535471,
 							"badge_name": "Wheel of Styles (Level 3)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 15 different styles. Try 5 more for Level 4!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 15 different styles. Try 5 more for Level 4!",
 							"created_at": "Fri, 02 Mar 2018 17:54:28 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -17519,7 +17519,7 @@
 							"badge_id": 5581,
 							"user_badge_id": 310292445,
 							"badge_name": "Verified Adventure",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 5 check-ins at venue that is verified. Try 5 more for Level 2!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 5 check-ins at venue that is verified. Try 5 more for Level 2!",
 							"created_at": "Thu, 01 Mar 2018 21:57:40 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -17530,7 +17530,7 @@
 							"badge_id": 5638,
 							"user_badge_id": 310292446,
 							"badge_name": "Wheel of Styles (Level 9)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 45 different styles. Try 5 more for Level 10!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 45 different styles. Try 5 more for Level 10!",
 							"created_at": "Thu, 01 Mar 2018 21:57:40 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -18044,7 +18044,7 @@
 				"count": 22091,
 				"rating_score": 3.621
 			},
-			"brewery_description": "We were born from a passion for Belgian beer\r\n\r\nBelgian Beer is widely recognised as the pinnacle of the brewing process and we have embraced the Belgian Style. Adopting traditions and processes whilst developing and pushing boundaries to supply the growing appetite for craft/artisan beers.\r\n\r\nWe are Brewing in North East Scotland, six°north of Brussels. Blessed with pure, soft water and fields abound with high quality barley.\r\n\r\nWe won’t tamper with nature’s intent. All our beers are unfiltered and carbonated naturally through secondary fermentation.\r\n\r\nWe love Beer too. These processes provide the aspirational drinker with a live, full and uncompromising experience that will continually evolve.\r\n\r\nWE ARE SIX°NORTH.",
+			"brewery_description": "We were born from a passion for Belgian beer\r\n\r\nBelgian Beer is widely recognised as the pinnacle of the brewing process and we have embraced the Belgian Style. Adopting traditions and processes whilst developing and pushing boundaries to supply the growing appetite for craft/artisan beers.\r\n\r\nWe are Brewing in North East Scotland, six°north of Brussels. Blessed with pure, soft water and fields abound with high quality barley.\r\n\r\nWe won't tamper with nature's intent. All our beers are unfiltered and carbonated naturally through secondary fermentation.\r\n\r\nWe love Beer too. These processes provide the aspirational drinker with a live, full and uncompromising experience that will continually evolve.\r\n\r\nWE ARE SIX°NORTH.",
 			"stats": {
 				"total_count": 27406,
 				"unique_count": 9868,
@@ -19332,7 +19332,7 @@
 							"badge_id": 94374,
 							"user_badge_id": 310557212,
 							"badge_name": "Photogenic Brew (Level 89)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 445 check-ins with a photo. Try 5 more for Level 90!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 445 check-ins with a photo. Try 5 more for Level 90!",
 							"created_at": "Fri, 02 Mar 2018 18:46:51 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -19648,7 +19648,7 @@
 							"badge_id": 5583,
 							"user_badge_id": 310532536,
 							"badge_name": "Verified Adventure (Level 3)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 15 check-ins at venue that is verified. Try 5 more for Level 4!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 15 check-ins at venue that is verified. Try 5 more for Level 4!",
 							"created_at": "Fri, 02 Mar 2018 17:46:50 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -20077,7 +20077,7 @@
 							"badge_id": 5636,
 							"user_badge_id": 310338024,
 							"badge_name": "Wheel of Styles (Level 7)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 35 different styles. Try 5 more for Level 8!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 35 different styles. Try 5 more for Level 8!",
 							"created_at": "Thu, 01 Mar 2018 23:50:50 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -20111,7 +20111,7 @@
 						"beer_abv": 9.5,
 						"beer_ibu": 0,
 						"beer_slug": "six-north-chapeau",
-						"beer_description": "CHAPEAU is literally translated as ‘hat’, but it means far more. Used to indicate respect for a fellow cyclist’s monumental endeavours, Chapeau! This is 6DN's tipping of the cap to Duvel’s Triple Hop.\r\n\r\nCHAPEAU was dry hopped with Citra to provide a\r\nfruity yet refined flavour whilst the earthy spiciness\r\nof the Saaz and Styrian Goldings contribute to a\r\nlong, bittersweet finish.\r\n\r\nEffervescent notes of honeydew\r\nmelon in the aroma and a robust mouthfeel blends\r\nwith a lime zestiness on the palate.",
+						"beer_description": "CHAPEAU is literally translated as ‘hat', but it means far more. Used to indicate respect for a fellow cyclist's monumental endeavours, Chapeau! This is 6DN's tipping of the cap to Duvel's Triple Hop.\r\n\r\nCHAPEAU was dry hopped with Citra to provide a\r\nfruity yet refined flavour whilst the earthy spiciness\r\nof the Saaz and Styrian Goldings contribute to a\r\nlong, bittersweet finish.\r\n\r\nEffervescent notes of honeydew\r\nmelon in the aroma and a robust mouthfeel blends\r\nwith a lime zestiness on the palate.",
 						"beer_style": "Pale Ale - Belgian",
 						"has_had": false,
 						"beer_active": 1
@@ -20356,7 +20356,7 @@
 						"beer_abv": 9.5,
 						"beer_ibu": 0,
 						"beer_slug": "six-north-chapeau",
-						"beer_description": "CHAPEAU is literally translated as ‘hat’, but it means far more. Used to indicate respect for a fellow cyclist’s monumental endeavours, Chapeau! This is 6DN's tipping of the cap to Duvel’s Triple Hop.\r\n\r\nCHAPEAU was dry hopped with Citra to provide a\r\nfruity yet refined flavour whilst the earthy spiciness\r\nof the Saaz and Styrian Goldings contribute to a\r\nlong, bittersweet finish.\r\n\r\nEffervescent notes of honeydew\r\nmelon in the aroma and a robust mouthfeel blends\r\nwith a lime zestiness on the palate.",
+						"beer_description": "CHAPEAU is literally translated as ‘hat', but it means far more. Used to indicate respect for a fellow cyclist's monumental endeavours, Chapeau! This is 6DN's tipping of the cap to Duvel's Triple Hop.\r\n\r\nCHAPEAU was dry hopped with Citra to provide a\r\nfruity yet refined flavour whilst the earthy spiciness\r\nof the Saaz and Styrian Goldings contribute to a\r\nlong, bittersweet finish.\r\n\r\nEffervescent notes of honeydew\r\nmelon in the aroma and a robust mouthfeel blends\r\nwith a lime zestiness on the palate.",
 						"beer_style": "Pale Ale - Belgian",
 						"has_had": false,
 						"beer_active": 1
@@ -21437,7 +21437,7 @@
 						"beer_abv": 6.6,
 						"beer_ibu": 66,
 						"beer_slug": "six-north-hop-classic",
-						"beer_description": "If you want Hops…we got it! Easily BrewBob’s fav.\n\nDried apricot, sweet butter scotch, bitter citrus and pistachio aromas. Full flavoured, hoppy, refreshing and balanced on the palate. The bitterness is well integrated in true Belgian style with a pleasant kick in the end.\n\nWe’d pair with baked fish, tapenade and pearl barley risotto.",
+						"beer_description": "If you want Hops…we got it! Easily BrewBob's fav.\n\nDried apricot, sweet butter scotch, bitter citrus and pistachio aromas. Full flavoured, hoppy, refreshing and balanced on the palate. The bitterness is well integrated in true Belgian style with a pleasant kick in the end.\n\nWe'd pair with baked fish, tapenade and pearl barley risotto.",
 						"is_in_production": 1,
 						"created_at": "Fri, 22 Mar 2013 12:29:12 +0000",
 						"rating_score": 3.595,
@@ -21481,7 +21481,7 @@
 						"beer_abv": 6,
 						"beer_ibu": 0,
 						"beer_slug": "six-north-four-saisons",
-						"beer_description": "As the name suggests a SixºNorth beer for all occasions! Especially when you’ve got a rich thirst on!\n\nClean aromas of rich lime, lemon and walnut move to a super fresh palate of juicy fruit, lime pastille and floral hints.\n\nA belter of a beer in a balanced and refreshing style originally made for the farm workers in the summer heat.\n\nSaison and a light Thai curry…done!",
+						"beer_description": "As the name suggests a SixºNorth beer for all occasions! Especially when you've got a rich thirst on!\n\nClean aromas of rich lime, lemon and walnut move to a super fresh palate of juicy fruit, lime pastille and floral hints.\n\nA belter of a beer in a balanced and refreshing style originally made for the farm workers in the summer heat.\n\nSaison and a light Thai curry…done!",
 						"is_in_production": 1,
 						"created_at": "Sat, 23 Mar 2013 03:46:48 +0000",
 						"rating_score": 3.628,
@@ -22485,7 +22485,7 @@
 				"count": 992,
 				"rating_score": 3.443
 			},
-			"brewery_description": "OPENED in June 1st 2016, our brewery is based in South Queensferry; the first and only brewery in The Ferry since 1851. We have started with humble beginnings and hope to develop a great reputation for good tasting quality beer that grows beyond the shores of South Queensferry.\n\nQueensferry is known for its wealth of history – from the Forth Bridge, Forth Road Bridge and the new Queensferry Crossing Bridge – so we wanted to contribute to the historic attraction by creating a revival of local brewing in The Ferry after 165 years. Our goal is to encapsulate the history of the Ferry in our brewery as evidenced in our logo and the names of our beers. Our beers will combine traditional and historic beer recipes with a contemporary twist.\n\nAdditionally, we expect that the Brewery will provide an additional point of interest – place to go and something to do - for residents, visitors and tourists alike where they can explore the history of brewing in The Ferry, witness the handcrafting of beer and enjoy a good pint. Once the Brewery is opened to the public, customers will be able to take a brewery tour during the allotted times. Coming soon will be our Tap Bar where customers will be able to sample various beers – pale ales, bitters, reds, porters, 80/-s, stouts - before buying bottles, mini casks and beer-to-go varieties. We will also craft seasonal as well as Brewer specialities from time to time. In addition to handcrafted beers, customers will be able to purchase a wee brewery gift item as a token of their visit.\n\nWith over 25 years of home brewing, 4+ years of planning, brew school, over a year and a half of crafting beers for tasters and months of sweat & tears to finance, design, renovate, construct our premises, we are happy to have started production of our handcrafted beers.",
+			"brewery_description": "OPENED in June 1st 2016, our brewery is based in South Queensferry; the first and only brewery in The Ferry since 1851. We have started with humble beginnings and hope to develop a great reputation for good tasting quality beer that grows beyond the shores of South Queensferry.\n\nQueensferry is known for its wealth of history - from the Forth Bridge, Forth Road Bridge and the new Queensferry Crossing Bridge - so we wanted to contribute to the historic attraction by creating a revival of local brewing in The Ferry after 165 years. Our goal is to encapsulate the history of the Ferry in our brewery as evidenced in our logo and the names of our beers. Our beers will combine traditional and historic beer recipes with a contemporary twist.\n\nAdditionally, we expect that the Brewery will provide an additional point of interest - place to go and something to do - for residents, visitors and tourists alike where they can explore the history of brewing in The Ferry, witness the handcrafting of beer and enjoy a good pint. Once the Brewery is opened to the public, customers will be able to take a brewery tour during the allotted times. Coming soon will be our Tap Bar where customers will be able to sample various beers - pale ales, bitters, reds, porters, 80/-s, stouts - before buying bottles, mini casks and beer-to-go varieties. We will also craft seasonal as well as Brewer specialities from time to time. In addition to handcrafted beers, customers will be able to purchase a wee brewery gift item as a token of their visit.\n\nWith over 25 years of home brewing, 4+ years of planning, brew school, over a year and a half of crafting beers for tasters and months of sweat & tears to finance, design, renovate, construct our premises, we are happy to have started production of our handcrafted beers.",
 			"stats": {
 				"total_count": 1170,
 				"unique_count": 681,
@@ -23549,7 +23549,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 40,
 						"beer_slug": "the-ferry-brewery-ferry-stout",
-						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 – 1832.",
+						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 - 1832.",
 						"beer_style": "Stout - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -23631,7 +23631,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 40,
 						"beer_slug": "the-ferry-brewery-ferry-stout",
-						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 – 1832.",
+						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 - 1832.",
 						"beer_style": "Stout - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -23785,7 +23785,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 40,
 						"beer_slug": "the-ferry-brewery-ferry-stout",
-						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 – 1832.",
+						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 - 1832.",
 						"beer_style": "Stout - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -24402,7 +24402,7 @@
 							"badge_id": 1818,
 							"user_badge_id": 308283888,
 							"badge_name": "Photogenic Brew (Level 32)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 160 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 160 check-ins with a photo. ",
 							"created_at": "Fri, 23 Feb 2018 22:19:59 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -24590,7 +24590,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 40,
 						"beer_slug": "the-ferry-brewery-ferry-stout",
-						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 – 1832.",
+						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 - 1832.",
 						"beer_style": "Stout - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -24836,7 +24836,7 @@
 						"beer_abv": 4.5,
 						"beer_ibu": 35,
 						"beer_slug": "the-ferry-brewery-ferry-witches-brew",
-						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft’. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
+						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft'. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
 						"beer_style": "Red Ale - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -24921,7 +24921,7 @@
 						"beer_abv": 4.5,
 						"beer_ibu": 35,
 						"beer_slug": "the-ferry-brewery-ferry-witches-brew",
-						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft’. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
+						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft'. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
 						"beer_style": "Red Ale - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -25171,7 +25171,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 40,
 						"beer_slug": "the-ferry-brewery-ferry-stout",
-						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 – 1832.",
+						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 - 1832.",
 						"beer_style": "Stout - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -25292,7 +25292,7 @@
 						"beer_abv": 4.5,
 						"beer_ibu": 35,
 						"beer_slug": "the-ferry-brewery-ferry-witches-brew",
-						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft’. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
+						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft'. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
 						"beer_style": "Red Ale - Other",
 						"has_had": false,
 						"beer_active": 1
@@ -25458,7 +25458,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 40,
 						"beer_slug": "the-ferry-brewery-ferry-stout",
-						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 – 1832.",
+						"beer_description": "A dark and smooth easy drinking stout with flavours of coffee and roasted malts. Coffee aroma and flavour with a fruity & bitter finish.\n\nThis is our recreation of a brew from the actual manuscripts of a former brewer, John M. Martine Jr., who lived & work in the Ferry from 1831 - 1832.",
 						"is_in_production": 1,
 						"created_at": "Thu, 13 Oct 2016 11:58:06 +0000",
 						"rating_score": 3.648,
@@ -25502,7 +25502,7 @@
 						"beer_abv": 4.5,
 						"beer_ibu": 35,
 						"beer_slug": "the-ferry-brewery-ferry-witches-brew",
-						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft’. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
+						"beer_description": "A Reddish Copper Ale with a nicely hopped flavour creating a wonderfully well balanced Ale any aspiring witch would be proud of :-) Unfined & Naturally Hazy.\n\nBrewers, in the 17th Century, were prohibited from selling beers on the Sabbath (church day) and years after being fined for such an offence, Margaret Moubray, Janet Lowrie and Helen Young were charged and convicted for ‘Witchcraft'. Helen who was deemed to be too old was spared the punishment of being burned on the stake at Ferrymuir.",
 						"is_in_production": 1,
 						"created_at": "Thu, 11 Aug 2016 14:02:19 +0000",
 						"rating_score": 3.496,
@@ -26143,2675 +26143,6 @@
 							"brewery_state": "",
 							"lat": 55.9887,
 							"lng": -3.37759
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}],
-				"collaborations": {
-					"count": 0,
-					"items": []
-				},
-				"sort_name": "Most Popular",
-				"sort_key": "most_popular"
-			},
-			"locations": {
-				"count": 0,
-				"items": []
-			}
-		}, "brewery_249813": {
-			"brewery_id": 249813,
-			"brewery_name": "Grunting Growler ",
-			"brewery_slug": "grunting-growler",
-			"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-			"country_name": "Scotland",
-			"brewery_in_production": 0,
-			"is_independent": 1,
-			"claimed_status": {
-				"is_claimed": false,
-				"claimed_slug": "",
-				"follow_status": false,
-				"follower_count": 0,
-				"uid": 0,
-				"mute_status": "none"
-			},
-			"beer_count": 7,
-			"contact": {
-				"twitter": "",
-				"facebook": "",
-				"instagram": "",
-				"url": "http://www.gruntinggrowler.com/"
-			},
-			"brewery_type": "Bar / Restaurant / Store",
-			"brewery_type_id": 7,
-			"location": {
-				"brewery_address": null,
-				"brewery_city": "",
-				"brewery_state": "",
-				"brewery_lat": 0,
-				"brewery_lng": 0
-			},
-			"rating": {
-				"count": 206,
-				"rating_score": 3.796
-			},
-			"brewery_description": "",
-			"stats": {
-				"total_count": 232,
-				"unique_count": 186,
-				"monthly_count": 0,
-				"weekly_count": 0,
-				"user_count": 0,
-				"age_on_service": 762.9984722222222
-			},
-			"owners": {
-				"count": 0,
-				"items": []
-			},
-			"media": {
-				"count": 15,
-				"items": [{
-					"photo_id": 156134688,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_raw.jpg"
-					},
-					"created_at": "Wed, 17 Jan 2018 22:17:27 +0000",
-					"checkin_id": 551845813,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 2768080,
-						"user_name": "RogueSeven",
-						"first_name": "Aaron",
-						"last_name": "M",
-						"user_avatar": "https://untappd.akamaized.net/profile/4b7d66ffd2c5a773ee4d759e948e477c_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 154398694,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_raw.jpg"
-					},
-					"created_at": "Tue, 02 Jan 2018 17:55:49 +0000",
-					"checkin_id": 546961885,
-					"beer": {
-						"bid": 2459113,
-						"beer_name": "The Grunter Honey Belgian Pale Ale",
-						"beer_abv": 6.4,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Pale Ale - Belgian"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 3599755,
-						"user_name": "Evapilotone",
-						"first_name": "Tim",
-						"last_name": "S",
-						"user_avatar": "https://untappd.akamaized.net/profile/61e8f7446124491ba0eb7a09899524ff_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 144734354,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_raw.jpg"
-					},
-					"created_at": "Thu, 26 Oct 2017 03:14:35 +0000",
-					"checkin_id": 519563514,
-					"beer": {
-						"bid": 1848503,
-						"beer_name": "The Grunter Orange and Ginger Lager",
-						"beer_abv": 4.5,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Lager - Pale"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 713303,
-						"user_name": "ScottishHammer19",
-						"first_name": "Scott",
-						"last_name": "T",
-						"user_avatar": "https://untappd.akamaized.net/profile/67c534fa9ce6da0ed4c955362cfa8d37_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 128131568,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_27/da2175e4277c32f695eba98ce9d427b1_100x100.jpeg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_06_27/da2175e4277c32f695eba98ce9d427b1_320x320.jpeg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_27/da2175e4277c32f695eba98ce9d427b1_640x640.jpeg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_06_27/da2175e4277c32f695eba98ce9d427b1_raw.jpeg"
-					},
-					"created_at": "Tue, 27 Jun 2017 20:50:58 +0000",
-					"checkin_id": 470530505,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 4398144,
-						"user_name": "kerrmillar1",
-						"first_name": "Kerr",
-						"last_name": "M",
-						"user_avatar": "https://gravatar.com/avatar/b515537045b5d8af3cbd5f6478373f8b?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 127616932,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_24/02808d568883fbf90b02709dde093437_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_06_24/02808d568883fbf90b02709dde093437_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_24/02808d568883fbf90b02709dde093437_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_06_24/02808d568883fbf90b02709dde093437_raw.jpg"
-					},
-					"created_at": "Sat, 24 Jun 2017 02:11:43 +0000",
-					"checkin_id": 468937990,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 174001,
-						"user_name": "rcunningham",
-						"first_name": "Robbie",
-						"last_name": "",
-						"user_avatar": "https://untappd.akamaized.net/profile/7a080d278933770743deb46c303dea5c_thumb.jpg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 521704,
-						"venue_name": "Baldwinsville, NY (Village green Style)",
-						"venue_slug": "baldwinsville-ny-village-green-style",
-						"primary_category": "Outdoors & Recreation",
-						"parent_category_id": "4d4b7105d754a06377d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Scenic Lookout",
-								"category_id": "4bf58dd8d48988d165941735",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "",
-							"venue_city": "Baldwinsville",
-							"venue_state": "NY",
-							"lat": 43.1313,
-							"lng": -76.3033
-						},
-						"contact": {
-							"twitter": "",
-							"venue_url": ""
-						},
-						"foursquare": {
-							"foursquare_id": "4e1c0fe3483bf2b0dbb5c7b5",
-							"foursquare_url": "http://4sq.com/pieLbz"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_bg_88.png"
-						}
-					}
-				}, {
-					"photo_id": 127364689,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_22/9a7fb2fb1867077b673e584d65fafa66_100x100.jpeg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_06_22/9a7fb2fb1867077b673e584d65fafa66_320x320.jpeg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_22/9a7fb2fb1867077b673e584d65fafa66_640x640.jpeg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_06_22/9a7fb2fb1867077b673e584d65fafa66_raw.jpeg"
-					},
-					"created_at": "Thu, 22 Jun 2017 18:37:05 +0000",
-					"checkin_id": 468188927,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 1755595,
-						"user_name": "ameski18",
-						"first_name": "Amy",
-						"last_name": "H",
-						"user_avatar": "https://gravatar.com/avatar/3739ad5224fcd462278f7f97c3c1721b?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 125856184,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_06_10/92f0af38535b27ea72775b64d09bef55_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_06_10/92f0af38535b27ea72775b64d09bef55_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_06_10/92f0af38535b27ea72775b64d09bef55_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_06_10/92f0af38535b27ea72775b64d09bef55_raw.jpg"
-					},
-					"created_at": "Sat, 10 Jun 2017 20:32:37 +0000",
-					"checkin_id": 463544270,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 2659899,
-						"user_name": "gmeldrum88",
-						"first_name": "Grant",
-						"last_name": "M",
-						"user_avatar": "https://untappd.akamaized.net/profile/985db9185836eb3a754421afd0846767_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 3623933,
-						"venue_name": "Pollokshaws",
-						"venue_slug": "pollokshaws",
-						"primary_category": "Outdoors & Recreation",
-						"parent_category_id": "4d4b7105d754a06377d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Neighborhood",
-								"category_id": "4f2a25ac4b909258e854f55f",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "",
-							"venue_city": "",
-							"venue_state": "",
-							"lat": 55.8244,
-							"lng": -4.29324
-						},
-						"contact": {
-							"twitter": "",
-							"venue_url": ""
-						},
-						"foursquare": {
-							"foursquare_id": "5314f6d7e4b0e72a36e14e1d",
-							"foursquare_url": "http://4sq.com/1i6rKug"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
-						}
-					}
-				}, {
-					"photo_id": 123202052,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_21/78811a9b1ce70c7e006f6267b0ad2ca0_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_21/78811a9b1ce70c7e006f6267b0ad2ca0_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_21/78811a9b1ce70c7e006f6267b0ad2ca0_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_21/78811a9b1ce70c7e006f6267b0ad2ca0_raw.jpg"
-					},
-					"created_at": "Sun, 21 May 2017 20:52:26 +0000",
-					"checkin_id": 455369118,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 2192784,
-						"user_name": "messiahmarcolin",
-						"first_name": "Messiah",
-						"last_name": "M",
-						"user_avatar": "https://untappd.akamaized.net/profile/7c0d3d03a6f5860d8a135e571a65bb3a_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 4466871,
-						"venue_name": "Haunted House",
-						"venue_slug": "haunted-house",
-						"primary_category": "Residence",
-						"parent_category_id": "4e67e38e036454776db1fb3a",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Assisted Living",
-								"category_id": "5032891291d4c4b30a586d68",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "",
-							"venue_city": "",
-							"venue_state": "",
-							"lat": 59.6174,
-							"lng": 17.7213
-						},
-						"contact": {
-							"twitter": "",
-							"venue_url": ""
-						},
-						"foursquare": {
-							"foursquare_id": "56e72d9c498ec5f628e8d3ed",
-							"foursquare_url": "http://4sq.com/1RKaH1m"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/building/apartment_bg_88.png"
-						}
-					}
-				}, {
-					"photo_id": 122787732,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_19/0baaf60d5fb569bf944311791c6c2d53_100x100.jpeg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_19/0baaf60d5fb569bf944311791c6c2d53_320x320.jpeg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_19/0baaf60d5fb569bf944311791c6c2d53_640x640.jpeg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_19/0baaf60d5fb569bf944311791c6c2d53_raw.jpeg"
-					},
-					"created_at": "Fri, 19 May 2017 21:02:42 +0000",
-					"checkin_id": 454040346,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 4095960,
-						"user_name": "chibasik",
-						"first_name": "chibasik",
-						"last_name": "",
-						"user_avatar": "https://untappd.akamaized.net/profile/6c31c4196cf591a0675e207ba7f5e5c5_100x100.jpeg",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 122664443,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_18/064ddffec1deaf0227b1779b7b0894bb_100x100.jpeg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_18/064ddffec1deaf0227b1779b7b0894bb_320x320.jpeg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_18/064ddffec1deaf0227b1779b7b0894bb_640x640.jpeg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_18/064ddffec1deaf0227b1779b7b0894bb_raw.jpeg"
-					},
-					"created_at": "Thu, 18 May 2017 23:23:53 +0000",
-					"checkin_id": 453679011,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 2704853,
-						"user_name": "tam996",
-						"first_name": "Thomas",
-						"last_name": "C",
-						"user_avatar": "https://untappd.akamaized.net/profile/6b9ea7bf2e5d6dcdc0e61936681cc299_100x100.jpeg",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 122600157,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_18/25ede8c678841ec9f618109db7f40aa7_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_18/25ede8c678841ec9f618109db7f40aa7_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_18/25ede8c678841ec9f618109db7f40aa7_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_18/25ede8c678841ec9f618109db7f40aa7_raw.jpg"
-					},
-					"created_at": "Thu, 18 May 2017 08:25:46 +0000",
-					"checkin_id": 453498832,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 2586301,
-						"user_name": "Mozza82",
-						"first_name": "Graeme",
-						"last_name": "M",
-						"user_avatar": "https://untappd.akamaized.net/profile/c1d53cb2d90fd54749d203cb66814044_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 2346379,
-						"venue_name": "Grunting Growler",
-						"venue_slug": "grunting-growler",
-						"primary_category": "Shop & Service",
-						"parent_category_id": "4d4b7105d754a06378d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Beer Store",
-								"category_id": "5370f356bcbc57f1066c94c2",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "52 Old Dumbarton Road",
-							"venue_city": "Glasgow",
-							"venue_state": "Glasgow City",
-							"lat": 55.8699,
-							"lng": -4.27518
-						},
-						"contact": {
-							"twitter": "@gruntinggrowler",
-							"venue_url": "http://www.gruntinggrowler.com"
-						},
-						"foursquare": {
-							"foursquare_id": "5479fc9f498edcb6009ac251",
-							"foursquare_url": "http://4sq.com/1v4imRg"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
-						}
-					}
-				}, {
-					"photo_id": 121249018,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_06/f2d23cd802d76f9aa34092ffb98a35f0_100x100.jpeg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_06/f2d23cd802d76f9aa34092ffb98a35f0_320x320.jpeg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_06/f2d23cd802d76f9aa34092ffb98a35f0_640x640.jpeg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_06/f2d23cd802d76f9aa34092ffb98a35f0_raw.jpeg"
-					},
-					"created_at": "Sat, 06 May 2017 22:27:44 +0000",
-					"checkin_id": 449220235,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 3234289,
-						"user_name": "chefycheftns",
-						"first_name": "chefthenewstyle",
-						"last_name": "",
-						"user_avatar": "https://untappd.akamaized.net/profile/37124d980e62094ad32d97ef7981e248_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": []
-				}, {
-					"photo_id": 120938045,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_05/0a0f5a9d9b96d96ca6499490d46185f9_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_05/0a0f5a9d9b96d96ca6499490d46185f9_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_05/0a0f5a9d9b96d96ca6499490d46185f9_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_05/0a0f5a9d9b96d96ca6499490d46185f9_raw.jpg"
-					},
-					"created_at": "Fri, 05 May 2017 16:05:27 +0000",
-					"checkin_id": 448276849,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 193342,
-						"user_name": "catt231",
-						"first_name": "Claire",
-						"last_name": "T",
-						"user_avatar": "https://untappd.akamaized.net/profile/d40dd348ab32e63daae1da456d1613a4_100x100.jpeg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 2346379,
-						"venue_name": "Grunting Growler",
-						"venue_slug": "grunting-growler",
-						"primary_category": "Shop & Service",
-						"parent_category_id": "4d4b7105d754a06378d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Beer Store",
-								"category_id": "5370f356bcbc57f1066c94c2",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "52 Old Dumbarton Road",
-							"venue_city": "Glasgow",
-							"venue_state": "Glasgow City",
-							"lat": 55.8699,
-							"lng": -4.27518
-						},
-						"contact": {
-							"twitter": "@gruntinggrowler",
-							"venue_url": "http://www.gruntinggrowler.com"
-						},
-						"foursquare": {
-							"foursquare_id": "5479fc9f498edcb6009ac251",
-							"foursquare_url": "http://4sq.com/1v4imRg"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
-						}
-					}
-				}, {
-					"photo_id": 120936282,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_05_05/eaa970dde947a27bc0945c1e8afcaf34_100x100.jpeg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_05_05/eaa970dde947a27bc0945c1e8afcaf34_320x320.jpeg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_05_05/eaa970dde947a27bc0945c1e8afcaf34_640x640.jpeg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_05_05/eaa970dde947a27bc0945c1e8afcaf34_raw.jpeg"
-					},
-					"created_at": "Fri, 05 May 2017 15:52:13 +0000",
-					"checkin_id": 448273017,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 193384,
-						"user_name": "KieranFurie",
-						"first_name": "Kieran",
-						"last_name": "F",
-						"user_avatar": "https://untappd.akamaized.net/profile/f79dc7228639af57638006fcc3f21a65_100x100.jpeg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 2346379,
-						"venue_name": "Grunting Growler",
-						"venue_slug": "grunting-growler",
-						"primary_category": "Shop & Service",
-						"parent_category_id": "4d4b7105d754a06378d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Beer Store",
-								"category_id": "5370f356bcbc57f1066c94c2",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "52 Old Dumbarton Road",
-							"venue_city": "Glasgow",
-							"venue_state": "Glasgow City",
-							"lat": 55.8699,
-							"lng": -4.27518
-						},
-						"contact": {
-							"twitter": "@gruntinggrowler",
-							"venue_url": "http://www.gruntinggrowler.com"
-						},
-						"foursquare": {
-							"foursquare_id": "5479fc9f498edcb6009ac251",
-							"foursquare_url": "http://4sq.com/1v4imRg"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
-						}
-					}
-				}, {
-					"photo_id": 120307229,
-					"photo": {
-						"photo_img_sm": "https://untappd.akamaized.net/photo/2017_04_29/00e6cb4a655bb5843d6d0d9ca87440a9_100x100.jpg",
-						"photo_img_md": "https://untappd.akamaized.net/photo/2017_04_29/00e6cb4a655bb5843d6d0d9ca87440a9_320x320.jpg",
-						"photo_img_lg": "https://untappd.akamaized.net/photo/2017_04_29/00e6cb4a655bb5843d6d0d9ca87440a9_640x640.jpg",
-						"photo_img_og": "https://untappd.akamaized.net/photo/2017_04_29/00e6cb4a655bb5843d6d0d9ca87440a9_raw.jpg"
-					},
-					"created_at": "Sat, 29 Apr 2017 20:48:10 +0000",
-					"checkin_id": 446315353,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_abv": 6.3,
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American"
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"user": {
-						"uid": 3069791,
-						"user_name": "Jarramag",
-						"first_name": "Anth",
-						"last_name": "Y",
-						"user_avatar": "https://untappd.akamaized.net/profile/db8f1b717c6ff5f2e745b492ca4e307c_100x100.jpg",
-						"is_private": 0
-					},
-					"venue": {
-						"venue_id": 1099188,
-						"venue_name": "Hebburn",
-						"venue_slug": "hebburn",
-						"primary_category": "Outdoors & Recreation",
-						"parent_category_id": "4d4b7105d754a06377d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Neighborhood",
-								"category_id": "4f2a25ac4b909258e854f55f",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "",
-							"venue_city": "",
-							"venue_state": "",
-							"lat": 54.971,
-							"lng": -1.51756
-						},
-						"contact": {
-							"twitter": "",
-							"venue_url": ""
-						},
-						"foursquare": {
-							"foursquare_id": "506060d0e4b0129860b117a1",
-							"foursquare_url": "http://4sq.com/OPb5kS"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_bg_88.png"
-						}
-					}
-				}]
-			},
-			"checkins": {
-				"count": 15,
-				"items": [{
-					"checkin_id": 556336933,
-					"created_at": "Mon, 29 Jan 2018 20:55:26 +0000",
-					"checkin_comment": "Lots of Belgian yeasty flavours going on.",
-					"rating_score": 3.75,
-					"user": {
-						"uid": 2266304,
-						"user_name": "andrewrennie",
-						"first_name": "Andrew",
-						"last_name": "R.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://gravatar.com/avatar/5cc3a34bf43421ff054257d32d9e529d?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2459113,
-						"beer_name": "The Grunter Honey Belgian Pale Ale",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.4,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-honey-belgian-pale-ale",
-						"beer_description": "Honey Belgian Pale Ale ",
-						"beer_style": "Pale Ale - Belgian",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": {
-						"venue_id": 2346379,
-						"venue_name": "Grunting Growler",
-						"venue_slug": "grunting-growler",
-						"primary_category": "Shop & Service",
-						"parent_category_id": "4d4b7105d754a06378d81259",
-						"categories": {
-							"count": 1,
-							"items": [{
-								"category_name": "Beer Store",
-								"category_id": "5370f356bcbc57f1066c94c2",
-								"is_primary": true
-							}]
-						},
-						"location": {
-							"venue_address": "52 Old Dumbarton Road",
-							"venue_city": "Glasgow",
-							"venue_state": "Glasgow City",
-							"venue_country": "United Kingdom",
-							"lat": 55.8699,
-							"lng": -4.27518
-						},
-						"contact": {
-							"twitter": "@gruntinggrowler",
-							"venue_url": "http://www.gruntinggrowler.com"
-						},
-						"foursquare": {
-							"foursquare_id": "5479fc9f498edcb6009ac251",
-							"foursquare_url": "http://4sq.com/1v4imRg"
-						},
-						"venue_icon": {
-							"sm": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_64.png",
-							"md": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png",
-							"lg": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"
-						},
-						"is_verified": false
-					},
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 1,
-						"count": 1,
-						"auth_toast": null,
-						"items": [{
-							"uid": 2068673,
-							"user": {
-								"uid": 2068673,
-								"user_name": "TheFatBlackDuke",
-								"first_name": "KING",
-								"last_name": "T.",
-								"bio": "Drinking everything in moderation",
-								"location": "Glasgow",
-								"relationship": "none",
-								"user_avatar": "https://untappd.akamaized.net/profile/048b3fa6be611ab640a4336b1fe1cdcc_100x100.jpg",
-								"account_type": "user",
-								"venue_details": [],
-								"brewery_details": []
-							},
-							"like_id": 472100573,
-							"like_owner": false,
-							"created_at": "Mon, 29 Jan 2018 21:21:59 +0000"
-						}]
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 0,
-						"items": []
-					}
-				}, {
-					"checkin_id": 551845813,
-					"created_at": "Wed, 17 Jan 2018 22:17:16 +0000",
-					"checkin_comment": "This was really good when I last had it. This bottle, alas, got lost in the shuffle...",
-					"rating_score": 3.75,
-					"user": {
-						"uid": 2768080,
-						"user_name": "RogueSeven",
-						"first_name": "Aaron",
-						"last_name": "M.",
-						"location": "Glasgow",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "Dogsbody at Doghouse Merchant City. Usually covered in paint. Or beer...",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/4b7d66ffd2c5a773ee4d759e948e477c_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"beer_style": "IPA - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 1,
-						"count": 1,
-						"auth_toast": null,
-						"items": [{
-							"uid": 2068673,
-							"user": {
-								"uid": 2068673,
-								"user_name": "TheFatBlackDuke",
-								"first_name": "KING",
-								"last_name": "T.",
-								"bio": "Drinking everything in moderation",
-								"location": "Glasgow",
-								"relationship": "none",
-								"user_avatar": "https://untappd.akamaized.net/profile/048b3fa6be611ab640a4336b1fe1cdcc_100x100.jpg",
-								"account_type": "user",
-								"venue_details": [],
-								"brewery_details": []
-							},
-							"like_id": 467808711,
-							"like_owner": false,
-							"created_at": "Thu, 18 Jan 2018 18:08:32 +0000"
-						}]
-					},
-					"media": {
-						"count": 1,
-						"items": [{
-							"photo_id": 156134688,
-							"photo": {
-								"photo_img_sm": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_100x100.jpg",
-								"photo_img_md": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_320x320.jpg",
-								"photo_img_lg": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_640x640.jpg",
-								"photo_img_og": "https://untappd.akamaized.net/photos/2018_01_17/91c596ce0495ad5a823fb80a5b624dac_raw.jpg"
-							}
-						}]
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 3428,
-							"user_badge_id": 294900200,
-							"badge_name": "Better Together (Level 21)",
-							"badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that’s what! Cheers to working together to create the perfect flavor. That's 105 different beers that have been brewed as a collaboration. Try 5 more for Level 22!",
-							"created_at": "Wed, 17 Jan 2018 22:17:18 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_BetterTogether_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_BetterTogether_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_BetterTogether_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 551080436,
-					"created_at": "Sun, 14 Jan 2018 19:29:51 +0000",
-					"checkin_comment": "Very good. Honey and hops are there but for me I almost got a big hit of Belgian yeast. Excellent beer.",
-					"rating_score": 4.25,
-					"user": {
-						"uid": 1568396,
-						"user_name": "MarcRitchie10",
-						"first_name": "Marc",
-						"last_name": "R.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/dc37ada630727b135f06254e57f054cb_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2459113,
-						"beer_name": "The Grunter Honey Belgian Pale Ale",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.4,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-honey-belgian-pale-ale",
-						"beer_description": "Honey Belgian Pale Ale ",
-						"beer_style": "Pale Ale - Belgian",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 34743,
-							"user_badge_id": 294109584,
-							"badge_name": "Middle of the Road (Level 39)",
-							"badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 195 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 40!",
-							"created_at": "Sun, 14 Jan 2018 19:29:53 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 547750002,
-					"created_at": "Fri, 05 Jan 2018 21:27:03 +0000",
-					"checkin_comment": "Love this beer, shame it was just a limited edition. I only managed to get a couple of bottles but it was amazing. Delicious.",
-					"rating_score": 5,
-					"user": {
-						"uid": 5095794,
-						"user_name": "Nella495",
-						"first_name": "Fenella",
-						"last_name": "B.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://gravatar.com/avatar/8b112368fdaed5da507ddc69bf154eb7?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"beer_style": "IPA - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd Web",
-						"app_website": "http://untappd.com"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 1,
-							"user_badge_id": 290589709,
-							"badge_name": "Newbie",
-							"badge_description": "So, you're new around here? Congrats on your first brew! This one's for you.",
-							"created_at": "Fri, 05 Jan 2018 21:27:03 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_newbie_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_newbie_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_newbie_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 547748924,
-					"created_at": "Fri, 05 Jan 2018 21:25:04 +0000",
-					"checkin_comment": "",
-					"rating_score": 5,
-					"user": {
-						"uid": 3348053,
-						"user_name": "paulalex90",
-						"first_name": "Paul",
-						"last_name": "A.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://gravatar.com/avatar/3c01a3477214298a98c2bc4c0e6eaf16?size=100&d=https%3A%2F%2Funtappd.akamaized.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2_gravatar.jpg%3Fv%3D2",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"beer_style": "IPA - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 6179,
-							"user_badge_id": 290588703,
-							"badge_name": "Cheers To You!",
-							"badge_description": "Happy Untappd anniversary to you! Thanks for sticking around and drinking socially with us. Cheers! That's 1 year on Untappd!",
-							"created_at": "Fri, 05 Jan 2018 21:25:04 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_HeresToYou_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_HeresToYou_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_HeresToYou_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 547163475,
-					"created_at": "Wed, 03 Jan 2018 17:55:17 +0000",
-					"checkin_comment": "",
-					"rating_score": 4,
-					"user": {
-						"uid": 23876,
-						"user_name": "Furiku",
-						"first_name": "David",
-						"last_name": "L.",
-						"location": "Glasgow",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "Beer drinking, cycling loving, coffee consuming, Nintendo playing nut.",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/99026b2e395fd85526d8410b37a1e0dd_thumb.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 1848754,
-						"beer_name": "The Growler",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-growler",
-						"beer_description": "",
-						"beer_style": "Pale Ale - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for Android - (V2)",
-						"app_website": "http://untpd.it/androidapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 0,
-						"items": []
-					}
-				}, {
-					"checkin_id": 547163338,
-					"created_at": "Wed, 03 Jan 2018 17:54:18 +0000",
-					"checkin_comment": "",
-					"rating_score": 3.75,
-					"user": {
-						"uid": 23876,
-						"user_name": "Furiku",
-						"first_name": "David",
-						"last_name": "L.",
-						"location": "Glasgow",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "Beer drinking, cycling loving, coffee consuming, Nintendo playing nut.",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/99026b2e395fd85526d8410b37a1e0dd_thumb.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 1848503,
-						"beer_name": "The Grunter Orange and Ginger Lager",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 4.5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-orange-and-ginger-lager",
-						"beer_description": "Lager with Orange and Ginger brewed by Jake Griffin for Grunting Growler, only available in the Christmas gift set.",
-						"beer_style": "Lager - Pale",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for Android - (V2)",
-						"app_website": "http://untpd.it/androidapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 2,
-						"items": [{
-							"badge_id": 5978,
-							"user_badge_id": 290014654,
-							"badge_name": "Riding Steady (Level 16)",
-							"badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 80 different beers with an ABV of 5% and lower. Try 5 more for Level 17!",
-							"created_at": "Wed, 03 Jan 2018 17:54:19 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
-							}
-						}, {
-							"badge_id": 133055,
-							"user_badge_id": 290014655,
-							"badge_name": "99 Bottles",
-							"badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 5 checkins with the serving style of Bottle. Try 5 more for Level 2!",
-							"created_at": "Wed, 03 Jan 2018 17:54:19 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 546961885,
-					"created_at": "Tue, 02 Jan 2018 17:55:44 +0000",
-					"checkin_comment": "Deliciously boozy with plenty of honey on the nose and bitter hops on the tongue. Delightful.",
-					"rating_score": 4.25,
-					"user": {
-						"uid": 3599755,
-						"user_name": "Evapilotone",
-						"first_name": "Tim",
-						"last_name": "S.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/61e8f7446124491ba0eb7a09899524ff_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2459113,
-						"beer_name": "The Grunter Honey Belgian Pale Ale",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.4,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-honey-belgian-pale-ale",
-						"beer_description": "Honey Belgian Pale Ale ",
-						"beer_style": "Pale Ale - Belgian",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 1,
-						"items": [{
-							"photo_id": 154398694,
-							"photo": {
-								"photo_img_sm": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_100x100.jpg",
-								"photo_img_md": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_320x320.jpg",
-								"photo_img_lg": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_640x640.jpg",
-								"photo_img_og": "https://untappd.akamaized.net/photo/2018_01_02/cdfed8d001642114a7384a5bb4a7cf4f_raw.jpg"
-							}
-						}]
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 2,
-						"items": [{
-							"badge_id": 133055,
-							"user_badge_id": 289808002,
-							"badge_name": "99 Bottles",
-							"badge_description": "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around.... That's 5 checkins with the serving style of Bottle. Try 5 more for Level 2!",
-							"created_at": "Tue, 02 Jan 2018 17:55:45 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_99Bottles_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_99Bottles_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_99Bottles_lg.jpg"
-							}
-						}, {
-							"badge_id": 287,
-							"user_badge_id": 289808003,
-							"badge_name": "Pale as the Moon (Level 2)",
-							"badge_description": "Ahh, the trusty pale ale; crisp, refreshing, and always a good choice in a bind. That's 10 different Pale Ales. Try 5 more for Level 3.",
-							"created_at": "Tue, 02 Jan 2018 17:55:45 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_PaleMoon_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_PaleMoon_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_PaleMoon_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 537811979,
-					"created_at": "Wed, 13 Dec 2017 21:06:18 +0000",
-					"checkin_comment": "Piney and really full bodied.",
-					"rating_score": 3.25,
-					"user": {
-						"uid": 1987767,
-						"user_name": "Allymcgurn",
-						"first_name": "Ally",
-						"last_name": "M.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/19237569dff575811132b305941bc7b6_100x100.png",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 1848754,
-						"beer_name": "The Growler",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-growler",
-						"beer_description": "",
-						"beer_style": "Pale Ale - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 160772,
-							"user_badge_id": 280334532,
-							"badge_name": "Hoppy Hanukkah (2017)",
-							"badge_description": "Happy Hanukkah one and all! We wish you a wonderful eight nights of celebration filled with friends, family, and the best thing of all, great craft beer!",
-							"created_at": "Wed, 13 Dec 2017 21:06:18 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_Hanukkah2017_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_Hanukkah2017_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_Hanukkah2017_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 537347753,
-					"created_at": "Mon, 11 Dec 2017 19:24:25 +0000",
-					"checkin_comment": "Sweet and lighter than I had expected.",
-					"rating_score": 3.5,
-					"user": {
-						"uid": 1987767,
-						"user_name": "Allymcgurn",
-						"first_name": "Ally",
-						"last_name": "M.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/19237569dff575811132b305941bc7b6_100x100.png",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 1848503,
-						"beer_name": "The Grunter Orange and Ginger Lager",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 4.5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-orange-and-ginger-lager",
-						"beer_description": "Lager with Orange and Ginger brewed by Jake Griffin for Grunting Growler, only available in the Christmas gift set.",
-						"beer_style": "Lager - Pale",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 3927,
-							"user_badge_id": 279779001,
-							"badge_name": "Highlander (Level 25)",
-							"badge_description": "Unlike The Highlander from TV, there are more than just one brewery in Scotland fighting the great craft beer war. Join the battle. No kilt required. Try 5 more for Level 26.",
-							"created_at": "Mon, 11 Dec 2017 19:24:26 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_Highlander_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_Highlander_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_Highlander_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 522130448,
-					"created_at": "Thu, 02 Nov 2017 02:30:58 +0000",
-					"checkin_comment": "",
-					"rating_score": 3,
-					"user": {
-						"uid": 713303,
-						"user_name": "ScottishHammer19",
-						"first_name": "Scott",
-						"last_name": "T.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "Born in Scotland live in Houston Texas,",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/67c534fa9ce6da0ed4c955362cfa8d37_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 1848754,
-						"beer_name": "The Growler",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-growler",
-						"beer_description": "",
-						"beer_style": "Pale Ale - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 0,
-						"items": []
-					}
-				}, {
-					"checkin_id": 519563514,
-					"created_at": "Thu, 26 Oct 2017 03:14:29 +0000",
-					"checkin_comment": "",
-					"rating_score": 2.75,
-					"user": {
-						"uid": 713303,
-						"user_name": "ScottishHammer19",
-						"first_name": "Scott",
-						"last_name": "T.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "Born in Scotland live in Houston Texas,",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/67c534fa9ce6da0ed4c955362cfa8d37_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 1848503,
-						"beer_name": "The Grunter Orange and Ginger Lager",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 4.5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-orange-and-ginger-lager",
-						"beer_description": "Lager with Orange and Ginger brewed by Jake Griffin for Grunting Growler, only available in the Christmas gift set.",
-						"beer_style": "Lager - Pale",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 1,
-						"items": [{
-							"photo_id": 144734354,
-							"photo": {
-								"photo_img_sm": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_100x100.jpg",
-								"photo_img_md": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_320x320.jpg",
-								"photo_img_lg": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_640x640.jpg",
-								"photo_img_og": "https://untappd.akamaized.net/photo/2017_10_26/f99f1f3fcb2fc737e8dc9134df59e0f5_raw.jpg"
-							}
-						}]
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 5983,
-							"user_badge_id": 262784535,
-							"badge_name": "Riding Steady (Level 21)",
-							"badge_description": "Want to enjoy a day of brews, but need to keep your wits sharp? There are plenty of delicious brews under 5% for you to sip on throughout the day. That's 105 different beers with an ABV of 5% and lower. Try 5 more for Level 22!",
-							"created_at": "Thu, 26 Oct 2017 03:14:30 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_RidingSteady_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_RidingSteady_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_RidingSteady_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 514690084,
-					"created_at": "Fri, 13 Oct 2017 20:13:00 +0000",
-					"checkin_comment": "",
-					"rating_score": 4,
-					"user": {
-						"uid": 836831,
-						"user_name": "StevieMcK",
-						"first_name": "Stevie",
-						"last_name": "M.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/f97d73012076744ad77bae74bd41e78b_100x100.jpeg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"beer_style": "IPA - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 34715,
-							"user_badge_id": 256933213,
-							"badge_name": "Middle of the Road (Level 11)",
-							"badge_description": "Looking for more kick than a session beer, but want to be able to stay for a few rounds? You have to keep it in the middle. That's 55 beers with an ABV greater than 5% and less than 10%. Try 5 more Level 12!",
-							"created_at": "Fri, 13 Oct 2017 20:13:01 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_middle-of-the-road_lg.jpg"
-							}
-						}]
-					}
-				}, {
-					"checkin_id": 508102267,
-					"created_at": "Mon, 25 Sep 2017 17:06:03 +0000",
-					"checkin_comment": "",
-					"rating_score": 0,
-					"user": {
-						"uid": 4796237,
-						"user_name": "jonplennox",
-						"first_name": "Jon Patrick",
-						"last_name": "L.",
-						"location": "Glasgow ",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "I am Jon P Lennox. I got the paperwork to prove it.",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/6d00836c1ceb7c178fae446d65fa650a_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"beer_style": "IPA - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 0,
-						"items": []
-					}
-				}, {
-					"checkin_id": 508076025,
-					"created_at": "Mon, 25 Sep 2017 12:19:22 +0000",
-					"checkin_comment": "",
-					"rating_score": 0,
-					"user": {
-						"uid": 4384190,
-						"user_name": "oliviahaslam",
-						"first_name": "Olivia",
-						"last_name": "L.",
-						"location": "",
-						"url": "",
-						"is_supporter": 0,
-						"bio": "",
-						"relationship": null,
-						"user_avatar": "https://untappd.akamaized.net/profile/17e84f7a040080e075098ae5d96fcfbe_100x100.jpg",
-						"is_private": 0
-					},
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"beer_style": "IPA - American",
-						"has_had": false,
-						"beer_active": 1
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"venue": [],
-					"comments": {
-						"total_count": 0,
-						"count": 0,
-						"items": []
-					},
-					"toasts": {
-						"total_count": 0,
-						"count": 0,
-						"auth_toast": false,
-						"items": []
-					},
-					"media": {
-						"count": 0,
-						"items": []
-					},
-					"source": {
-						"app_name": "Untappd for iPhone - (V2)",
-						"app_website": "http://untpd.it/iphoneapp"
-					},
-					"badges": {
-						"retro_status": false,
-						"count": 1,
-						"items": [{
-							"badge_id": 3908,
-							"user_badge_id": 250633464,
-							"badge_name": "Highlander (Level 6)",
-							"badge_description": "Unlike The Highlander from TV, there are more than just one brewery in Scotland fighting the great craft beer war. Join the battle. No kilt required. Try 5 more for Level 7.",
-							"created_at": "Mon, 25 Sep 2017 12:19:22 +0000",
-							"badge_image": {
-								"sm": "https://untappd.akamaized.net/badges/bdg_Highlander_sm.jpg",
-								"md": "https://untappd.akamaized.net/badges/bdg_Highlander_md.jpg",
-								"lg": "https://untappd.akamaized.net/badges/bdg_Highlander_lg.jpg"
-							}
-						}]
-					}
-				}],
-				"pagination": {
-					"since_url": "https://api.untappd.com/v4/brewery/checkins/249813?max_id=556336933",
-					"next_url": "https://api.untappd.com/v4/brewery/checkins/249813?max_id=508076025",
-					"max_id": 508076025
-				},
-				"mem": false,
-				"time": 0.018,
-				"table": true
-			},
-			"beer_list": {
-				"source": "info",
-				"total_count": 7,
-				"is_search": false,
-				"type_id": false,
-				"sort": false,
-				"count": 7,
-				"items": [{
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 181,
-					"beer": {
-						"bid": 2023160,
-						"beer_name": "Blood Orange Milkshake IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - American",
-						"beer_abv": 6.3,
-						"beer_ibu": 30,
-						"beer_slug": "grunting-growler-blood-orange-milkshake-ipa",
-						"beer_description": "This beer is a big juicy IPA coming in at 6.3% abv, that has been brewed with the juice and zest of a whole lotta blood oranges, and then we added some lactose to give it a sweet, and silkie mouth feel.\r\n\r\nBrewed in collaboration with Grunting Growler store for the store's first birthday.",
-						"is_in_production": 1,
-						"created_at": "Sat, 01 Apr 2017 17:09:04 +0000",
-						"rating_score": 3.854,
-						"rating_count": 157,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}, {
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 18,
-					"beer": {
-						"bid": 1848503,
-						"beer_name": "The Grunter Orange and Ginger Lager",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Lager - Pale",
-						"beer_abv": 4.5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-orange-and-ginger-lager",
-						"beer_description": "Lager with Orange and Ginger brewed by Jake Griffin for Grunting Growler, only available in the Christmas gift set.",
-						"is_in_production": 1,
-						"created_at": "Sat, 03 Dec 2016 18:40:58 +0000",
-						"rating_score": 3.444,
-						"rating_count": 18,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}, {
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 17,
-					"beer": {
-						"bid": 1848754,
-						"beer_name": "The Growler",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Pale Ale - American",
-						"beer_abv": 5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-growler",
-						"beer_description": "",
-						"is_in_production": 1,
-						"created_at": "Sat, 03 Dec 2016 19:54:13 +0000",
-						"rating_score": 3.632,
-						"rating_count": 17,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}, {
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 8,
-					"beer": {
-						"bid": 1407440,
-						"beer_name": "Popping My Cherry",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Sour - Berliner Weisse",
-						"beer_abv": 4.1,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-popping-my-cherry",
-						"beer_description": "Popping My Cherry is a 4.1% ABV Berliner Weisse aged on cherries.\nThe beer is made of 50/50 pale malt to malted wheat, and in order to keep the beer from being to bitter we added the hops during the mash.\nThe beer was then soured with a really potent strain of lactobacillus!, and fermented on a neutral yeast strain, US 05, in order to let the sour cherry flavours shine through.\nOnce this was all done, the beer was aged on 100 grams of cherries to every litre of beer!\nThe finishing result is a clean tasting beer that is really sour, and dry with a little bit of sweetness from the cherries.",
-						"is_in_production": 1,
-						"created_at": "Fri, 29 Jan 2016 20:10:11 +0000",
-						"rating_score": 0,
-						"rating_count": 8,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}, {
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 3,
-					"beer": {
-						"bid": 1769960,
-						"beer_name": "Platform 18",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Lager - Euro",
-						"beer_abv": 4.5,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-platform-18",
-						"beer_description": "Brewed at Drygate in conjunction with Platform 18",
-						"is_in_production": 1,
-						"created_at": "Sun, 09 Oct 2016 15:53:24 +0000",
-						"rating_score": 0,
-						"rating_count": 3,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}, {
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 3,
-					"beer": {
-						"bid": 2459113,
-						"beer_name": "The Grunter Honey Belgian Pale Ale",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "Pale Ale - Belgian",
-						"beer_abv": 6.4,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-the-grunter-honey-belgian-pale-ale",
-						"beer_description": "Honey Belgian Pale Ale ",
-						"is_in_production": 1,
-						"created_at": "Tue, 02 Jan 2018 17:51:20 +0000",
-						"rating_score": 0,
-						"rating_count": 3,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
-						},
-						"brewery_active": 1
-					},
-					"friends": {
-						"items": [],
-						"count": 0
-					}
-				}, {
-					"total_user_count": 0,
-					"has_had": null,
-					"total_count": 1,
-					"beer": {
-						"bid": 1836311,
-						"beer_name": "Lactose IPA",
-						"beer_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png",
-						"beer_style": "IPA - Session / India Session Ale",
-						"beer_abv": 3.6,
-						"beer_ibu": 0,
-						"beer_slug": "grunting-growler-lactose-ipa",
-						"beer_description": "",
-						"is_in_production": 1,
-						"created_at": "Fri, 25 Nov 2016 13:55:45 +0000",
-						"rating_score": 0,
-						"rating_count": 1,
-						"auth_rating": 0,
-						"wish_list": false
-					},
-					"brewery": {
-						"brewery_id": 249813,
-						"brewery_name": "Grunting Growler ",
-						"brewery_slug": "grunting-growler",
-						"brewery_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-brewery-default.png",
-						"country_name": "Scotland",
-						"contact": {
-							"twitter": "",
-							"facebook": "",
-							"instagram": "",
-							"url": "http://www.gruntinggrowler.com/"
-						},
-						"location": {
-							"brewery_city": "",
-							"brewery_state": "",
-							"lat": 0,
-							"lng": 0
 						},
 						"brewery_active": 1
 					},
@@ -34162,7 +31493,7 @@
 						"beer_abv": 5,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-cart-blanche",
-						"beer_description": "Named after Paisley’s river, White Cart Water, this golden full-bodied ale boasts smacks of flavour. The appearance is enhanced by a touch of wheat malt, giving good head retention and a wonderfully dry after-taste that won’t be easily forgotten. As the name suggests feel free to enjoy ‘Cart Blanche’ as the mood dictates. Although designed to be drunk unaccompanied, it is equally satisfying along side food such as cheese, mussels and pizza.",
+						"beer_description": "Named after Paisley's river, White Cart Water, this golden full-bodied ale boasts smacks of flavour. The appearance is enhanced by a touch of wheat malt, giving good head retention and a wonderfully dry after-taste that won't be easily forgotten. As the name suggests feel free to enjoy ‘Cart Blanche' as the mood dictates. Although designed to be drunk unaccompanied, it is equally satisfying along side food such as cheese, mussels and pizza.",
 						"beer_style": "Golden Ale",
 						"has_had": false,
 						"beer_active": 1
@@ -34357,7 +31688,7 @@
 						"beer_abv": 5,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-cart-blanche",
-						"beer_description": "Named after Paisley’s river, White Cart Water, this golden full-bodied ale boasts smacks of flavour. The appearance is enhanced by a touch of wheat malt, giving good head retention and a wonderfully dry after-taste that won’t be easily forgotten. As the name suggests feel free to enjoy ‘Cart Blanche’ as the mood dictates. Although designed to be drunk unaccompanied, it is equally satisfying along side food such as cheese, mussels and pizza.",
+						"beer_description": "Named after Paisley's river, White Cart Water, this golden full-bodied ale boasts smacks of flavour. The appearance is enhanced by a touch of wheat malt, giving good head retention and a wonderfully dry after-taste that won't be easily forgotten. As the name suggests feel free to enjoy ‘Cart Blanche' as the mood dictates. Although designed to be drunk unaccompanied, it is equally satisfying along side food such as cheese, mussels and pizza.",
 						"beer_style": "Golden Ale",
 						"has_had": false,
 						"beer_active": 1
@@ -34456,7 +31787,7 @@
 				}, {
 					"checkin_id": 567123363,
 					"created_at": "Wed, 28 Feb 2018 14:08:59 +0000",
-					"checkin_comment": "In dangerous and baltic conditions, there’s only one place to seek asylum. Let’s grab a pint at the Trent and wait for this to all blow over",
+					"checkin_comment": "In dangerous and baltic conditions, there's only one place to seek asylum. Let's grab a pint at the Trent and wait for this to all blow over",
 					"rating_score": 3,
 					"user": {
 						"uid": 5220346,
@@ -35485,7 +32816,7 @@
 						"beer_abv": 4.5,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-dark-moor",
-						"beer_description": "Smooth, dark and dangerous, this ale is designed to warm the cockles of your heart whilst sitting around the ingle after a long cold winter’s day outdoors. Although dark and and robust the aftertones of licquorice and blackcurrant make this an ale of complex character, not to be missed.",
+						"beer_description": "Smooth, dark and dangerous, this ale is designed to warm the cockles of your heart whilst sitting around the ingle after a long cold winter's day outdoors. Although dark and and robust the aftertones of licquorice and blackcurrant make this an ale of complex character, not to be missed.",
 						"beer_style": "Old Ale",
 						"has_had": false,
 						"beer_active": 1
@@ -35726,7 +33057,7 @@
 							"badge_id": 2998,
 							"user_badge_id": 309455583,
 							"badge_name": "Heavy Weight (Level 12)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 60 different beers with the style of Porter or Stout. Try 5 more to unlock Level 13.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 60 different beers with the style of Porter or Stout. Try 5 more to unlock Level 13.",
 							"created_at": "Sun, 25 Feb 2018 22:13:55 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -35847,7 +33178,7 @@
 							"badge_id": 413,
 							"user_badge_id": 309443094,
 							"badge_name": "Home Brewed Goodness",
-							"badge_description": "You've enjoyed all that commercial beer has to offer, so now it’s time to try some home brew. Be it your friend’s or your own, it tastes better home grown. That's 2 different beers that are homebrews. Try 2 more for Level 2!",
+							"badge_description": "You've enjoyed all that commercial beer has to offer, so now it's time to try some home brew. Be it your friend's or your own, it tastes better home grown. That's 2 different beers that are homebrews. Try 2 more for Level 2!",
 							"created_at": "Sun, 25 Feb 2018 21:48:26 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_homebrew_sm.jpg",
@@ -35858,7 +33189,7 @@
 							"badge_id": 5640,
 							"user_badge_id": 309443095,
 							"badge_name": "Wheel of Styles (Level 11)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 55 different styles. Try 5 more for Level 12!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 55 different styles. Try 5 more for Level 12!",
 							"created_at": "Sun, 25 Feb 2018 21:48:26 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -35951,7 +33282,7 @@
 						"beer_abv": 4.5,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-dark-moor",
-						"beer_description": "Smooth, dark and dangerous, this ale is designed to warm the cockles of your heart whilst sitting around the ingle after a long cold winter’s day outdoors. Although dark and and robust the aftertones of licquorice and blackcurrant make this an ale of complex character, not to be missed.",
+						"beer_description": "Smooth, dark and dangerous, this ale is designed to warm the cockles of your heart whilst sitting around the ingle after a long cold winter's day outdoors. Although dark and and robust the aftertones of licquorice and blackcurrant make this an ale of complex character, not to be missed.",
 						"is_in_production": 1,
 						"created_at": "Sat, 05 Feb 2011 22:01:08 +0000",
 						"rating_score": 3.485,
@@ -36127,7 +33458,7 @@
 						"beer_abv": 5,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-cart-blanche",
-						"beer_description": "Named after Paisley’s river, White Cart Water, this golden full-bodied ale boasts smacks of flavour. The appearance is enhanced by a touch of wheat malt, giving good head retention and a wonderfully dry after-taste that won’t be easily forgotten. As the name suggests feel free to enjoy ‘Cart Blanche’ as the mood dictates. Although designed to be drunk unaccompanied, it is equally satisfying along side food such as cheese, mussels and pizza.",
+						"beer_description": "Named after Paisley's river, White Cart Water, this golden full-bodied ale boasts smacks of flavour. The appearance is enhanced by a touch of wheat malt, giving good head retention and a wonderfully dry after-taste that won't be easily forgotten. As the name suggests feel free to enjoy ‘Cart Blanche' as the mood dictates. Although designed to be drunk unaccompanied, it is equally satisfying along side food such as cheese, mussels and pizza.",
 						"is_in_production": 1,
 						"created_at": "Tue, 23 Nov 2010 04:31:27 +0000",
 						"rating_score": 3.47,
@@ -36303,7 +33634,7 @@
 						"beer_abv": 4.4,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-regnitz",
-						"beer_description": "A subtle blend of German malts, infused with a mighty whack of US whole hops which combine to produce a red tinted beer which flows freely – just like the Regnitz river in Bamberg.",
+						"beer_description": "A subtle blend of German malts, infused with a mighty whack of US whole hops which combine to produce a red tinted beer which flows freely - just like the Regnitz river in Bamberg.",
 						"is_in_production": 1,
 						"created_at": "Thu, 10 Apr 2014 14:12:20 +0000",
 						"rating_score": 3.389,
@@ -36567,7 +33898,7 @@
 						"beer_abv": 4.2,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-keltic",
-						"beer_description": "A hoppy, golden-coloured bitter with a long, dry aftertaste. Available during Glasgow’s Celtic Connections Festival.",
+						"beer_description": "A hoppy, golden-coloured bitter with a long, dry aftertaste. Available during Glasgow's Celtic Connections Festival.",
 						"is_in_production": 1,
 						"created_at": "Fri, 17 Feb 2012 11:23:48 +0000",
 						"rating_score": 3.383,
@@ -36831,7 +34162,7 @@
 						"beer_abv": 4.2,
 						"beer_ibu": 0,
 						"beer_slug": "the-kelburn-brewing-company-hop-sip-slump",
-						"beer_description": "Brewed to celebrate the Commonwealth Games coming to Glasgow.\nOur Brewers wanted to use the best of the Commonwealth and have crafted British barley and rye malts with whole New Zealand hops into a pale, hoppy ale that is just a little bit different. At 4.2% it’s a balanced session ale.\n",
+						"beer_description": "Brewed to celebrate the Commonwealth Games coming to Glasgow.\nOur Brewers wanted to use the best of the Commonwealth and have crafted British barley and rye malts with whole New Zealand hops into a pale, hoppy ale that is just a little bit different. At 4.2% it's a balanced session ale.\n",
 						"is_in_production": 1,
 						"created_at": "Tue, 08 Jul 2014 12:40:09 +0000",
 						"rating_score": 3.182,
@@ -37043,7 +34374,7 @@
 				"count": 31704,
 				"rating_score": 3.424
 			},
-			"brewery_description": "Beautiful beer from the heart of Scotland.\r\n\r\nThe Inveralmond Brewery produce quality, award-winning beers from their brewery on the outskirts of the city of Perth, Scotland. \r\n\r\nEstablished in 1997, Inveralmond was the first brewery in he area for 33 years. And it is an ideal area for brewing beer: the magnificent surrounding countryside and history has been the inspiration for the original recipes, which, couple with the Head Brewer’s experience, create beers of exceptional quality. ",
+			"brewery_description": "Beautiful beer from the heart of Scotland.\r\n\r\nThe Inveralmond Brewery produce quality, award-winning beers from their brewery on the outskirts of the city of Perth, Scotland. \r\n\r\nEstablished in 1997, Inveralmond was the first brewery in he area for 33 years. And it is an ideal area for brewing beer: the magnificent surrounding countryside and history has been the inspiration for the original recipes, which, couple with the Head Brewer's experience, create beers of exceptional quality. ",
 			"stats": {
 				"total_count": 42342,
 				"unique_count": 23011,
@@ -39142,7 +36473,7 @@
 							"badge_id": 94359,
 							"user_badge_id": 310504379,
 							"badge_name": "Photogenic Brew (Level 74)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 370 check-ins with a photo. Try 5 more for Level 75!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 370 check-ins with a photo. Try 5 more for Level 75!",
 							"created_at": "Fri, 02 Mar 2018 16:03:25 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -39246,7 +36577,7 @@
 							"badge_id": 788,
 							"user_badge_id": 310502741,
 							"badge_name": "Photogenic Brew (Level 3)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 15 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 15 check-ins with a photo. ",
 							"created_at": "Fri, 02 Mar 2018 15:53:27 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -39758,7 +37089,7 @@
 						"beer_abv": 5.6,
 						"beer_ibu": 0,
 						"beer_slug": "inveralmond-brewery-rascal-london-porter",
-						"beer_description": "This new ruby-black beer, inspired by the brewing styles of 18th-century London, has a spicy aroma, leading to sumptuous mocha flavours – silky on the palate and with a complex, yet mellow, finish.",
+						"beer_description": "This new ruby-black beer, inspired by the brewing styles of 18th-century London, has a spicy aroma, leading to sumptuous mocha flavours - silky on the palate and with a complex, yet mellow, finish.",
 						"beer_style": "Porter - English",
 						"has_had": false,
 						"beer_active": 1
@@ -40004,7 +37335,7 @@
 						"beer_abv": 5.6,
 						"beer_ibu": 0,
 						"beer_slug": "inveralmond-brewery-rascal-london-porter",
-						"beer_description": "This new ruby-black beer, inspired by the brewing styles of 18th-century London, has a spicy aroma, leading to sumptuous mocha flavours – silky on the palate and with a complex, yet mellow, finish.",
+						"beer_description": "This new ruby-black beer, inspired by the brewing styles of 18th-century London, has a spicy aroma, leading to sumptuous mocha flavours - silky on the palate and with a complex, yet mellow, finish.",
 						"is_in_production": 1,
 						"created_at": "Sat, 14 Feb 2015 19:46:50 +0000",
 						"rating_score": 3.608,
@@ -40092,7 +37423,7 @@
 						"beer_abv": 6,
 						"beer_ibu": 18,
 						"beer_slug": "inveralmond-brewery-de-mons",
-						"beer_description": "The exclusive beers of the Trappist order are the monastic inspiration of De Mons Belgian Abbey. It might be sinister in name but there’s nothing hellish about this concoction.\n\nFig and raisin flavours conspire sweetly to envelop the palate before leaving a characteristic Belgian headiness in their wake.",
+						"beer_description": "The exclusive beers of the Trappist order are the monastic inspiration of De Mons Belgian Abbey. It might be sinister in name but there's nothing hellish about this concoction.\n\nFig and raisin flavours conspire sweetly to envelop the palate before leaving a characteristic Belgian headiness in their wake.",
 						"is_in_production": 1,
 						"created_at": "Sat, 29 Nov 2014 00:57:44 +0000",
 						"rating_score": 3.505,
@@ -40136,7 +37467,7 @@
 						"beer_abv": 4.3,
 						"beer_ibu": 0,
 						"beer_slug": "inveralmond-brewery-santa-s-swallie",
-						"beer_description": "Santa's Swallie is a fine example of the tradition of brewing Christmas beers that was once prevalent in the UK and is still very popular in other northern European countries. The word 'Yule' is derived from 'ale' as beer was used to celebrate the winter solstice throughout the years.\n\nAvailable during December, Santa’s Swallie, is a dark copper coloured Christmas ale, traditionally hopped with Fuggles and a hint of seasonal nutmeg and cinnamon.",
+						"beer_description": "Santa's Swallie is a fine example of the tradition of brewing Christmas beers that was once prevalent in the UK and is still very popular in other northern European countries. The word 'Yule' is derived from 'ale' as beer was used to celebrate the winter solstice throughout the years.\n\nAvailable during December, Santa's Swallie, is a dark copper coloured Christmas ale, traditionally hopped with Fuggles and a hint of seasonal nutmeg and cinnamon.",
 						"is_in_production": 1,
 						"created_at": "Mon, 06 Dec 2010 12:04:07 +0000",
 						"rating_score": 3.193,
@@ -42076,7 +39407,7 @@
 						"beer_abv": 4.2,
 						"beer_ibu": 34,
 						"beer_slug": "harviestoun-brewery-bitter-twisted",
-						"beer_description": "Note: This beer is 3.8% ABV in cask, 4.2% in keg and bottle.\n\nSupreme Champion Beer of Britain… World’s Best Ale… Firm favourite of beer drinkers around the world… Where to start when talking about this immensely drinkable and enjoyable golden ale?\n\nBitter & Twisted is a superbly-balanced, refreshingly-lively beer. It has a malty-sweet aroma with a floral, fruity hoppiness and a zingy, zesty flavour. Complex, rounded, sweet and dry; this is the connoisseurs' session beer par excellence!\n\nIt was first brewed in 1997 shortly after which (and unrelated to the new brew) a wee fracas broke out in the brewhouse. Feathers flew. There was some colourful language. One or more wives may have been involved. Nobody can remember exactly who was called \"bitter & twisted\", by whom, or even why! But it was one heck of a name-day for this great beer!\n\nHOPS: Hersbruker, Celeia, Perle, Bobek\n\nMALTS: Lager malt, crystal malt, malted wheat & oats",
+						"beer_description": "Note: This beer is 3.8% ABV in cask, 4.2% in keg and bottle.\n\nSupreme Champion Beer of Britain… World's Best Ale… Firm favourite of beer drinkers around the world… Where to start when talking about this immensely drinkable and enjoyable golden ale?\n\nBitter & Twisted is a superbly-balanced, refreshingly-lively beer. It has a malty-sweet aroma with a floral, fruity hoppiness and a zingy, zesty flavour. Complex, rounded, sweet and dry; this is the connoisseurs' session beer par excellence!\n\nIt was first brewed in 1997 shortly after which (and unrelated to the new brew) a wee fracas broke out in the brewhouse. Feathers flew. There was some colourful language. One or more wives may have been involved. Nobody can remember exactly who was called \"bitter & twisted\", by whom, or even why! But it was one heck of a name-day for this great beer!\n\nHOPS: Hersbruker, Celeia, Perle, Bobek\n\nMALTS: Lager malt, crystal malt, malted wheat & oats",
 						"beer_style": "Golden Ale",
 						"has_had": false,
 						"beer_active": 1
@@ -42275,7 +39606,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-12-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 12, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 12 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 12 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 12 pours black with a modest spattered head that reduces slowly, leaving behind textbook lacing. The aroma is delicious; smoky Worcestershire sauce, leather, iodine and grilled steak. Flavours of smoky-sweet malts, roasted peat, coffee beans and a well-bittered finish. Overall this is a rather exotic brew with a defined barrel influence. It’s refined rather than over the top and very delicious indeed.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo' and Gaelic for ‘black oil') was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 12, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 12 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 12 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 12 pours black with a modest spattered head that reduces slowly, leaving behind textbook lacing. The aroma is delicious; smoky Worcestershire sauce, leather, iodine and grilled steak. Flavours of smoky-sweet malts, roasted peat, coffee beans and a well-bittered finish. Overall this is a rather exotic brew with a defined barrel influence. It's refined rather than over the top and very delicious indeed.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"beer_style": "Porter - Imperial / Double",
 						"has_had": false,
 						"beer_active": 1
@@ -42345,7 +39676,7 @@
 							"badge_id": 5647,
 							"user_badge_id": 310597242,
 							"badge_name": "Wheel of Styles (Level 18)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 90 different styles. Try 5 more for Level 19!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 90 different styles. Try 5 more for Level 19!",
 							"created_at": "Fri, 02 Mar 2018 20:04:58 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -42356,7 +39687,7 @@
 							"badge_id": 5381,
 							"user_badge_id": 310597243,
 							"badge_name": "2X",
-							"badge_description": "When a single isn’t enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 5 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 2!",
+							"badge_description": "When a single isn't enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 5 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 2!",
 							"created_at": "Fri, 02 Mar 2018 20:04:58 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_2xCore_sm.jpg",
@@ -42489,7 +39820,7 @@
 							"badge_id": 5635,
 							"user_badge_id": 310595359,
 							"badge_name": "Wheel of Styles (Level 6)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 30 different styles. Try 5 more for Level 7!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 30 different styles. Try 5 more for Level 7!",
 							"created_at": "Fri, 02 Mar 2018 20:01:28 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -42645,7 +39976,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-12-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 12, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 12 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 12 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 12 pours black with a modest spattered head that reduces slowly, leaving behind textbook lacing. The aroma is delicious; smoky Worcestershire sauce, leather, iodine and grilled steak. Flavours of smoky-sweet malts, roasted peat, coffee beans and a well-bittered finish. Overall this is a rather exotic brew with a defined barrel influence. It’s refined rather than over the top and very delicious indeed.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo' and Gaelic for ‘black oil') was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 12, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 12 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 12 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 12 pours black with a modest spattered head that reduces slowly, leaving behind textbook lacing. The aroma is delicious; smoky Worcestershire sauce, leather, iodine and grilled steak. Flavours of smoky-sweet malts, roasted peat, coffee beans and a well-bittered finish. Overall this is a rather exotic brew with a defined barrel influence. It's refined rather than over the top and very delicious indeed.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"beer_style": "Porter - Imperial / Double",
 						"has_had": false,
 						"beer_active": 1
@@ -42740,7 +40071,7 @@
 							"badge_id": 263,
 							"user_badge_id": 310589208,
 							"badge_name": "Heavy Weight (Level 6)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 30 different beers with the style of Porter or Stout. Try 5 more to unlock Level 7.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 30 different beers with the style of Porter or Stout. Try 5 more to unlock Level 7.",
 							"created_at": "Fri, 02 Mar 2018 19:50:05 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -42751,7 +40082,7 @@
 							"badge_id": 5385,
 							"user_badge_id": 310589209,
 							"badge_name": "2X (Level 5)",
-							"badge_description": "When a single isn’t enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 25 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 6!",
+							"badge_description": "When a single isn't enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 25 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 6!",
 							"created_at": "Fri, 02 Mar 2018 19:50:05 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_2xCore_sm.jpg",
@@ -42917,7 +40248,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-18-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh 18 (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) is what you get when you age Old Engine Oil in casks formerly used to mature Highland Park 18 (‘Best Spirit in the World’), which imparts a fruity, whisky character into our rich, dark beer.\n\nOla Dubh was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 18, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 18 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThe initial whisky hit on the nose gives way to more delicate aromas of chocolate, fruity coffee grounds and hints of woodland berries. The flavour is a very appetising blend of sweet malts, vanilla, oak and tobacco. It has undertones of raisins and other dark, dried fruits; a delicious testament to Highland Park’s bias toward sherry casks.\n\nHOPS: Galena, East Kent Goldings, Fuggles",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh 18 (pronounced ‘ola-doo' and Gaelic for ‘black oil') is what you get when you age Old Engine Oil in casks formerly used to mature Highland Park 18 (‘Best Spirit in the World'), which imparts a fruity, whisky character into our rich, dark beer.\n\nOla Dubh was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 18, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 18 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThe initial whisky hit on the nose gives way to more delicate aromas of chocolate, fruity coffee grounds and hints of woodland berries. The flavour is a very appetising blend of sweet malts, vanilla, oak and tobacco. It has undertones of raisins and other dark, dried fruits; a delicious testament to Highland Park's bias toward sherry casks.\n\nHOPS: Galena, East Kent Goldings, Fuggles",
 						"beer_style": "Porter - Imperial / Double",
 						"has_had": false,
 						"beer_active": 1
@@ -43139,7 +40470,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-18-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh 18 (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) is what you get when you age Old Engine Oil in casks formerly used to mature Highland Park 18 (‘Best Spirit in the World’), which imparts a fruity, whisky character into our rich, dark beer.\n\nOla Dubh was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 18, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 18 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThe initial whisky hit on the nose gives way to more delicate aromas of chocolate, fruity coffee grounds and hints of woodland berries. The flavour is a very appetising blend of sweet malts, vanilla, oak and tobacco. It has undertones of raisins and other dark, dried fruits; a delicious testament to Highland Park’s bias toward sherry casks.\n\nHOPS: Galena, East Kent Goldings, Fuggles",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh 18 (pronounced ‘ola-doo' and Gaelic for ‘black oil') is what you get when you age Old Engine Oil in casks formerly used to mature Highland Park 18 (‘Best Spirit in the World'), which imparts a fruity, whisky character into our rich, dark beer.\n\nOla Dubh was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 18, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 18 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThe initial whisky hit on the nose gives way to more delicate aromas of chocolate, fruity coffee grounds and hints of woodland berries. The flavour is a very appetising blend of sweet malts, vanilla, oak and tobacco. It has undertones of raisins and other dark, dried fruits; a delicious testament to Highland Park's bias toward sherry casks.\n\nHOPS: Galena, East Kent Goldings, Fuggles",
 						"beer_style": "Porter - Imperial / Double",
 						"has_had": false,
 						"beer_active": 1
@@ -43272,7 +40603,7 @@
 							"badge_id": 3010,
 							"user_badge_id": 310581711,
 							"badge_name": "Heavy Weight (Level 24)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 120 different beers with the style of Porter or Stout. Try 5 more to unlock Level 25.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 120 different beers with the style of Porter or Stout. Try 5 more to unlock Level 25.",
 							"created_at": "Fri, 02 Mar 2018 19:36:10 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -43376,7 +40707,7 @@
 							"badge_id": 261,
 							"user_badge_id": 310579772,
 							"badge_name": "Heavy Weight (Level 4)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 20 different beers with the style of Porter or Stout. Try 5 more to unlock Level 5.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 20 different beers with the style of Porter or Stout. Try 5 more to unlock Level 5.",
 							"created_at": "Fri, 02 Mar 2018 19:32:38 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -43575,7 +40906,7 @@
 							"badge_id": 264,
 							"user_badge_id": 310574002,
 							"badge_name": "Heavy Weight (Level 7)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 35 different beers with the style of Porter or Stout. Try 5 more to unlock Level 8.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 35 different beers with the style of Porter or Stout. Try 5 more to unlock Level 8.",
 							"created_at": "Fri, 02 Mar 2018 19:21:16 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -43586,7 +40917,7 @@
 							"badge_id": 5386,
 							"user_badge_id": 310574003,
 							"badge_name": "2X (Level 6)",
-							"badge_description": "When a single isn’t enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 30 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 7!",
+							"badge_description": "When a single isn't enough, make it a double. Doubling the hops and malts in a recipe results in a higher ABV and can pack quite a boozey punch. That's 30 different beers with the style that contains Imperial / Double in its style name. Try 5 more for Level 7!",
 							"created_at": "Fri, 02 Mar 2018 19:21:16 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_2xCore_sm.jpg",
@@ -43740,7 +41071,7 @@
 							"badge_id": 260,
 							"user_badge_id": 310569102,
 							"badge_name": "Heavy Weight (Level 3)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 15 different beers with the style of Porter or Stout. Try 5 more to unlock Level 4.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 15 different beers with the style of Porter or Stout. Try 5 more to unlock Level 4.",
 							"created_at": "Fri, 02 Mar 2018 19:12:00 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -43822,7 +41153,7 @@
 						"beer_abv": 4.2,
 						"beer_ibu": 34,
 						"beer_slug": "harviestoun-brewery-bitter-twisted",
-						"beer_description": "Note: This beer is 3.8% ABV in cask, 4.2% in keg and bottle.\n\nSupreme Champion Beer of Britain… World’s Best Ale… Firm favourite of beer drinkers around the world… Where to start when talking about this immensely drinkable and enjoyable golden ale?\n\nBitter & Twisted is a superbly-balanced, refreshingly-lively beer. It has a malty-sweet aroma with a floral, fruity hoppiness and a zingy, zesty flavour. Complex, rounded, sweet and dry; this is the connoisseurs' session beer par excellence!\n\nIt was first brewed in 1997 shortly after which (and unrelated to the new brew) a wee fracas broke out in the brewhouse. Feathers flew. There was some colourful language. One or more wives may have been involved. Nobody can remember exactly who was called \"bitter & twisted\", by whom, or even why! But it was one heck of a name-day for this great beer!\n\nHOPS: Hersbruker, Celeia, Perle, Bobek\n\nMALTS: Lager malt, crystal malt, malted wheat & oats",
+						"beer_description": "Note: This beer is 3.8% ABV in cask, 4.2% in keg and bottle.\n\nSupreme Champion Beer of Britain… World's Best Ale… Firm favourite of beer drinkers around the world… Where to start when talking about this immensely drinkable and enjoyable golden ale?\n\nBitter & Twisted is a superbly-balanced, refreshingly-lively beer. It has a malty-sweet aroma with a floral, fruity hoppiness and a zingy, zesty flavour. Complex, rounded, sweet and dry; this is the connoisseurs' session beer par excellence!\n\nIt was first brewed in 1997 shortly after which (and unrelated to the new brew) a wee fracas broke out in the brewhouse. Feathers flew. There was some colourful language. One or more wives may have been involved. Nobody can remember exactly who was called \"bitter & twisted\", by whom, or even why! But it was one heck of a name-day for this great beer!\n\nHOPS: Hersbruker, Celeia, Perle, Bobek\n\nMALTS: Lager malt, crystal malt, malted wheat & oats",
 						"is_in_production": 1,
 						"created_at": "Sat, 21 Aug 2010 09:26:35 +0000",
 						"rating_score": 3.418,
@@ -43910,7 +41241,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-12-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 12, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 12 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 12 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 12 pours black with a modest spattered head that reduces slowly, leaving behind textbook lacing. The aroma is delicious; smoky Worcestershire sauce, leather, iodine and grilled steak. Flavours of smoky-sweet malts, roasted peat, coffee beans and a well-bittered finish. Overall this is a rather exotic brew with a defined barrel influence. It’s refined rather than over the top and very delicious indeed.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo' and Gaelic for ‘black oil') was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 12, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 12 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 12 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 12 pours black with a modest spattered head that reduces slowly, leaving behind textbook lacing. The aroma is delicious; smoky Worcestershire sauce, leather, iodine and grilled steak. Flavours of smoky-sweet malts, roasted peat, coffee beans and a well-bittered finish. Overall this is a rather exotic brew with a defined barrel influence. It's refined rather than over the top and very delicious indeed.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"is_in_production": 1,
 						"created_at": "Mon, 08 Nov 2010 06:50:13 +0000",
 						"rating_score": 4.03,
@@ -43954,7 +41285,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-18-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh 18 (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) is what you get when you age Old Engine Oil in casks formerly used to mature Highland Park 18 (‘Best Spirit in the World’), which imparts a fruity, whisky character into our rich, dark beer.\n\nOla Dubh was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 18, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 18 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThe initial whisky hit on the nose gives way to more delicate aromas of chocolate, fruity coffee grounds and hints of woodland berries. The flavour is a very appetising blend of sweet malts, vanilla, oak and tobacco. It has undertones of raisins and other dark, dried fruits; a delicious testament to Highland Park’s bias toward sherry casks.\n\nHOPS: Galena, East Kent Goldings, Fuggles",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh 18 (pronounced ‘ola-doo' and Gaelic for ‘black oil') is what you get when you age Old Engine Oil in casks formerly used to mature Highland Park 18 (‘Best Spirit in the World'), which imparts a fruity, whisky character into our rich, dark beer.\n\nOla Dubh was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 18, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 18 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nThe initial whisky hit on the nose gives way to more delicate aromas of chocolate, fruity coffee grounds and hints of woodland berries. The flavour is a very appetising blend of sweet malts, vanilla, oak and tobacco. It has undertones of raisins and other dark, dried fruits; a delicious testament to Highland Park's bias toward sherry casks.\n\nHOPS: Galena, East Kent Goldings, Fuggles",
 						"is_in_production": 1,
 						"created_at": "Fri, 10 Dec 2010 12:08:22 +0000",
 						"rating_score": 4.099,
@@ -43998,7 +41329,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-16-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 16, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 16 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nAged in oak casks formerly used to mature Highland Park 16 Year Old Single Malt Whisky, our thick, gloopy base beer takes on distinct whisky notes, perfectly complementing its roasty, toasty bitterness.\n\nLike the others, Ola Dubh 16 pours out jet black, with a small mocha-coloured head. There’s plenty to enjoy on the nose which is a classy blend of whisky, sweet roasted malts, earthy woodland and vanilla. The flavour is rich; loaded with sweet-roasted dark malts and coffee. And just at the finish there’s nice, smoky peat hints with just a touch more bourbon than the 12.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nOla Dubh (pronounced ‘ola-doo' and Gaelic for ‘black oil') was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance. To make Ola Dubh 16, we take our Old Engine Oil (amped up to 10.5%) and age it for up to 6 months in casks that previously held Highland Park 16 Year Old single malt. And it is ready only when our head brewer, Stuart, deems it ready!\n\nAged in oak casks formerly used to mature Highland Park 16 Year Old Single Malt Whisky, our thick, gloopy base beer takes on distinct whisky notes, perfectly complementing its roasty, toasty bitterness.\n\nLike the others, Ola Dubh 16 pours out jet black, with a small mocha-coloured head. There's plenty to enjoy on the nose which is a classy blend of whisky, sweet roasted malts, earthy woodland and vanilla. The flavour is rich; loaded with sweet-roasted dark malts and coffee. And just at the finish there's nice, smoky peat hints with just a touch more bourbon than the 12.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"is_in_production": 1,
 						"created_at": "Thu, 09 Dec 2010 11:59:44 +0000",
 						"rating_score": 4.064,
@@ -44042,7 +41373,7 @@
 						"beer_abv": 9,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-old-engine-oil-engineer-s-reserve",
-						"beer_description": "We brewed this after feedback from the USA suggested the abv of our original Old Engine Oil (6%) was too low for their tastes… So we created this intensely flavoured but incredibly smooth 9% brew especially for them! NOT AVAILABLE IN THE UK.\n\nHeavily-scented chocolate aroma with loads of roast malt and dark fruit. An incredibly thick, creamy mouthfeel. Loads of chocolate flavours, some coffee and a sweet, fruity note to boot. There’s some alcohol in there (it is 9% abv after all!) but instead of being a separate element, it elegantly ties all the complex flavours together. This is Old Engine Oil turned up to 11 in every way.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "We brewed this after feedback from the USA suggested the abv of our original Old Engine Oil (6%) was too low for their tastes… So we created this intensely flavoured but incredibly smooth 9% brew especially for them! NOT AVAILABLE IN THE UK.\n\nHeavily-scented chocolate aroma with loads of roast malt and dark fruit. An incredibly thick, creamy mouthfeel. Loads of chocolate flavours, some coffee and a sweet, fruity note to boot. There's some alcohol in there (it is 9% abv after all!) but instead of being a separate element, it elegantly ties all the complex flavours together. This is Old Engine Oil turned up to 11 in every way.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"is_in_production": 1,
 						"created_at": "Thu, 22 Dec 2011 20:55:43 +0000",
 						"rating_score": 4.016,
@@ -44218,7 +41549,7 @@
 						"beer_abv": 10.5,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-21-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nWe make Ola Dubh 21 by taking our Old Engine Oil (amped up to 10.5%) and aging it for up to 6 months in casks that previously held Highland Park’s phenomenal 21 Year Old single malt whisky.\n\nOla Dubh (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance.\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 21 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 21 pours deep brown with a burgundy flush and a head the colour of milled oatmeal. On the nose it has gently-finessed top notes of fresh heather and honey, subtly toasted malts and vanilla with balancing hints of red fruits and a distant, beguiling smoke. The flavour has elegantly-subtle developing wine-like notes; from bitter chocolate and espresso beans into to a sustained, oaked conclusion. Extended, oaky finish with pine resin, juniper, perfumed honey and traces of peat.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nWe make Ola Dubh 21 by taking our Old Engine Oil (amped up to 10.5%) and aging it for up to 6 months in casks that previously held Highland Park's phenomenal 21 Year Old single malt whisky.\n\nOla Dubh (pronounced ‘ola-doo' and Gaelic for ‘black oil') was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance.\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 21 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 21 pours deep brown with a burgundy flush and a head the colour of milled oatmeal. On the nose it has gently-finessed top notes of fresh heather and honey, subtly toasted malts and vanilla with balancing hints of red fruits and a distant, beguiling smoke. The flavour has elegantly-subtle developing wine-like notes; from bitter chocolate and espresso beans into to a sustained, oaked conclusion. Extended, oaky finish with pine resin, juniper, perfumed honey and traces of peat.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"is_in_production": 1,
 						"created_at": "Sat, 20 Apr 2013 15:48:06 +0000",
 						"rating_score": 4.151,
@@ -44262,7 +41593,7 @@
 						"beer_abv": 8,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-ola-dubh-30-year-special-reserve",
-						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nWe make Ola Dubh 30 by taking our Old Engine Oil (amped up to 10.5%) and aging it for up to 6 months in casks that previously held Highland Park’s phenomenal 30 Year Old single malt whisky.\n\nOla Dubh (pronounced ‘ola-doo’ and Gaelic for ‘black oil’) was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance.\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 30 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 30 pours deep brown with a burgundy flush and a head the colour of milled oatmeal. On the nose it has gently-finessed top notes of fresh heather and honey, subtly toasted malts and vanilla with balancing hints of red fruits and a distant, beguiling smoke. The flavour has elegantly-subtle developing wine-like notes; from bitter chocolate and espresso beans into to a sustained, oaked conclusion. Extended, oaky finish with pine resin, juniper, perfumed honey and traces of peat.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
+						"beer_description": "Note: This beer is 8% ABV in bottle, 10.5% in cask and keg.\n\nWe make Ola Dubh 30 by taking our Old Engine Oil (amped up to 10.5%) and aging it for up to 6 months in casks that previously held Highland Park's phenomenal 30 Year Old single malt whisky.\n\nOla Dubh (pronounced ‘ola-doo' and Gaelic for ‘black oil') was conceived in 2007. It was the first ale to be matured in whisky barrels from a named distillery and, with traceable casks and numbered bottles, it is a beer with real provenance.\n\nThis amazing brew has been aged in selected oak casks formerly used to mature Highland Park 30 Year Old Single Malt Whisky, adding complementary whisky notes to our chocolatey, bittersweet beer.\n\nOla Dubh 30 pours deep brown with a burgundy flush and a head the colour of milled oatmeal. On the nose it has gently-finessed top notes of fresh heather and honey, subtly toasted malts and vanilla with balancing hints of red fruits and a distant, beguiling smoke. The flavour has elegantly-subtle developing wine-like notes; from bitter chocolate and espresso beans into to a sustained, oaked conclusion. Extended, oaky finish with pine resin, juniper, perfumed honey and traces of peat.\n\nHOPS: Galena, East Kent Goldings, Fuggles\n\nMALTS: Roast barley, oats",
 						"is_in_production": 1,
 						"created_at": "Wed, 17 Nov 2010 08:02:25 +0000",
 						"rating_score": 4.185,
@@ -44306,7 +41637,7 @@
 						"beer_abv": 5.3,
 						"beer_ibu": 40,
 						"beer_slug": "harviestoun-brewery-raspy-engine",
-						"beer_description": "When we saw our head brewer Amy heading back from a nearby farm with a punnet of freshly-picked wild Scottish raspberries, we knew jam wasn’t on her mind. Sure enough, they were the latest under-bonnet tinkering with our beloved Old Engine Oil.",
+						"beer_description": "When we saw our head brewer Amy heading back from a nearby farm with a punnet of freshly-picked wild Scottish raspberries, we knew jam wasn't on her mind. Sure enough, they were the latest under-bonnet tinkering with our beloved Old Engine Oil.",
 						"is_in_production": 1,
 						"created_at": "Sat, 03 Sep 2016 18:57:21 +0000",
 						"rating_score": 3.55,
@@ -45964,7 +43295,7 @@
 				"items": [{
 					"checkin_id": 567767239,
 					"created_at": "Fri, 02 Mar 2018 19:21:01 +0000",
-					"checkin_comment": "Dry tea and pineapple. Doesn’t work",
+					"checkin_comment": "Dry tea and pineapple. Doesn't work",
 					"rating_score": 2.5,
 					"user": {
 						"uid": 977509,
@@ -46691,7 +44022,7 @@
 							"badge_id": 50,
 							"user_badge_id": 305852703,
 							"badge_name": "Drinking Your Paycheck",
-							"badge_description": "It’s been a long week and you deserve a drink, or five. Besides, isn’t that what your check is for?",
+							"badge_description": "It's been a long week and you deserve a drink, or five. Besides, isn't that what your check is for?",
 							"created_at": "Fri, 16 Feb 2018 23:38:32 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_payCheck_sm.jpg",
@@ -47320,7 +44651,7 @@
 							"badge_id": 5637,
 							"user_badge_id": 303155035,
 							"badge_name": "Wheel of Styles (Level 8)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 40 different styles. Try 5 more for Level 9!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 40 different styles. Try 5 more for Level 9!",
 							"created_at": "Fri, 09 Feb 2018 20:30:22 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -47881,7 +45212,7 @@
 							"badge_id": 5635,
 							"user_badge_id": 302462496,
 							"badge_name": "Wheel of Styles (Level 6)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 30 different styles. Try 5 more for Level 7!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 30 different styles. Try 5 more for Level 7!",
 							"created_at": "Wed, 07 Feb 2018 00:25:10 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -52175,7 +49506,7 @@
 				"items": [{
 					"checkin_id": 562021353,
 					"created_at": "Thu, 15 Feb 2018 11:11:47 +0000",
-					"checkin_comment": "peppery lil fella isn’t he?",
+					"checkin_comment": "peppery lil fella isn't he?",
 					"rating_score": 3.75,
 					"user": {
 						"uid": 3328184,
@@ -52951,7 +50282,7 @@
 							"badge_id": 3409,
 							"user_badge_id": 299070020,
 							"badge_name": "Better Together (Level 2)",
-							"badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that’s what! Cheers to working together to create the perfect flavor. That's 10 different beers that have been brewed as a collaboration. Try 5 more for Level 3!",
+							"badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that's what! Cheers to working together to create the perfect flavor. That's 10 different beers that have been brewed as a collaboration. Try 5 more for Level 3!",
 							"created_at": "Sun, 28 Jan 2018 19:36:07 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_BetterTogether_sm.jpg",
@@ -53072,7 +50403,7 @@
 							"badge_id": 5586,
 							"user_badge_id": 297274468,
 							"badge_name": "Verified Adventure (Level 6)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 30 check-ins at venue that is verified. Try 5 more for Level 7!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 30 check-ins at venue that is verified. Try 5 more for Level 7!",
 							"created_at": "Wed, 24 Jan 2018 18:25:17 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -53083,7 +50414,7 @@
 							"badge_id": 426,
 							"user_badge_id": 297274469,
 							"badge_name": "Trip to the Farm (Level 3)",
-							"badge_description": "You have a keen taste for this Belgian masterpiece. Did you know the Saison style beer was invented by Belgian farms, brewed in the Winter and served the Spring/Summer to all their workers? Well now you do! That’s 15 different Saisons, try 5 more for Level 4.",
+							"badge_description": "You have a keen taste for this Belgian masterpiece. Did you know the Saison style beer was invented by Belgian farms, brewed in the Winter and served the Spring/Summer to all their workers? Well now you do! That's 15 different Saisons, try 5 more for Level 4.",
 							"created_at": "Wed, 24 Jan 2018 18:25:18 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_saison_sm.jpg",
@@ -53571,7 +50902,7 @@
 				}, {
 					"checkin_id": 551191886,
 					"created_at": "Sun, 14 Jan 2018 22:32:14 +0000",
-					"checkin_comment": "Solid session pale ale. Didn’t get huge amounts of orange flavour, it was a little more subtle but enjoyable nevertheless.",
+					"checkin_comment": "Solid session pale ale. Didn't get huge amounts of orange flavour, it was a little more subtle but enjoyable nevertheless.",
 					"rating_score": 4,
 					"user": {
 						"uid": 2266304,
@@ -54008,7 +51339,7 @@
 						"beer_abv": 5.5,
 						"beer_ibu": 0,
 						"beer_slug": "out-of-town-brewing-telford-road-extra-pale-ale",
-						"beer_description": "’Extra’ is the hint. We imagined our perfect American Pale Ale, then we made it more. The rather extortionate hop list gives predictable intensity, but it is in exquisite balance with a complex and well-honed malt character.",
+						"beer_description": "'Extra' is the hint. We imagined our perfect American Pale Ale, then we made it more. The rather extortionate hop list gives predictable intensity, but it is in exquisite balance with a complex and well-honed malt character.",
 						"is_in_production": 1,
 						"created_at": "Thu, 24 Nov 2016 20:03:59 +0000",
 						"rating_score": 3.72,
@@ -55852,7 +53183,7 @@
 							"badge_id": 792,
 							"user_badge_id": 308899515,
 							"badge_name": "Photogenic Brew (Level 7)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 35 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 35 check-ins with a photo. ",
 							"created_at": "Sat, 24 Feb 2018 21:50:45 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -56195,7 +53526,7 @@
 							"badge_id": 5637,
 							"user_badge_id": 290514052,
 							"badge_name": "Wheel of Styles (Level 8)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 40 different styles. Try 5 more for Level 9!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 40 different styles. Try 5 more for Level 9!",
 							"created_at": "Fri, 05 Jan 2018 18:27:47 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -56644,7 +53975,7 @@
 							"badge_id": 719,
 							"user_badge_id": 287154841,
 							"badge_name": "Fruits of Your Labor (Level 9)",
-							"badge_description": "It’s been a long day and now it’s time for a reward. Crisp, tasty and refreshing, enjoy that delicious fruit beer! That's 45 different beers Fruit Beers. Try 5 more for Level 10.",
+							"badge_description": "It's been a long day and now it's time for a reward. Crisp, tasty and refreshing, enjoy that delicious fruit beer! That's 45 different beers Fruit Beers. Try 5 more for Level 10.",
 							"created_at": "Fri, 29 Dec 2017 00:13:13 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_FruitsOfYourLabor_sm.jpg",
@@ -56787,7 +54118,7 @@
 				}, {
 					"checkin_id": 540425556,
 					"created_at": "Wed, 20 Dec 2017 21:38:44 +0000",
-					"checkin_comment": "Incorrect abv, its 4.5%. Chinook hops don’t work for me at all, smells sour, too bitter and sharp. Far off the porter taste I wanted",
+					"checkin_comment": "Incorrect abv, its 4.5%. Chinook hops don't work for me at all, smells sour, too bitter and sharp. Far off the porter taste I wanted",
 					"rating_score": 2,
 					"user": {
 						"uid": 443491,
@@ -59931,7 +57262,7 @@
 						"beer_abv": 4.2,
 						"beer_ibu": 30,
 						"beer_slug": "shilling-brewing-co-black-star-teleporter",
-						"beer_description": "Using the best produce the galaxy has to offer we’ve made this coconut infused porter. After\nfermentation we infuse the beer with coconut that has been roasted to caramel log levels. A dry porter full of dark & roasted malts, this is finished with a lingering coconut sweetness.",
+						"beer_description": "Using the best produce the galaxy has to offer we've made this coconut infused porter. After\nfermentation we infuse the beer with coconut that has been roasted to caramel log levels. A dry porter full of dark & roasted malts, this is finished with a lingering coconut sweetness.",
 						"beer_style": "Porter - English",
 						"has_had": false,
 						"beer_active": 1
@@ -60026,7 +57357,7 @@
 							"badge_id": 5581,
 							"user_badge_id": 310558250,
 							"badge_name": "Verified Adventure",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 5 check-ins at venue that is verified. Try 5 more for Level 2!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 5 check-ins at venue that is verified. Try 5 more for Level 2!",
 							"created_at": "Fri, 02 Mar 2018 18:48:57 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -60178,7 +57509,7 @@
 						"beer_abv": 4.4,
 						"beer_ibu": 20,
 						"beer_slug": "shilling-brewing-co-glasgow-red",
-						"beer_description": "We added a bitter twist to the classic red ale.\nCandied plums on the nose with a toffee and caramel taste is overtaken by a hoppy bitterness. We’ve used a combination of Old and New World hop varieties to balance out the sugary malt to create this bitter-sweet ale.",
+						"beer_description": "We added a bitter twist to the classic red ale.\nCandied plums on the nose with a toffee and caramel taste is overtaken by a hoppy bitterness. We've used a combination of Old and New World hop varieties to balance out the sugary malt to create this bitter-sweet ale.",
 						"beer_style": "Red Ale - American Amber / Red",
 						"has_had": false,
 						"beer_active": 1
@@ -60874,7 +58205,7 @@
 							"badge_id": 94362,
 							"user_badge_id": 309605760,
 							"badge_name": "Photogenic Brew (Level 77)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 385 check-ins with a photo. Try 5 more for Level 78!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 385 check-ins with a photo. Try 5 more for Level 78!",
 							"created_at": "Mon, 26 Feb 2018 15:50:30 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -61003,7 +58334,7 @@
 							"badge_id": 3508,
 							"user_badge_id": 309597759,
 							"badge_name": "Liquid Lunch",
-							"badge_description": "Are you having a rough morning or perhaps just can’t wait for happy hour. Why not grab a quick pint with lunch and coast through the afternoon.",
+							"badge_description": "Are you having a rough morning or perhaps just can't wait for happy hour. Why not grab a quick pint with lunch and coast through the afternoon.",
 							"created_at": "Mon, 26 Feb 2018 12:48:40 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_LiquidLunch_sm.jpg",
@@ -61014,7 +58345,7 @@
 							"badge_id": 3,
 							"user_badge_id": 309597760,
 							"badge_name": "Journeyman",
-							"badge_description": "You're getting the hang of it, but there’s much more to try. That’s over 50 unique brews!",
+							"badge_description": "You're getting the hang of it, but there's much more to try. That's over 50 unique brews!",
 							"created_at": "Mon, 26 Feb 2018 12:48:40 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_check50_sm.jpg",
@@ -61025,7 +58356,7 @@
 							"badge_id": 5581,
 							"user_badge_id": 309597761,
 							"badge_name": "Verified Adventure",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 5 check-ins at venue that is verified. Try 5 more for Level 2!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 5 check-ins at venue that is verified. Try 5 more for Level 2!",
 							"created_at": "Mon, 26 Feb 2018 12:48:40 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -61625,7 +58956,7 @@
 							"badge_id": 309,
 							"user_badge_id": 309443871,
 							"badge_name": "Pucker Up (Level 6)",
-							"badge_description": "Right about now you’re feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can’t get enough. This is the wonder of the sour. That's 30 different Sour Beers. Try 5 more for Level 7.",
+							"badge_description": "Right about now you're feeling your face tighten and your taste buds explode. The full pucker is quickly setting in and you can't get enough. This is the wonder of the sour. That's 30 different Sour Beers. Try 5 more for Level 7.",
 							"created_at": "Sun, 25 Feb 2018 21:49:55 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_SourBrew_sm.jpg",
@@ -61846,7 +59177,7 @@
 						"beer_abv": 4.4,
 						"beer_ibu": 20,
 						"beer_slug": "shilling-brewing-co-glasgow-red",
-						"beer_description": "We added a bitter twist to the classic red ale.\nCandied plums on the nose with a toffee and caramel taste is overtaken by a hoppy bitterness. We’ve used a combination of Old and New World hop varieties to balance out the sugary malt to create this bitter-sweet ale.",
+						"beer_description": "We added a bitter twist to the classic red ale.\nCandied plums on the nose with a toffee and caramel taste is overtaken by a hoppy bitterness. We've used a combination of Old and New World hop varieties to balance out the sugary malt to create this bitter-sweet ale.",
 						"is_in_production": 1,
 						"created_at": "Thu, 09 Jun 2016 18:06:39 +0000",
 						"rating_score": 3.409,
@@ -61890,7 +59221,7 @@
 						"beer_abv": 4.2,
 						"beer_ibu": 30,
 						"beer_slug": "shilling-brewing-co-black-star-teleporter",
-						"beer_description": "Using the best produce the galaxy has to offer we’ve made this coconut infused porter. After\nfermentation we infuse the beer with coconut that has been roasted to caramel log levels. A dry porter full of dark & roasted malts, this is finished with a lingering coconut sweetness.",
+						"beer_description": "Using the best produce the galaxy has to offer we've made this coconut infused porter. After\nfermentation we infuse the beer with coconut that has been roasted to caramel log levels. A dry porter full of dark & roasted malts, this is finished with a lingering coconut sweetness.",
 						"is_in_production": 1,
 						"created_at": "Fri, 15 Jul 2016 13:34:28 +0000",
 						"rating_score": 3.53,
@@ -67845,7 +65176,7 @@
 				"items": [{
 					"checkin_id": 567666837,
 					"created_at": "Fri, 02 Mar 2018 10:35:21 +0000",
-					"checkin_comment": "I’m Never sure how to score beer types That I don’t find that interesting! Decent enough bitter",
+					"checkin_comment": "I'm Never sure how to score beer types That I don't find that interesting! Decent enough bitter",
 					"rating_score": 3.75,
 					"user": {
 						"uid": 1336327,
@@ -67966,7 +65297,7 @@
 							"badge_id": 3726,
 							"user_badge_id": 310478711,
 							"badge_name": "You're Extra Special (Level 3)",
-							"badge_description": "Whether you’re feeling extra special or extra strong, stopping by the local pub for a delicious ESB or English Bitter is always a good decision! That's 15 different beers with the style of ESB or English Bitter. Try 5 more for Level 4!",
+							"badge_description": "Whether you're feeling extra special or extra strong, stopping by the local pub for a delicious ESB or English Bitter is always a good decision! That's 15 different beers with the style of ESB or English Bitter. Try 5 more for Level 4!",
 							"created_at": "Fri, 02 Mar 2018 10:35:22 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_ExtraSpecial_sm.jpg",
@@ -68059,7 +65390,7 @@
 							"badge_id": 5331,
 							"user_badge_id": 309264737,
 							"badge_name": "So Udderly Sweet",
-							"badge_description": "Wouldn’t it be nice if milk stouts came directly from beer producing cows? While this unfortunately isn’t the case (yet) they do have a full body and sweetness due to a larger amount of lactose and sugars. That's 5 different beers with the style of Milk / Sweet Stout. Try 5 more for Level 2!",
+							"badge_description": "Wouldn't it be nice if milk stouts came directly from beer producing cows? While this unfortunately isn't the case (yet) they do have a full body and sweetness due to a larger amount of lactose and sugars. That's 5 different beers with the style of Milk / Sweet Stout. Try 5 more for Level 2!",
 							"created_at": "Sun, 25 Feb 2018 13:35:16 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_UdderlySweet_sm.jpg",
@@ -68166,7 +65497,7 @@
 							"badge_id": 5115,
 							"user_badge_id": 309245008,
 							"badge_name": "Wheel of Styles",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 5 different styles. Try 5 more for Level 2!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 5 different styles. Try 5 more for Level 2!",
 							"created_at": "Sun, 25 Feb 2018 08:50:26 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -68372,7 +65703,7 @@
 							"badge_id": 5332,
 							"user_badge_id": 308962884,
 							"badge_name": "So Udderly Sweet (Level 2)",
-							"badge_description": "Wouldn’t it be nice if milk stouts came directly from beer producing cows? While this unfortunately isn’t the case (yet) they do have a full body and sweetness due to a larger amount of lactose and sugars. That's 10 different beers with the style of Milk / Sweet Stout. Try 5 more for Level 3!",
+							"badge_description": "Wouldn't it be nice if milk stouts came directly from beer producing cows? While this unfortunately isn't the case (yet) they do have a full body and sweetness due to a larger amount of lactose and sugars. That's 10 different beers with the style of Milk / Sweet Stout. Try 5 more for Level 3!",
 							"created_at": "Sat, 24 Feb 2018 22:55:49 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_UdderlySweet_sm.jpg",
@@ -68465,7 +65796,7 @@
 							"badge_id": 3725,
 							"user_badge_id": 308656613,
 							"badge_name": "You're Extra Special (Level 2)",
-							"badge_description": "Whether you’re feeling extra special or extra strong, stopping by the local pub for a delicious ESB or English Bitter is always a good decision! That's 10 different beers with the style of ESB or English Bitter. Try 5 more for Level 3!",
+							"badge_description": "Whether you're feeling extra special or extra strong, stopping by the local pub for a delicious ESB or English Bitter is always a good decision! That's 10 different beers with the style of ESB or English Bitter. Try 5 more for Level 3!",
 							"created_at": "Sat, 24 Feb 2018 17:13:26 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_ExtraSpecial_sm.jpg",
@@ -69229,7 +66560,7 @@
 							"badge_id": 3728,
 							"user_badge_id": 305655425,
 							"badge_name": "You're Extra Special (Level 5)",
-							"badge_description": "Whether you’re feeling extra special or extra strong, stopping by the local pub for a delicious ESB or English Bitter is always a good decision! That's 25 different beers with the style of ESB or English Bitter. Try 5 more for Level 6!",
+							"badge_description": "Whether you're feeling extra special or extra strong, stopping by the local pub for a delicious ESB or English Bitter is always a good decision! That's 25 different beers with the style of ESB or English Bitter. Try 5 more for Level 6!",
 							"created_at": "Fri, 16 Feb 2018 17:57:48 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_ExtraSpecial_sm.jpg",
@@ -72055,7 +69386,7 @@
 							"badge_id": 186,
 							"user_badge_id": 310531920,
 							"badge_name": "Local Flavor",
-							"badge_description": "Supporting local breweries is what helps the craft beer scene grow. You obviously know this since you’re enjoying the local flavor! Be sure to always drink locally.",
+							"badge_description": "Supporting local breweries is what helps the craft beer scene grow. You obviously know this since you're enjoying the local flavor! Be sure to always drink locally.",
 							"created_at": "Fri, 02 Mar 2018 17:45:08 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_LocalFlavor_sm.jpg",
@@ -72431,7 +69762,7 @@
 							"badge_id": 265,
 							"user_badge_id": 310254389,
 							"badge_name": "Heavy Weight (Level 8)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 40 different beers with the style of Porter or Stout. Try 5 more to unlock Level 9.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 40 different beers with the style of Porter or Stout. Try 5 more to unlock Level 9.",
 							"created_at": "Thu, 01 Mar 2018 19:58:36 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -72693,7 +70024,7 @@
 							"badge_id": 5068,
 							"user_badge_id": 310236913,
 							"badge_name": "Iron Man (Level 4)",
-							"badge_description": "You don’t have to be a superhero to enjoy a strong beer. Boasting a higher than average ABV, these styles really do pack a punch, so be ready for it. That's 20 different beers with style of Strong Ale - American, Strong Ale - English, Belgian Strong Ale, Belgian Strong Dark Ale, Belgian Strong Golden Ale or Lager - Euro Strong. Try 5 more for Level 5!",
+							"badge_description": "You don't have to be a superhero to enjoy a strong beer. Boasting a higher than average ABV, these styles really do pack a punch, so be ready for it. That's 20 different beers with style of Strong Ale - American, Strong Ale - English, Belgian Strong Ale, Belgian Strong Dark Ale, Belgian Strong Golden Ale or Lager - Euro Strong. Try 5 more for Level 5!",
 							"created_at": "Thu, 01 Mar 2018 18:59:43 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_IronMan_sm.jpg",
@@ -74478,7 +71809,7 @@
 						"beer_abv": 4.4,
 						"beer_ibu": 0,
 						"beer_slug": "strathaven-ales-fiery-cauldron",
-						"beer_description": "This light amber seasonal ale has a distinctively spicy ginger aroma, leading to a complex, rich roasted character, from the first taste to the finish – balanced by subtle, underlying hop notes.",
+						"beer_description": "This light amber seasonal ale has a distinctively spicy ginger aroma, leading to a complex, rich roasted character, from the first taste to the finish - balanced by subtle, underlying hop notes.",
 						"is_in_production": 1,
 						"created_at": "Sat, 05 Nov 2011 08:57:22 +0000",
 						"rating_score": 3.273,
@@ -75627,7 +72958,7 @@
 							"badge_id": 413,
 							"user_badge_id": 281214820,
 							"badge_name": "Home Brewed Goodness",
-							"badge_description": "You've enjoyed all that commercial beer has to offer, so now it’s time to try some home brew. Be it your friend’s or your own, it tastes better home grown. That's 2 different beers that are homebrews. Try 2 more for Level 2!",
+							"badge_description": "You've enjoyed all that commercial beer has to offer, so now it's time to try some home brew. Be it your friend's or your own, it tastes better home grown. That's 2 different beers that are homebrews. Try 2 more for Level 2!",
 							"created_at": "Fri, 15 Dec 2017 23:40:33 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_homebrew_sm.jpg",
@@ -75660,7 +72991,7 @@
 							"badge_id": 2036,
 							"user_badge_id": 281214823,
 							"badge_name": "Land of the Free (Level 50)",
-							"badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 250 different beers from a brewery in the United States. Try 5 more for Level 51!",
+							"badge_description": "You've pledged allegiance, and now it's time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That's 250 different beers from a brewery in the United States. Try 5 more for Level 51!",
 							"created_at": "Fri, 15 Dec 2017 23:40:33 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_america_sm.jpg",
@@ -76047,7 +73378,7 @@
 							"badge_id": 5115,
 							"user_badge_id": 143562674,
 							"badge_name": "Wheel of Styles",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 5 different styles. Try 5 more for Level 2!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 5 different styles. Try 5 more for Level 2!",
 							"created_at": "Thu, 13 Oct 2016 00:50:54 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -76363,7 +73694,7 @@
 							"badge_id": 406,
 							"user_badge_id": 55281769,
 							"badge_name": "Land of the Free",
-							"badge_description": "You’ve pledged allegiance, and now it’s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That’s 5 different beers from a brewery in the United States. Try 5 more for Level 2.",
+							"badge_description": "You've pledged allegiance, and now it's time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That's 5 different beers from a brewery in the United States. Try 5 more for Level 2.",
 							"created_at": "Fri, 24 Apr 2015 03:50:42 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_america_sm.jpg",
@@ -76714,7 +74045,7 @@
 							"badge_id": 412,
 							"user_badge_id": 51645302,
 							"badge_name": "Photogenic Brew",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 5 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 5 check-ins with a photo. ",
 							"created_at": "Thu, 26 Mar 2015 01:02:05 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -76964,7 +74295,7 @@
 							"badge_id": 413,
 							"user_badge_id": 41995002,
 							"badge_name": "Home Brewed Goodness",
-							"badge_description": "You've enjoyed all that commercial beer has to offer, so now it’s time to try some home brew. Be it your friend’s or your own, it tastes better home grown. That's 2 different beers that are homebrews. Try 2 more for Level 2!",
+							"badge_description": "You've enjoyed all that commercial beer has to offer, so now it's time to try some home brew. Be it your friend's or your own, it tastes better home grown. That's 2 different beers that are homebrews. Try 2 more for Level 2!",
 							"created_at": "Thu, 01 Jan 2015 06:32:06 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_homebrew_sm.jpg",
@@ -78546,7 +75877,7 @@
 							"badge_id": 5633,
 							"user_badge_id": 310539522,
 							"badge_name": "Wheel of Styles (Level 4)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 20 different styles. Try 5 more for Level 5!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 20 different styles. Try 5 more for Level 5!",
 							"created_at": "Fri, 02 Mar 2018 18:04:28 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -78591,7 +75922,7 @@
 						"beer_abv": 6.2,
 						"beer_ibu": 0,
 						"beer_slug": "thistly-cross-cider-thistly-cross-original",
-						"beer_description": "The original cider from Scotland’s first dedicated Cidermaker – this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
+						"beer_description": "The original cider from Scotland's first dedicated Cidermaker - this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
 						"beer_style": "Cider",
 						"has_had": false,
 						"beer_active": 1
@@ -78695,7 +76026,7 @@
 						"beer_abv": 6.2,
 						"beer_ibu": 0,
 						"beer_slug": "thistly-cross-cider-thistly-cross-original",
-						"beer_description": "The original cider from Scotland’s first dedicated Cidermaker – this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
+						"beer_description": "The original cider from Scotland's first dedicated Cidermaker - this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
 						"beer_style": "Cider",
 						"has_had": false,
 						"beer_active": 1
@@ -78826,7 +76157,7 @@
 							"badge_id": 94347,
 							"user_badge_id": 310524410,
 							"badge_name": "Photogenic Brew (Level 62)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 310 check-ins with a photo. Try 5 more for Level 63!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 310 check-ins with a photo. Try 5 more for Level 63!",
 							"created_at": "Fri, 02 Mar 2018 17:23:42 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -78871,7 +76202,7 @@
 						"beer_abv": 6.2,
 						"beer_ibu": 0,
 						"beer_slug": "thistly-cross-cider-thistly-cross-original",
-						"beer_description": "The original cider from Scotland’s first dedicated Cidermaker – this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
+						"beer_description": "The original cider from Scotland's first dedicated Cidermaker - this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
 						"beer_style": "Cider",
 						"has_had": false,
 						"beer_active": 1
@@ -79032,7 +76363,7 @@
 							"badge_id": 3723,
 							"user_badge_id": 310486692,
 							"badge_name": "Tea Time",
-							"badge_description": "Instead of a spot of tea, why not enjoy a proper pint. That doesn’t mean you can't get all dressed up for it, so throw on your fanciest hat and enjoy that brew!",
+							"badge_description": "Instead of a spot of tea, why not enjoy a proper pint. That doesn't mean you can't get all dressed up for it, so throw on your fanciest hat and enjoy that brew!",
 							"created_at": "Fri, 02 Mar 2018 13:09:47 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_TeaTime_sm.jpg",
@@ -79380,7 +76711,7 @@
 							"badge_id": 795,
 							"user_badge_id": 310375215,
 							"badge_name": "Photogenic Brew (Level 10)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 50 check-ins with a photo. Take 5 more for Level 11!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 50 check-ins with a photo. Take 5 more for Level 11!",
 							"created_at": "Fri, 02 Mar 2018 01:01:35 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -79873,7 +77204,7 @@
 							"badge_id": 5587,
 							"user_badge_id": 310215543,
 							"badge_name": "Verified Adventure (Level 7)",
-							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what’s on tap! That's 35 check-ins at venue that is verified. Try 5 more for Level 8!",
+							"badge_description": "While spontaneity can be fun, sometimes you want to make sure your adventure will rock. Checkout the menu at an Untappd Verified Venue before visiting and know exactly what's on tap! That's 35 check-ins at venue that is verified. Try 5 more for Level 8!",
 							"created_at": "Thu, 01 Mar 2018 17:26:52 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_VerifiedVenue_sm.jpg",
@@ -80054,7 +77385,7 @@
 						"beer_abv": 6.2,
 						"beer_ibu": 0,
 						"beer_slug": "thistly-cross-cider-thistly-cross-original",
-						"beer_description": "The original cider from Scotland’s first dedicated Cidermaker – this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
+						"beer_description": "The original cider from Scotland's first dedicated Cidermaker - this is where it all began. This premium Farmhouse drink is carefully handcrafted in small batches with local fruit to produce a refreshing and well balanced cider that will change your perception of cider forever.",
 						"is_in_production": 1,
 						"created_at": "Wed, 17 Aug 2011 09:30:49 +0000",
 						"rating_score": 3.691,
@@ -82337,7 +79668,7 @@
 							"badge_id": 3417,
 							"user_badge_id": 310519553,
 							"badge_name": "Better Together (Level 10)",
-							"badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that’s what! Cheers to working together to create the perfect flavor. That's 50 different beers that have been brewed as a collaboration. Try 5 more for Level 11!",
+							"badge_description": "What happens when you take two or more amazing breweries, throw them into the tank and let them ferment together? An amazing collaboration beer, that's what! Cheers to working together to create the perfect flavor. That's 50 different beers that have been brewed as a collaboration. Try 5 more for Level 11!",
 							"created_at": "Fri, 02 Mar 2018 17:09:12 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_BetterTogether_sm.jpg",
@@ -82462,7 +79793,7 @@
 							"badge_id": 265,
 							"user_badge_id": 310514422,
 							"badge_name": "Heavy Weight (Level 8)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 40 different beers with the style of Porter or Stout. Try 5 more to unlock Level 9.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 40 different beers with the style of Porter or Stout. Try 5 more to unlock Level 9.",
 							"created_at": "Fri, 02 Mar 2018 16:50:38 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -82736,7 +80067,7 @@
 							"badge_id": 94339,
 							"user_badge_id": 310200695,
 							"badge_name": "Photogenic Brew (Level 54)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 270 check-ins with a photo. Try 5 more for Level 55!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 270 check-ins with a photo. Try 5 more for Level 55!",
 							"created_at": "Thu, 01 Mar 2018 15:31:46 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -83215,7 +80546,7 @@
 							"badge_id": 3021,
 							"user_badge_id": 308872608,
 							"badge_name": "Heavy Weight (Level 35)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 175 different beers with the style of Porter or Stout. Try 5 more to unlock Level 36.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 175 different beers with the style of Porter or Stout. Try 5 more to unlock Level 36.",
 							"created_at": "Sat, 24 Feb 2018 21:23:46 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -83932,7 +81263,7 @@
 							"badge_id": 3002,
 							"user_badge_id": 306244067,
 							"badge_name": "Heavy Weight (Level 16)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 80 different beers with the style of Porter or Stout. Try 5 more to unlock Level 17.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 80 different beers with the style of Porter or Stout. Try 5 more to unlock Level 17.",
 							"created_at": "Sat, 17 Feb 2018 19:08:00 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -86096,7 +83427,7 @@
 							"badge_id": 3021,
 							"user_badge_id": 310587418,
 							"badge_name": "Heavy Weight (Level 35)",
-							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That’s 175 different beers with the style of Porter or Stout. Try 5 more to unlock Level 36.",
+							"badge_description": "You like it thick and dark. Your beer! What did you think we were talking about? That's 175 different beers with the style of Porter or Stout. Try 5 more to unlock Level 36.",
 							"created_at": "Fri, 02 Mar 2018 19:46:40 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_heavyWeight_sm.jpg",
@@ -86226,7 +83557,7 @@
 						"beer_abv": 9.2,
 						"beer_ibu": 0,
 						"beer_slug": "tempest-brewing-co-the-old-fashioned",
-						"beer_description": "An American original reimagined.\r\n\r\nSit yourself down at the bar, and sip on our rye imperial pale ale aged in Heaven Hill bourbon barrels. For our latest barrel aged concoction, we decided to pay homage to one of the original, classy cocktails that would truly test our ability to balance flavours. What's more, it's in 660ml bottles and hand labelled and wax dipped for that extra touch.\r\n\r\nThe Old Fashioned takes our well-loved orange and ginger double IPA, and infuses it with the smooth, warming, vanilla character of Heaven Hill’s famous Kentucky straight bourbon. Sweet and rich on the nose, you’ll likely be surprised at just how reminiscent of its namesake it is. The vanilla and oak from the barrel brings out the sweeter notes in the orange and ginger on the palate, but the hops give that distinct bitterness you’d expect in the cocktail itself and a lasting warmth in the finish. It has also been conditioned in bottle, allowing it to develop a rich, smooth texture that goes down a treat.\r\n\r\nThis has a pale ale base with lots of hops and citrus fruits; you want to taste the freshness. It is not for extended maturation. Despite its bottle conditioning, it will not benefit from extended aging, as we have matured it in barrels already.",
+						"beer_description": "An American original reimagined.\r\n\r\nSit yourself down at the bar, and sip on our rye imperial pale ale aged in Heaven Hill bourbon barrels. For our latest barrel aged concoction, we decided to pay homage to one of the original, classy cocktails that would truly test our ability to balance flavours. What's more, it's in 660ml bottles and hand labelled and wax dipped for that extra touch.\r\n\r\nThe Old Fashioned takes our well-loved orange and ginger double IPA, and infuses it with the smooth, warming, vanilla character of Heaven Hill's famous Kentucky straight bourbon. Sweet and rich on the nose, you'll likely be surprised at just how reminiscent of its namesake it is. The vanilla and oak from the barrel brings out the sweeter notes in the orange and ginger on the palate, but the hops give that distinct bitterness you'd expect in the cocktail itself and a lasting warmth in the finish. It has also been conditioned in bottle, allowing it to develop a rich, smooth texture that goes down a treat.\r\n\r\nThis has a pale ale base with lots of hops and citrus fruits; you want to taste the freshness. It is not for extended maturation. Despite its bottle conditioning, it will not benefit from extended aging, as we have matured it in barrels already.",
 						"beer_style": "IPA - Rye",
 						"has_had": false,
 						"beer_active": 1
@@ -86321,7 +83652,7 @@
 							"badge_id": 94379,
 							"user_badge_id": 310580914,
 							"badge_name": "Photogenic Brew (Level 94)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 470 check-ins with a photo. Try 5 more for Level 95!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 470 check-ins with a photo. Try 5 more for Level 95!",
 							"created_at": "Fri, 02 Mar 2018 19:34:47 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -86713,7 +84044,7 @@
 							"badge_id": 94342,
 							"user_badge_id": 310575620,
 							"badge_name": "Photogenic Brew (Level 57)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s That's 285 check-ins with a photo. Try 5 more for Level 58!",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's That's 285 check-ins with a photo. Try 5 more for Level 58!",
 							"created_at": "Fri, 02 Mar 2018 19:24:14 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -87626,7 +84957,7 @@
 						"beer_abv": 5.2,
 						"beer_ibu": 0,
 						"beer_slug": "tempest-brewing-co-drop-kick-me-jesus",
-						"beer_description": "A tart, peachy sour pale ale dry hopped to hell and back with Amarillo. A great beer for sitting back in the sun, it’s refreshing, with a tart finish and mandarin, citrus notes.",
+						"beer_description": "A tart, peachy sour pale ale dry hopped to hell and back with Amarillo. A great beer for sitting back in the sun, it's refreshing, with a tart finish and mandarin, citrus notes.",
 						"is_in_production": 1,
 						"created_at": "Thu, 30 Jun 2016 07:07:55 +0000",
 						"rating_score": 3.649,
@@ -88242,7 +85573,7 @@
 						"beer_abv": 9.2,
 						"beer_ibu": 0,
 						"beer_slug": "tempest-brewing-co-the-old-fashioned",
-						"beer_description": "An American original reimagined.\r\n\r\nSit yourself down at the bar, and sip on our rye imperial pale ale aged in Heaven Hill bourbon barrels. For our latest barrel aged concoction, we decided to pay homage to one of the original, classy cocktails that would truly test our ability to balance flavours. What's more, it's in 660ml bottles and hand labelled and wax dipped for that extra touch.\r\n\r\nThe Old Fashioned takes our well-loved orange and ginger double IPA, and infuses it with the smooth, warming, vanilla character of Heaven Hill’s famous Kentucky straight bourbon. Sweet and rich on the nose, you’ll likely be surprised at just how reminiscent of its namesake it is. The vanilla and oak from the barrel brings out the sweeter notes in the orange and ginger on the palate, but the hops give that distinct bitterness you’d expect in the cocktail itself and a lasting warmth in the finish. It has also been conditioned in bottle, allowing it to develop a rich, smooth texture that goes down a treat.\r\n\r\nThis has a pale ale base with lots of hops and citrus fruits; you want to taste the freshness. It is not for extended maturation. Despite its bottle conditioning, it will not benefit from extended aging, as we have matured it in barrels already.",
+						"beer_description": "An American original reimagined.\r\n\r\nSit yourself down at the bar, and sip on our rye imperial pale ale aged in Heaven Hill bourbon barrels. For our latest barrel aged concoction, we decided to pay homage to one of the original, classy cocktails that would truly test our ability to balance flavours. What's more, it's in 660ml bottles and hand labelled and wax dipped for that extra touch.\r\n\r\nThe Old Fashioned takes our well-loved orange and ginger double IPA, and infuses it with the smooth, warming, vanilla character of Heaven Hill's famous Kentucky straight bourbon. Sweet and rich on the nose, you'll likely be surprised at just how reminiscent of its namesake it is. The vanilla and oak from the barrel brings out the sweeter notes in the orange and ginger on the palate, but the hops give that distinct bitterness you'd expect in the cocktail itself and a lasting warmth in the finish. It has also been conditioned in bottle, allowing it to develop a rich, smooth texture that goes down a treat.\r\n\r\nThis has a pale ale base with lots of hops and citrus fruits; you want to taste the freshness. It is not for extended maturation. Despite its bottle conditioning, it will not benefit from extended aging, as we have matured it in barrels already.",
 						"is_in_production": 1,
 						"created_at": "Wed, 28 Dec 2016 13:23:16 +0000",
 						"rating_score": 3.924,
@@ -93095,7 +90426,7 @@
 							"badge_id": 1798,
 							"user_badge_id": 310590580,
 							"badge_name": "Photogenic Brew (Level 12)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 60 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 60 check-ins with a photo. ",
 							"created_at": "Fri, 02 Mar 2018 19:52:43 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -93265,7 +90596,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -93342,7 +90673,7 @@
 							"badge_id": 788,
 							"user_badge_id": 310550279,
 							"badge_name": "Photogenic Brew (Level 3)",
-							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it’s time to drink it! That’s 15 check-ins with a photo. ",
+							"badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it's time to drink it! That's 15 check-ins with a photo. ",
 							"created_at": "Fri, 02 Mar 2018 18:31:21 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_beertography_sm.jpg",
@@ -93353,7 +90684,7 @@
 							"badge_id": 5633,
 							"user_badge_id": 310550280,
 							"badge_name": "Wheel of Styles (Level 4)",
-							"badge_description": "Round and round the wheel goes! Which style you’ll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 20 different styles. Try 5 more for Level 5!",
+							"badge_description": "Round and round the wheel goes! Which style you'll be drinking, nobody knows! Your desire to explore different styles is inspiring. Keep it up! That's a check-in to at least 20 different styles. Try 5 more for Level 5!",
 							"created_at": "Fri, 02 Mar 2018 18:31:21 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_WheelofStyles_sm.jpg",
@@ -93387,7 +90718,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -93483,7 +90814,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -93568,7 +90899,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -93910,7 +91241,7 @@
 							"badge_id": 35,
 							"user_badge_id": 310485292,
 							"badge_name": "Birthday Brew",
-							"badge_description": "Happy birthday to you! Hopefully you’ll remember this tomorrow.",
+							"badge_description": "Happy birthday to you! Hopefully you'll remember this tomorrow.",
 							"created_at": "Fri, 02 Mar 2018 12:47:20 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_bdayBrew_sm.jpg",
@@ -93944,7 +91275,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -94125,7 +91456,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-dunkel",
-						"beer_description": "A unique recipe to WEST, our Dunkel (meaning dark’ in German) is a special blend of five malts and expertly hopped for added bite, creating a complex beer with an aroma and flavour profile of spice, espresso, dark chocolate, molasses and walnut, yet still highly clean and drinkable.",
+						"beer_description": "A unique recipe to WEST, our Dunkel (meaning dark' in German) is a special blend of five malts and expertly hopped for added bite, creating a complex beer with an aroma and flavour profile of spice, espresso, dark chocolate, molasses and walnut, yet still highly clean and drinkable.",
 						"beer_style": "Lager - Dunkel Munich",
 						"has_had": false,
 						"beer_active": 1
@@ -94199,7 +91530,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -94334,7 +91665,7 @@
 							"badge_id": 423,
 							"user_badge_id": 310222147,
 							"badge_name": "Crisp as Day (Level 10)",
-							"badge_description": "Light and crisp, a Pilsner is all you need to make your day great. Though, perhaps another one would make it even better. That’s 50 different Pilsners. Try 5 more for Level 11.",
+							"badge_description": "Light and crisp, a Pilsner is all you need to make your day great. Though, perhaps another one would make it even better. That's 50 different Pilsners. Try 5 more for Level 11.",
 							"created_at": "Thu, 01 Mar 2018 18:00:23 +0000",
 							"badge_image": {
 								"sm": "https://untappd.akamaized.net/badges/bdg_pilsner_sm.jpg",
@@ -94368,7 +91699,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -94453,7 +91784,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -94751,7 +92082,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"beer_style": "Pilsner - German",
 						"has_had": false,
 						"beer_active": 1
@@ -95064,7 +92395,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-st-mungo",
-						"beer_description": "West’s signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
+						"beer_description": "West's signature Munich-style lager beer. Carefully selected imported ingredients create a crisp and clean beer with satisfying malt sweetness, complimented by delicate hop bitterness.",
 						"is_in_production": 1,
 						"created_at": "Sat, 27 Nov 2010 03:40:44 +0000",
 						"rating_score": 3.43,
@@ -95372,7 +92703,7 @@
 						"beer_abv": 4.9,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-dunkel",
-						"beer_description": "A unique recipe to WEST, our Dunkel (meaning dark’ in German) is a special blend of five malts and expertly hopped for added bite, creating a complex beer with an aroma and flavour profile of spice, espresso, dark chocolate, molasses and walnut, yet still highly clean and drinkable.",
+						"beer_description": "A unique recipe to WEST, our Dunkel (meaning dark' in German) is a special blend of five malts and expertly hopped for added bite, creating a complex beer with an aroma and flavour profile of spice, espresso, dark chocolate, molasses and walnut, yet still highly clean and drinkable.",
 						"is_in_production": 1,
 						"created_at": "Fri, 14 Jan 2011 11:15:29 +0000",
 						"rating_score": 3.58,
@@ -95504,7 +92835,7 @@
 						"beer_abv": 4.6,
 						"beer_ibu": 0,
 						"beer_slug": "west-brewery-feierabend",
-						"beer_description": "If you’re coming to see us at Glasgow Green make sure you try our brand new beer – FEIERABEND (pronounced fire – a – bend).\r\n\r\nGerman for ‘finishing time’, ‘down-tools’, clocking off or ‘celebrate the evening and the successful end to the working day.’\r\n\r\nThe perfect Friday pint of pilsner!",
+						"beer_description": "If you're coming to see us at Glasgow Green make sure you try our brand new beer - FEIERABEND (pronounced fire - a - bend).\r\n\r\nGerman for ‘finishing time', ‘down-tools', clocking off or ‘celebrate the evening and the successful end to the working day.'\r\n\r\nThe perfect Friday pint of pilsner!",
 						"is_in_production": 1,
 						"created_at": "Sat, 28 Mar 2015 22:47:41 +0000",
 						"rating_score": 3.444,
@@ -96229,7 +93560,7 @@
 		"dugs": {
 			"dugs": {
 				"title": "Dug's Pub",
-				"content": "Pubs and 'dugs' go hand-in-hand. There’s not much better than going a nice big walk with the pooch then popping into your local for a pint and a read of the paper. But what do you do with 'little snoop' during the summer festival season, in crowded fields with loud music and thousands of people?  Well, the Eaglesham Beer Festival has you covered.<br /><br />We absolutely love dogs and felt it was about time to take the next step and make sure our four-legged friends were catered for So, introducing Dug's Pub, we have teamed up with The Pet Empawrium in East Kilbride to serve up plenty of dog beer and Pawsecco, tasty treats, chew toys and an area dedicated to dogs and dog lovers. As well as being kitted out with everything dogs need to enjoy a festival, Dug's Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that's human beer.<br /><br />The Pet Empawrium on Glenburn Road in East Kilbride is Scotland's first all-inclusive pet centre, stocking an extensive range of natural treats and foods for animals, including a wide range of raw food and treats, quality apparel and toys. So you might say Dug's Pub is the perfect day out for dog lovers this summer."
+				"content": "Pubs and 'dugs' go hand-in-hand. There's not much better than going a nice big walk with the pooch then popping into your local for a pint and a read of the paper. But what do you do with 'little snoop' during the summer festival season, in crowded fields with loud music and thousands of people?  Well, the Eaglesham Beer Festival has you covered.<br /><br />We absolutely love dogs and felt it was about time to take the next step and make sure our four-legged friends were catered for So, introducing Dug's Pub, we have teamed up with The Pet Empawrium in East Kilbride to serve up plenty of dog beer and Pawsecco, tasty treats, chew toys and an area dedicated to dogs and dog lovers. As well as being kitted out with everything dogs need to enjoy a festival, Dug's Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own - and that's human beer.<br /><br />The Pet Empawrium on Glenburn Road in East Kilbride is Scotland's first all-inclusive pet centre, stocking an extensive range of natural treats and foods for animals, including a wide range of raw food and treats, quality apparel and toys. So you might say Dug's Pub is the perfect day out for dog lovers this summer."
 			}
 		},
 
