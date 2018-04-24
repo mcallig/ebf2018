@@ -55,4 +55,5 @@
     <icon height="167" platform="ios" src="res/screen/ios/Icon-83.5@2x.png" width="167" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
 </widget>

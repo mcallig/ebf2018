@@ -27,7 +27,11 @@ var ebf = (function () {
         var menu = document.getElementById('menu');
 
         menu.close();
-          if(page == "beer-list.html") {
+          if(page == "home.html")
+          {
+            console.log(11);
+          }
+          else if(page == "beer-list.html") {
             breweryId = brewery;
             ebf.pushData("beer-list.html", breweryId);
           }
@@ -53,7 +57,6 @@ var ebf = (function () {
 
 
         var page = event.target;
-
         if(page.id === "beer") {
           if($("#brewery-list").html() != "")
           {
@@ -133,6 +136,29 @@ var ebf = (function () {
         url: "data.js",
         success: function(data) {
           globalData = data;
+          var now = globalData.schedule.items.find(function(element){
+            var d = new Date();
+            var h = d.getHours();
+            var m = d.getMinutes();
+            var t= h+":"+m;
+            return element.start <= t && element.end >= t;
+          });
+
+          var next = globalData.schedule.items.find(function(element){
+            return element.id == parseInt(now.id) + 1
+          });
+
+          if(typeof now != "undefined")
+          {
+            $("#now-title").html(now.title );
+            $("#now-subtitle").html(now.where + " - " + now.start + " to " + now.end);
+          }
+
+          if(typeof next != "undefined")
+          {
+            $("#next-title").html(next.title);
+            $("#next-subtitle").html(next.where + " - " + next.start + " to " + next.end);
+          }
         }
       });
     },

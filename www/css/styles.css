@@ -122,10 +122,22 @@ body, .list, .menu-header, .header-font {
   line-height:55px;
 }
 
+.home-bottom {
+  color:#fff;
+  width: 100%;
+  font-size: 4vw !important;
+  font-family: "Palanquin Dark" !important;
+}
+
+.home-bottom h2 {
+  font-family: "Palanquin Dark" !important;
+  margin:2px 15px;
+}
+
 .home-content {
   color:#fff;
 
-    height: 65vw;
+    height: 55vw;
     width: 100%;
     font-size: 4vw;
     background:url(../images/home-dog.jpg);

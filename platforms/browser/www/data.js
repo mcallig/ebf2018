@@ -162,6 +162,39 @@
 			}
 		]
 	},
+	"schedule": {
+		"title":"Schedule",
+		"content":"",
+		"items" : [
+			{
+				"id":"1",
+				"title":"Bangin' Beards1",
+				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
+				"image":"rest_bb.jpg",
+				"start":"12:00",
+				"end":"13:00",
+				"where":"Main stage"
+			},
+			{
+				"id":"2",
+				"title":"Bangin' Beards2",
+				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
+				"image":"rest_bb.jpg",
+				"start":"13:00",
+				"end":"14:00",
+				"where":"Main stage"
+			},
+			{
+				"id":"3",
+				"title":"Bangin' Beards 3",
+				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
+				"image":"rest_bb.jpg",
+				"start":"15:00",
+				"end":"16:00",
+				"where":"Main stage"
+			}
+		]
+	},
 	"beer": {
 		"beer": {
 			"title": "The Beer",
