@@ -29,7 +29,7 @@ var ebf = (function () {
         menu.close();
           if(page == "home.html")
           {
-            console.log(11);
+            ebf.initHome();
           }
           else if(page == "beer-list.html") {
             breweryId = brewery;
@@ -136,51 +136,7 @@ var ebf = (function () {
         url: "data.js",
         success: function(data) {
           globalData = data;
-          var now = globalData.schedule.items.find(function(element){
-            var d = new Date();
-            var h = d.getHours();
-            var m = d.getMinutes();
-            var t= h+":"+m;
-            return element.start <= t && element.end >= t;
-          });
-
-          var next = globalData.schedule.items.find(function(element){
-            return element.id == parseInt(now.id) + 1
-          });
-
-          var later = globalData.schedule.items.find(function(element){
-            return element.id == parseInt(next.id) + 1
-          });
-
-          if(typeof now != "undefined")
-          {
-            $("#now-title").html(now.title);
-            $("#now-subtitle").html(now.where + " - " + now.start + " to " + now.end);
-          }
-          else
-          {
-              $("#now-title").html("There's nothing on. Have a beer instead.");
-          }
-
-          if(typeof next != "undefined")
-          {
-            $("#next-title").html(next.title);
-            $("#next-subtitle").html(next.where + " - " + next.start + " to " + next.end);
-          }
-          else
-          {
-              $("#next-title").html("There's nothing on. Have a beer instead.");
-          }
-
-          if(typeof later != "undefined")
-          {
-            $("#later-title").html(later.title);
-            $("#later-subtitle").html(later.where + " - " + later.start + " to " + later.end);
-          }
-          else
-          {
-              $("#later-title").html("There's nothing on. Have a beer instead.");
-          }
+          ebf.initHome();
         }
       });
     },
@@ -262,6 +218,57 @@ var ebf = (function () {
         break;
 
 
+      }
+
+    },
+    initHome : function() {
+      var now = globalData.schedule.items.find(function(element){
+        var d = new Date();
+        var h = d.getHours();
+        var m = d.getMinutes();
+        var t= h+":"+m;
+        return element.start <= t && element.end >= t;
+      });
+
+      var next = (typeof now != "undefined" ? globalData.schedule.items.find(function(element){
+        return element.id == parseInt(now.id) + 1
+      }) : "");
+
+      var later = (next != "" && typeof next != "undefined" ? globalData.schedule.items.find(function(element){
+        return element.id == parseInt(next.id) + 1
+      }) : "");
+
+      if(typeof now != "undefined")
+      {
+        $("#now-title").html(now.title);
+        $("#now-subtitle").html(now.where + " - " + now.start + " to " + now.end);
+      }
+      else
+      {
+          $("#now-title").html("There's nothing on.");
+          $("#now-subtitle").html("Have a beer instead.");
+      }
+
+      if(next != "" && typeof next != "undefined")
+      {
+        $("#next-title").html(next.title);
+        $("#next-subtitle").html(next.where + " - " + next.start + " to " + next.end);
+      }
+      else
+      {
+          $("#next-title").html("There's nothing on.");
+          $("#next-subtitle").html("Have a beer instead.");
+      }
+
+      if(later != "" && typeof later != "undefined")
+      {
+        $("#later-title").html(later.title);
+        $("#later-subtitle").html(later.where + " - " + later.start + " to " + later.end);
+      }
+      else
+      {
+          $("#later-title").html("There's nothing on.");
+          $("#later-subtitle").html("Have a beer instead.");
       }
 
     },

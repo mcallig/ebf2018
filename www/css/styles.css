@@ -91,6 +91,9 @@
 body, .list, .menu-header, .header-font {
   font-family: "Palanquin Dark" !important;
 }
+
+
+
 .header-font {
   line-height:130% !important;
 }
@@ -132,23 +135,24 @@ body, .list, .menu-header, .header-font {
 .home-bottom h2 {
   font-family: "Palanquin Dark" !important;
   margin:2px 15px;
+  font-size: 5.5vw;
+  margin-bottom:5px;
 }
 
 .home-content {
   color:#fff;
-
-    height: 55vw;
-    width: 100%;
-    font-size: 4vw;
-    background:url(../images/home-dog.jpg);
-    background-size:100%;
-    background-repeat:no-repeat;
-    display:flex;
-    flex-direction: row;
-    flex:1;
-    align-items:flex-end;
-    text-align:right;
-    font-family: "Palanquin Dark";
+  height: 55vw;
+  width: 100%;
+  font-size: 4vw;
+  background:url(../images/home-dog.jpg);
+  background-size:100%;
+  background-repeat:no-repeat;
+  display:flex;
+  flex-direction: row;
+  flex:1;
+  align-items:flex-end;
+  text-align:right;
+  font-family: "Palanquin Dark";
 }
 
 .right-text {
