@@ -105,20 +105,14 @@
 				"image":"rest_beanies.jpg"
 			},
 			{
-				"title":"Eaglesham Gin",
-				"description": "",
-				"url":"http://www.eagleshambeerfest.uk",
-				"image":"no_image.jpg"
-			},
-			{
 				"title":"Geppetto Laszlo Woodwork",
-				"description": "",
+				"description": "A passion project turned business, Geppetto Laszlo Woodwork is a superb artisan producer creating bespoke woodwork for all occasions.<br /><br />Ideal for beer festivals, classic wooden bottle carriers, bottle openers, wall-mounted bottle openers, plaques, chairs and even bars are lovingly and passionately created by the Geppetto Laszlo.<br /><br />And there are plenty of examples of what they do here today, including wooden bars made for the Eaglesham team, signposts, and a whole host more.<br /><br />Other examples of their work includes toy boxes, tables, bunk beds, dog and cat beds, candle holders and a whole host more.        ",
 				"url":"https://www.facebook.com/Geppetto-Laszlo-Woodwork-223833867948423/",
 				"image":"rest_laszlo.jpg"
 			},
 			{
 				"title":"Kilbryde Hospice",
-				"description": "",
+				"description": "Kilbryde Hospice is a voluntary independent hospice which exists to provide specialist palliative care to patients with life limiting progressive illnesses, and to their relatives and carers.<br /><br />Services provided by the charity are available to those people with palliative care needs, free of discrimination, and with the aim of improving the lives of those life-limiting progressive illness.<br /><br />Kilbryde Hospice aims to provide an environment for holistic care to enhance quality of life including the relief of pain and distress, whether physical, emotional, psychological, spiritual or social.<br /><br />Care also extends to those people who are close to the patient, and into the bereavement period after the patient has died.<br /><br />The charity is here today to raise awareness and funds to help the charity continue the fantastic work it currently does.        ",
 				"url":"http://kilbrydehospice.org.uk/",
 				"image":"rest_kilbryde.jpg"
 			},
@@ -163,29 +157,32 @@
 				"title":"AChoired Taste",
 				"description": "AChoired Taste is a warm and welcoming community vocal ensemble singing classic anthems and Broadway songs from the last 6 decades.",
 				"url":"https://www.facebook.com/achoiredtaste11/",
-				"image":"no_image.jpg"
+				"image":"music_at.jpg"
 			},
 			{
 				"title":"Let's Get Eclectic",
 				"description": "With a love of music without prejudice, along with an extensive record collection varying all genre's, an awesome speaker system and some rather funky lights – you are going to be in for a treat, whether it’s disco, funk, soul, pop, new-wave, dance, party classics or future classics. Let’s Get Eclectic is the event DJ that’s breaks the mold. ",
 				"url":"https://www.facebook.com/letsgeteclectic/",
-				"image":"no_image.jpg"
+				"image":"music_lge.jpg"
 			},
 			{
 				"title":"Nipples of Venus",
 				"description": "With Nipples of Venus, it's always 'Saturday Night'. Playing Funk/Salsa versions of 90s trance classics, get ready to dance like it's 1995 again! ",
 				"url":"https://www.facebook.com/NipsOfVenus/",
-				"image":"no_image.jpg"
+				"image":"music_nov.jpg"
 			},
 			{
 				"title":"The Shiverin' Sheiks",
 				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
 				"url":"https://www.facebook.com/theshiverinsheiks/",
-				"image":"no_image.jpg"
+				"image":"music_ss.jpg"
 			}
 
 
 		]
+	},"gin": {
+		"title":"Eaglesham Gin",
+		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold - 'Eaglesham Gin'. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'Eaglesham Gin' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'Eaglesham Gin' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
 	},
 	"schedule": {
 		"title":"Schedule",

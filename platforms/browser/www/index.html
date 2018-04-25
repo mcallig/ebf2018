@@ -176,10 +176,18 @@
           </ons-list-item>
           <ons-list-item onclick="fn.load('rest.html')" tappable>
             <div class="left">
-              <ons-icon icon="fa-glass" class="list-item__icon"></ons-icon>
+              <ons-icon icon="fa-question-circle-o" class="list-item__icon"></ons-icon>
             </div>
             <div class="center">
               SOMETHING DIFFERENT
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('gin.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-glass" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              EAGLESHAM GIN
             </div>
           </ons-list-item>
           <ons-list-item onclick="fn.load('toDrink.html')" tappable>
@@ -277,7 +285,7 @@
                 NOW:
               </div>
               <div class="center">
-                <span class="list-item__title" id="now-title"></span><span class="list-item__subtitle" id="now-subtitle"></span>
+                <span class="list-item__title" id="now-title">There's nothing on.</span><span class="list-item__subtitle" id="now-subtitle">Have a beer instead.</span>
               </div>
             </ons-list-item>
             <ons-list-item modifier="longdivider">
@@ -285,7 +293,7 @@
                 NEXT:
               </div>
               <div class="center">
-                <span class="list-item__title" id="next-title"></span><span class="list-item__subtitle" id="next-subtitle"></span>
+                <span class="list-item__title" id="next-title">There's nothing on.</span><span class="list-item__subtitle" id="next-subtitle">Have a beer instead.</span>
               </div>
             </ons-list-item>
             <ons-list-item modifier="longdivider">
@@ -293,7 +301,7 @@
                 LATER:
               </div>
               <div class="center">
-                <span class="list-item__title" id="later-title"></span><span class="list-item__subtitle" id="later-subtitle"></span>
+                <span class="list-item__title" id="later-title">There's nothing on.</span><span class="list-item__subtitle" id="later-subtitle">Have a beer instead.</span>
               </div>
             </ons-list-item>
           </ons-list>
@@ -432,6 +440,23 @@
         </div>
       </ons-toolbar>
       <div id="rest" class="wrapper content"></div>
+
+    </ons-page>
+  </template>
+
+  <template id="gin.html">
+    <ons-page id="ons-gin">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          Eaglesham Gin
+        </div>
+      </ons-toolbar>
+      <div id="gin" class="wrapper content"></div>
 
     </ons-page>
   </template>

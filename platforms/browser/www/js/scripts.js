@@ -93,6 +93,11 @@ var ebf = (function () {
           if($("#rest").html() == "")
             ebf.initRest();
         }
+        else if(page.id == "ons-gin")
+        {
+          if($("#gin").html() == "")
+            ebf.initGin();
+        }
         else if(page.id == "ons-music")
         {
           if($("#music").html() == "")
@@ -464,6 +469,10 @@ var ebf = (function () {
       }
       if($("#rest").html() == "")
         $("#rest").html(theRest);
+    },
+    initGin: function() {
+      var data = globalData.gin;
+      $("#gin").html(data.content);
     },
     initMusic: function() {
       if(theMusic == "")
