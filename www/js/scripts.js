@@ -40,6 +40,11 @@ var ebf = (function () {
             beerId = beer;
             ebf.initBeerDetail(breweryId, beerId);
           }
+          else if(page == "toDrink.html") {
+            $("#ons-toDrink-list").html("");
+            ebf.pushData("toDrink.html");
+            ebf.bindRemove();
+          }
 
           content.bringPageTop(page, {animation: "slide"});
 
