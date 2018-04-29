@@ -10,6 +10,7 @@ var ebf = (function () {
 
   return {
     init: function() {
+      localStorage.clear();
       ebf.initData();
       //ons.disableAutoStyling();
       //ons.platform.select('android'); // probably not necessary, but hey, why not.
