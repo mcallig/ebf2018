@@ -23,6 +23,10 @@ var ebf = (function () {
       };
 
       window.fn.load = function(page, brewery, beer) {
+        if(typeof globalData == "undefined")
+        {
+          ebf.initData();
+        }
         var content = document.getElementById('ebfNavigator');
         var menu = document.getElementById('menu');
 
