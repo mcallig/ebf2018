@@ -23,10 +23,7 @@ var ebf = (function () {
       };
 
       window.fn.load = function(page, brewery, beer) {
-        if(typeof globalData == "undefined")
-        {
-          ebf.initData();
-        }
+
         var content = document.getElementById('ebfNavigator');
         var menu = document.getElementById('menu');
 
@@ -164,7 +161,7 @@ var ebf = (function () {
           break;
 
         case "toDrink.html" :
-          ebf.doPush("toDrink-list");
+          ebf.doPush("toDrink-list", globalData.beer.breweries);
           break;
         }
     },
@@ -191,7 +188,7 @@ var ebf = (function () {
             if(key.substring(0,3) == "fav") {
               showList = true;
               var o = JSON.parse(val);
-              var details = eval("globalData.beer.breweries.brewery_"+o.brewery_id);
+              var details = eval("data.brewery_"+o.brewery_id);
               var beer = details.beer_list.items.find(function(element) {
                 return element.beer.bid == o.bid;
               });
