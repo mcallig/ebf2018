@@ -154,25 +154,43 @@
 		"content":"",
 		"items" : [
 			{
+				"music_id":"1",
 				"title":"AChoired Taste",
 				"description": "AChoired Taste is a warm and welcoming community vocal ensemble singing classic anthems and Broadway songs from the last 6 decades.",
 				"url":"https://www.facebook.com/achoiredtaste11/",
 				"image":"music_at.jpg"
 			},
 			{
+				"music_id":"2",
 				"title":"Let's Get Eclectic",
 				"description": "With a love of music without prejudice, along with an extensive record collection varying all genre's, an awesome speaker system and some rather funky lights – you are going to be in for a treat, whether it’s disco, funk, soul, pop, new-wave, dance, party classics or future classics. Let’s Get Eclectic is the event DJ that’s breaks the mold. ",
 				"url":"https://www.facebook.com/letsgeteclectic/",
 				"image":"music_lge.jpg"
 			},
 			{
+				"music_id":"3",
 				"title":"Nipples of Venus",
 				"description": "With Nipples of Venus, it's always 'Saturday Night'. Playing Funk/Salsa versions of 90s trance classics, get ready to dance like it's 1995 again! ",
 				"url":"https://www.facebook.com/NipsOfVenus/",
 				"image":"music_nov.jpg"
 			},
 			{
+				"music_id":"4",
 				"title":"The Shiverin' Sheiks",
+				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
+				"url":"https://www.facebook.com/theshiverinsheiks/",
+				"image":"music_ss.jpg"
+			},
+			{
+				"music_id":"5",
+				"title":"Tuner",
+				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
+				"url":"https://www.facebook.com/theshiverinsheiks/",
+				"image":"music_ss.jpg"
+			},
+			{
+				"music_id":"6",
+				"title":"Second Hand Electric Band",
 				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
 				"url":"https://www.facebook.com/theshiverinsheiks/",
 				"image":"music_ss.jpg"
@@ -187,35 +205,64 @@
 	"schedule": {
 		"title":"Schedule",
 		"content":"",
-		"items" : [
-			{
-				"id":"1",
-				"title":"Bangin' Beards1",
-				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
-				"image":"rest_bb.jpg",
-				"start":"18:00",
-				"end":"19:00",
-				"where":"Main stage"
-			},
-			{
-				"id":"2",
-				"title":"Bangin' Beards2",
-				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
-				"image":"rest_bb.jpg",
-				"start":"19:00",
-				"end":"20:00",
-				"where":"Main stage"
-			},
-			{
-				"id":"3",
-				"title":"Bangin' Beards 3",
-				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
-				"image":"rest_bb.jpg",
-				"start":"20:00",
-				"end":"21:00",
-				"where":"Main stage"
-			}
-		]
+		"items" : {
+			"jam_tent": [
+				{
+					"music_id":"2",
+					"start":"11:00",
+					"end":"12:00"
+				},
+				{
+					"music_id":"5",
+					"start":"12:00",
+					"end":"14:00"
+				},
+				{
+					"music_id":"2",
+					"start":"14:00",
+					"end":"19:00"
+				}
+			],
+			"beer_tunes": [
+				{
+					"music_id":"1",
+					"start":"13:00",
+					"end":"14:00"
+				},
+				{
+					"music_id":"3",
+					"start":"14:00",
+					"end":"14:30"
+				},
+				{
+					"music_id":"4",
+					"start":"15:00",
+					"end":"16:00"
+				},
+				{
+					"music_id":"3",
+					"start":"17:15",
+					"end":"17:45"
+				},
+				{
+					"music_id":"3",
+					"start":"18:15",
+					"end":"18:45"
+				}
+			],
+			"dugs_pub": [
+				{
+					"music_id":"6",
+					"start":"12:30",
+					"end":"14:00"
+				},
+				{
+					"music_id":"1",
+					"start":"14:30",
+					"end":"15:30"
+				}
+			]
+		}
 	},
 	"beer": {
 		"beer": {

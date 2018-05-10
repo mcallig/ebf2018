@@ -64,6 +64,10 @@ var ebf = (function () {
 
 
         var page = event.target;
+        if(page.id == "home")
+        {
+          ebf.initHome();
+        }
         if(page.id === "beer") {
           if($("#brewery-list").html() != "")
           {
@@ -234,53 +238,75 @@ var ebf = (function () {
 
     },
     initHome : function() {
-      var now = globalData.schedule.items.find(function(element){
-        var d = new Date();
-        var h = d.getHours();
-        var m = d.getMinutes();
-        var t= h+":"+m;
+      var d = new Date();
+      var h = d.getHours();
+      var m = d.getMinutes();
+      var t= h+":"+m;
+
+      var jam_now = globalData.schedule.items.jam_tent.find(function(element){
         return element.start <= t && element.end >= t;
       });
 
-      var next = (typeof now != "undefined" ? globalData.schedule.items.find(function(element){
-        return element.id == parseInt(now.id) + 1
-      }) : "");
 
-      var later = (next != "" && typeof next != "undefined" ? globalData.schedule.items.find(function(element){
-        return element.id == parseInt(next.id) + 1
-      }) : "");
 
-      if(typeof now != "undefined")
+      if(typeof jam_now != "undefined")
       {
-        $("#now-title").html(now.title);
-        $("#now-subtitle").html(now.where + " - " + now.start + " to " + now.end);
+        var jam_now_detail = globalData.music.items.find(function(element) {
+          return element.music_id == jam_now.music_id
+        });
+        $("#jt-title").html(jam_now_detail.title);
+        $("#jt-subtitle").html(jam_now.start + " to " + jam_now.end);
+        $(".jt-img").html("<img src=\"images/"+jam_now_detail.image+"\" class=\"list-item--material__thumbnail \" />");
       }
       else
       {
-          $("#now-title").html("There's nothing on.");
-          $("#now-subtitle").html("Have a beer instead.");
+          $("#jt-title").html("There's nothing on.");
+          $("#jt-subtitle").html("Have a beer instead.");
+          $(".jt-img").html("<img src=\"images/no_image.jpg\" class=\"list-item--material__thumbnail \" />");
       }
 
-      if(next != "" && typeof next != "undefined")
+      var bt_now = globalData.schedule.items.beer_tunes.find(function(element){
+        return element.start <= t && element.end >= t;
+      });
+
+
+
+      if(typeof bt_now != "undefined")
       {
-        $("#next-title").html(next.title);
-        $("#next-subtitle").html(next.where + " - " + next.start + " to " + next.end);
+        var bt_now_detail = globalData.music.items.find(function(element) {
+          return element.music_id == bt_now.music_id
+        });
+        $("#bt-title").html(bt_now_detail.title);
+        $("#bt-subtitle").html(bt_now.start + " to " + bt_now.end);
+        $(".bt-img").html("<img src=\"images/"+bt_now_detail.image+"\" class=\"list-item--material__thumbnail \" />");
       }
       else
       {
-          $("#next-title").html("There's nothing on.");
-          $("#next-subtitle").html("Have a beer instead.");
+          $("#bt-title").html("There's nothing on.");
+          $("#bt-subtitle").html("Have a beer instead.");
+          $(".bt-img").html("<img src=\"images/no_image.jpg\" class=\"list-item--material__thumbnail \" />");
       }
 
-      if(later != "" && typeof later != "undefined")
+      var dp_now = globalData.schedule.items.dugs_pub.find(function(element){
+        return element.start <= t && element.end >= t;
+      });
+
+
+
+      if(typeof dp_now != "undefined")
       {
-        $("#later-title").html(later.title);
-        $("#later-subtitle").html(later.where + " - " + later.start + " to " + later.end);
+        var dp_now_detail = globalData.music.items.find(function(element) {
+          return element.music_id == dp_now.music_id
+        });
+        $("#dp-title").html(dp_now_detail.title);
+        $("#dp-subtitle").html(dp_now.start + " to " + dp_now.end);
+        $(".dp-img").html("<img src=\"images/"+dp_now_detail.image+"\" class=\"list-item--material__thumbnail \" />");
       }
       else
       {
-          $("#later-title").html("There's nothing on.");
-          $("#later-subtitle").html("Have a beer instead.");
+          $("#dp-title").html("There's nothing on.");
+          $("#dp-subtitle").html("Have a beer instead.");
+          $(".dp-img").html("<img src=\"images/no_image.jpg\" class=\"list-item--material__thumbnail \" />");
       }
 
     },
