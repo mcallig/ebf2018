@@ -505,7 +505,7 @@ var ebf = (function () {
     },
     initGin: function() {
       var data = globalData.gin;
-      $("#gin").html(data.content);
+      $("#gin").html("<img src=\"images/gin.jpg\" width=\"100%\" />"+data.content);
     },
     initMusic: function() {
       if(theMusic == "")

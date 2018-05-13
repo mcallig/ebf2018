@@ -112,19 +112,19 @@
 			},
 			{
 				"title":"Kilbryde Hospice",
-				"description": "Kilbryde Hospice is a voluntary independent hospice which exists to provide specialist palliative care to patients with life limiting progressive illnesses, and to their relatives and carers.<br /><br />Services provided by the charity are available to those people with palliative care needs, free of discrimination, and with the aim of improving the lives of those life-limiting progressive illness.<br /><br />Kilbryde Hospice aims to provide an environment for holistic care to enhance quality of life including the relief of pain and distress, whether physical, emotional, psychological, spiritual or social.<br /><br />Care also extends to those people who are close to the patient, and into the bereavement period after the patient has died.<br /><br />The charity is here today to raise awareness and funds to help the charity continue the fantastic work it currently does.        ",
+				"description": "Established in 2001, the Kilbryde Hospice Appeal helps tackle the lack of palliative care beds within South Lanarkshire. The charity provides palliative care and support to patients, and families of patients, with life limiting illnesses.  The hospice currently provides day services, care at home and counselling services and will be opening a new in-patient unit this year. They are at EagBeerFest to sell tickets for their annual raffle, with first prize Kia Picanto car – second prize is long weekend in New York, with a third prize of £1000. The raffle can be made on the day, with the prize draw taking place in October.",
 				"url":"http://kilbrydehospice.org.uk/",
 				"image":"rest_kilbryde.jpg"
 			},
 			{
 				"title":"Mearns Castle Golf Academy",
-				"description": "",
+				"description": "Mearns Castle Golf Academy will join us again this year to help provide hours of entertainment. The Waterfoot Road centre offers golfers of all ages and abilities the opportunity to develop and improve their game through practice, tuition and play. And at EagBeerFest18 they will be on hand again to ramp up the competitive edge with their inflatable golf target. Have you got it in you to record the day’s top score? Maybe you’re accurate enough to hit bullseye or treble-20? Well, if so, you could secure yourself some top quality goodies from our brewers on the day.",
 				"url":"http://www.mcgolfacademy.co.uk/",
 				"image":"rest_mearns.jpg"
 			},
 			{
 				"title":"Rainbow Twisters",
-				"description": "",
+				"description": "Everyone likes looking their best on special days – so we are delighted to this year welcome aboard Rainbow Twisters’ who will help you look your sparkling best on June 2. But not only that, they will be on hand to help provide top quality entertainment for kids and adult alike. With balloon modellers and twisters, face painters, glitter tattoos, arts and crafts, we know they will make a colourful contribution to this year’s Eaglesham Beer Festival.",
 				"url":"http://www.rainbowtwisters.com/",
 				"image":"rest_rainbow.jpg"
 			},
