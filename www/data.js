@@ -44,13 +44,6 @@
 				"url":"http://www.damnfinecheese.co.uk/",
 				"image":"food_dfc.png"
 			},
-
-			{
-				"title":"Eglinton Arms Burger Bar",
-				"description": "Eaglesham mainstay the Eglinton Arms will have a presence at the Beer Fest this year in the form of their burger bar. ",
-				"url":"http://www.bw-eglintonarmshotel.co.uk/",
-				"image":"food_ea.jpg"
-			},
 			{
 				"title":"Fujisan",
 				"description": "Fujisan are a Scottish/Japanese husband and wife team based in Glasgow serving authentic Japanese cuisine from their converted vintage trailer. They'll be making their Beer Fest debut so get along and give them a warm Eaglesham welcome.",
@@ -92,6 +85,12 @@
 		"title":"Something Different",
 		"content":"",
 		"items" : [
+			{
+				"title":"Anytime Fitness",
+				"description": "One of the area’s newsest gyms, Anytime Fitness Clarkston will be in attendance on the day to help offset some of that beery goodness. They'll also be there for some fun and games, offering you the chance to win a number of fantastic prizes, including membership benefits. The friendly, professional team at Anytime Fitness can help you get to a healthier place, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 3600 gyms, and always open 24/7 convenience. So, make sure and head over to our 'Something Different' area to see what fun and games they have going on on June 2, and earn your beer!",
+				"url":"https://www.anytimefitness.co.uk/",
+				"image":"rest_af.jpg"
+			},
 			{
 				"title":"Bangin' Beards",
 				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
@@ -5276,6 +5275,99 @@
 								},
 								"location": {
 									"brewery_city": "",
+									"brewery_state": "",
+									"lat": 0,
+									"lng": 0
+								},
+								"brewery_active": 1
+							},
+							"friends": {
+								"items": [],
+								"count": 0
+							}
+						}],
+						"collaborations": {
+							"count": 0,
+							"items": []
+						},
+						"sort_name": "Most Popular",
+						"sort_key": "most_popular"
+					}
+				},
+				"brewery_9999999": {
+					"brewery_id": 9999999,
+					"brewery_name": "Eaglesham Brew",
+					"brewery_slug": "eaglesham-brew",
+					"brewery_page_url": "",
+					"brewery_label": "images/eb_plum.jpg",
+					"brewery_label_hd": "",
+					"country_name": "Scotland",
+					"brewery_in_production": 0,
+					"is_independent": 1,
+					"beer_count": 1,
+					"contact": {
+						"twitter": "EagBeerFest",
+						"facebook": "",
+						"instagram": "",
+						"url": ""
+					},
+					"brewery_type": "Micro Brewery",
+					"brewery_type_id": 2,
+					"location": {
+						"brewery_address": null,
+						"brewery_city": "",
+						"brewery_state": "",
+						"brewery_lat": 0,
+						"brewery_lng": 0
+					},
+					"rating": {
+						"count": 0,
+						"rating_score": 0
+					},
+					"brewery_description": "",
+					"beer_list": {
+						"show_all_beers": false,
+						"source": "info",
+						"total_count": 1,
+						"is_search": false,
+						"type_id": false,
+						"sort": false,
+						"count": 1,
+						"items": [{
+							"total_user_count": 0,
+							"has_had": null,
+							"total_count": 1,
+							"beer": {
+								"bid": 9999999,
+								"beer_name": "A Plum Dunk",
+								"beer_label": "images/eb_plum.jpg",
+								"beer_style": "Hefeweizen",
+								"beer_abv": 7,
+								"beer_ibu": 0,
+								"beer_slug": "",
+								"beer_description": "Eaglesham Brew will again be available at this year's festival, with the village's very own top quality beers on offer. 'A Plum Dunk' will return courtesy of Glasgow-based brewery Drygate, providing classic hefeweizen tasting notes like cloves, banana, and a fruity twist. As well as our wheat beer, we are hoping to have another brew available on the day - but we are in the hands of Father Time as to whether that will be ready for June 2 or not. We will do everything we can to get that second beer there for the day, so be sure to ask at our bars as to whether we have both there.",
+								"is_in_production": 1,
+								"created_at": "Fri, 10 Jul 2015 12:47:26 +0000",
+								"rating_score": 0,
+								"rating_count": 0,
+								"auth_rating": 0,
+								"wish_list": false
+							},
+							"brewery": {
+								"brewery_id": 9999999,
+								"brewery_name": "Eaglesham Brew",
+								"brewery_slug": "",
+								"brewery_page_url": "",
+								"brewery_label": "images/eb_plum.jpg",
+								"country_name": "Scotland",
+								"contact": {
+									"twitter": "EagBeerFest",
+									"facebook": "",
+									"instagram": "",
+									"url": ""
+								},
+								"location": {
+									"brewery_city": "Eaglesham",
 									"brewery_state": "",
 									"lat": 0,
 									"lng": 0
