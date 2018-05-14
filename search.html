@@ -1,0 +1,72 @@
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script>
+  /*var ids = [58506, //6 north,
+    313748, //71,
+    145817,//Black Metal,
+    254616,//Dead End,
+    213684,//Ethical,
+    34069,//Fallen Brewing Co,
+    282149,//The Ferry Brewery,
+    249813,//Grunting Growler,
+    696,//Inveralmond Brewery,
+    638,//Harviestoun Brewery,
+    168103,//Jaw Brew
+    2912,//The Kelburn Brewing Company
+    360355,//Late Night Hype Brewing Co
+    365046,//Merchant City Brewing
+    309979,//Out Of Town Brewing
+    148858,//Ride Brewing Co
+    275862,//Shilling Brewing Co
+    26786,//St. Andrews Brewing Co
+    3724,//Strathaven Ales
+    2986,//Sulwath Brewers Ltd
+    2972,//Tempest Brewing Co
+    15101,//Thistly Cross Cider
+    255687,//Up Front Brewing
+    178530,//Veterans Home Brew
+    3117,//West
+    1367//Williams Brothers Brewing Co];
+    */
+    var ids = [696]
+  function getBreweries() {
+    $.each(ids, function() {
+      $.ajax({
+        url: "https://api.untappd.com/v4/brewery/info/"+this,
+        data: {
+          client_id:"CB4D2762AEC73E511CFD5B505A42C02CDE1BE5DD",
+          client_secret:"16F5AE797706DDDE56901C70F2B1BAC298AC885D"
+        },
+        method: "get",
+        success: function(data) {
+          delete data.response.brewery["claimed_status"];
+          delete data.response.brewery["stats"];
+          delete data.response.brewery["owners"];
+          delete data.response.brewery["media"];
+          delete data.response.brewery["checkins"];
+          delete data.response.brewery["locations"];
+
+
+
+          $("#content").append("\"brewery_"+data.response.brewery.brewery_id+"\":"+JSON.stringify(data.response.brewery)+",");
+        }
+      });
+    })
+
+
+
+  }
+  </script>
+</head>
+<body>
+
+<form action="https://api.untappd.com/v4/brewery/info" method="GET">
+<input type="hidden" id="client_id" name="client_id" value="CB4D2762AEC73E511CFD5B505A42C02CDE1BE5DD" />
+<input type="hidden" id="client_secret" name="client_secret" value="16F5AE797706DDDE56901C70F2B1BAC298AC885D" />
+<input type="text" id="q" name="q" /><input type="submit" value="Submit">
+</form>
+<input type="button" onclick="getBreweries()" value="Get Breweries"/>
+<div id="content"></div>
+</body>
+</html>
