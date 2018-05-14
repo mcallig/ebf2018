@@ -39,6 +39,13 @@
 				"image":"food_charliemills.png"
 			},
 			{
+				"title":"Damn Fine Cheese",
+				"description": "There are few things better in this world than a cool crisp beer and a cheese board. Put the two together in the blistering Scottish sun, and you have a perfect combination. In fact, even if it’s raining, it’s still a pretty good combo. Martha the Mouse from Damn Fine Cheese will be on hand at Eaglesham Beer Festival with a full range of cheeses to serve up the perfect accompaniment to beer, cider and wine. With cheese platters, cheese and biscuits, and the chance to takeaway full truckles of tasty cheese on offer, Damn Fine Cheese is the perfect addition to the EagBeerFest line-up.",
+				"url":"http://www.damnfinecheese.co.uk/",
+				"image":"food_dfc.png"
+			},
+
+			{
 				"title":"Eglinton Arms Burger Bar",
 				"description": "Eaglesham mainstay the Eglinton Arms will have a presence at the Beer Fest this year in the form of their burger bar. ",
 				"url":"http://www.bw-eglintonarmshotel.co.uk/",
@@ -274,7 +281,7 @@
 		"breweries": {
 
 
-			{
+
 				"brewery_58506": {
 					"brewery_id": 58506,
 					"brewery_name": "SixºNorth",
@@ -20453,15 +20460,10 @@
 						"sort_key": "most_popular"
 					}
 				}
-			}
+
 
 
 		},
-
-
-
-
-
 
 		"music": {
 			"music": {

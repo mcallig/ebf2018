@@ -91,7 +91,7 @@ var ebf = (function () {
         }
         else if(page.id === "ons-dugs") {
           if($("#dugs").html() == "")
-            $("#dugs").html(globalData.dugs_pub.content);
+            $("#dugs").html("<img src=\"images/pet_empawrium.png\" width=\"100%\" />"+globalData.dugs_pub.content);
 
         }
         else if(page.id == "food")
