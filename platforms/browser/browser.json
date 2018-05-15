@@ -4,7 +4,26 @@
         "uninstalled": []
     },
     "config_munge": {
-        "files": {}
+        "files": {
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/manifest/uses-sdk": [
+                        {
+                            "xml": "<uses-feature android:name=\"android.hardware.telephony\" android:required=\"true\" />",
+                            "count": 2,
+                            "mode": "merge",
+                            "id": "config.xml"
+                        },
+                        {
+                            "xml": "<uses-sdk android:minSdkVersion=\"21\" />",
+                            "count": 1,
+                            "mode": "merge",
+                            "id": "config.xml"
+                        }
+                    ]
+                }
+            }
+        }
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {

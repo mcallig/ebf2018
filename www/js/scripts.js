@@ -247,9 +247,12 @@ var ebf = (function () {
         return element.start <= t && element.end >= t;
       });
 
+      var d = new Date();
+      var bf = new Date("02 June 2018");
+      var isToday = (d.toDateString() === bf.toDateString());
+      console.log(isToday);
 
-
-      if(typeof jam_now != "undefined")
+      if(typeof jam_now != "undefined" && isToday )
       {
         var jam_now_detail = globalData.music.items.find(function(element) {
           return element.music_id == jam_now.music_id
@@ -271,7 +274,7 @@ var ebf = (function () {
 
 
 
-      if(typeof bt_now != "undefined")
+      if(typeof bt_now != "undefined" && isToday)
       {
         var bt_now_detail = globalData.music.items.find(function(element) {
           return element.music_id == bt_now.music_id
@@ -293,7 +296,7 @@ var ebf = (function () {
 
 
 
-      if(typeof dp_now != "undefined")
+      if(typeof dp_now != "undefined" && isToday)
       {
         var dp_now_detail = globalData.music.items.find(function(element) {
           return element.music_id == dp_now.music_id

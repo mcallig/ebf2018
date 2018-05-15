@@ -64,8 +64,8 @@
 			},{
 				"title":"Nomad Wood-Fired Pizza",
 				"description": "Quick, what goes with beer? If you answered more beer then seek help. If you said pizza then you're in luck. Nomad will be cooking up incredible pizza in their portable wood-fired oven at this year's Beer Fest.",
-				"url":"https://www.facebook.com/pg/nomadwoodfiredpizza/",
-				"image":"no_photo.jpg"
+				"url":"https://facebook.com/pg/nomadwoodfiredpizza/",
+				"image":"food_nomad.jpg"
 			},
 			{
 				"title":"Street Food Putter Club",
@@ -112,7 +112,7 @@
 			},
 			{
 				"title":"Geppetto Laszlo Woodwork",
-				"description": "A passion project turned business, Geppetto Laszlo Woodwork is a superb artisan producer creating bespoke woodwork for all occasions.<br /><br />Ideal for beer festivals, classic wooden bottle carriers, bottle openers, wall-mounted bottle openers, plaques, chairs and even bars are lovingly and passionately created by the Geppetto Laszlo.<br /><br />And there are plenty of examples of what they do here today, including wooden bars made for the Eaglesham team, signposts, and a whole host more.<br /><br />Other examples of their work includes toy boxes, tables, bunk beds, dog and cat beds, candle holders and a whole host more.        ",
+				"description": "A passion project turned business, Geppetto Laszlo Woodwork is a superb artisan producer creating bespoke woodwork for all occasions. Ideal for beer festivals, classic wooden bottle carriers, bottle openers, wall-mounted bottle openers, plaques, chairs and even bars are lovingly and passionately created by the Geppetto Laszlo.And there are plenty of examples of what they do here today, including wooden bars made for the Eaglesham team, signposts, and a whole host more. Other examples of their work includes toy boxes, tables, bunk beds, dog and cat beds, candle holders and a whole host more.",
 				"url":"https://www.facebook.com/Geppetto-Laszlo-Woodwork-223833867948423/",
 				"image":"rest_laszlo.jpg"
 			},
@@ -190,23 +190,23 @@
 			{
 				"music_id":"5",
 				"title":"Tuner",
-				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
-				"url":"https://www.facebook.com/theshiverinsheiks/",
-				"image":"music_ss.jpg"
+				"description": "Tuner is a Glasgow based DJ best-known for his Handpicked Cassette Tapes nights at Bar Brel, Lucky 7, and Mungo’s in the big smoke. He'll be playing a mix of hip hop, funk and soul.",
+				"url":"",
+				"image":"music_tuner.jpg"
 			},
 			{
 				"music_id":"6",
 				"title":"Second Hand Electric Band",
-				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
-				"url":"https://www.facebook.com/theshiverinsheiks/",
-				"image":"music_ss.jpg"
+				"description": "With an ever growing repertoire which caters for every age group Second Hand Elastic Band guarantee to get you on your feet and keep you dancing into the wee small hours!",
+				"url":"https://facebook.com/SHEB-245606462702/",
+				"image":"music_sheb.jpg"
 			}
 
 
 		]
 	},"gin": {
 		"title":"Eaglesham Gin",
-		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold - 'Eaglesham Gin'. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'Eaglesham Gin' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'Eaglesham Gin' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
+		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold: The Orry, Eaglesham Gin. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'The Orry' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'The Orry' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
 	},
 	"schedule": {
 		"title":"Schedule",

@@ -2,10 +2,10 @@
 <widget id="com.phonegap.ebf" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>EBF</name>
     <description>
-        A blank PhoneGap app.
+        Eaglesham Beer Fest 2018
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="grant@sunurstlabs.com" href="http://www.sunburstlabs.com">
+        Sunburst Labs
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -53,7 +53,13 @@
     <icon height="50" platform="ios" src="res/screen/ios/Icon-50.png" width="50" />
     <icon height="100" platform="ios" src="res/screen/ios/Icon-50@2x.png" width="100" />
     <icon height="167" platform="ios" src="res/screen/ios/Icon-83.5@2x.png" width="167" />
+    <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/uses-sdk">
+        <uses-sdk android:minSdkVersion="21" />
+        <uses-feature android:name="android.hardware.telephony" android:required="true" />
+    </edit-config>
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="android-minSdkVersion" value="21" />
+    <preference name="target-device" value="handset" />
 </widget>

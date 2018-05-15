@@ -2,10 +2,10 @@
 <widget id="com.phonegap.ebf" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>EBF</name>
     <description>
-        A blank PhoneGap app.
+        Eaglesham Beer Fest 2018
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="grant@sunurstlabs.com" href="http://www.sunburstlabs.com">
+        Sunburst Labs
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -61,4 +61,10 @@
     <plugin name="cordova-plugin-inappbrowser" spec="~2.0.2" />
     <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
     <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="android-minSdkVersion" value="21" />
+    <preference name="target-device" value="handset" />
+    <edit-config file="AndroidManifest.xml" target="/manifest/uses-sdk" mode="merge">
+        <uses-sdk android:minSdkVersion="21" />
+        <uses-feature android:name="android.hardware.telephony" android:required="true" />
+    </edit-config>
 </widget>

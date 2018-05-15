@@ -4,8 +4,8 @@
   "name": "EBF",
   "short_name": "EBF",
   "version": "com.phonegap.ebf",
-  "description": "A blank PhoneGap app.",
-  "author": "PhoneGap Team",
+  "description": "Eaglesham Beer Fest 2018",
+  "author": "Sunburst Labs",
   "icons": [
     {
       "src": "res/screen/android/icon-ldpi.png",
