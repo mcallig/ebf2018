@@ -63,8 +63,4 @@
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="android-minSdkVersion" value="21" />
     <preference name="target-device" value="handset" />
-    <edit-config file="AndroidManifest.xml" target="/manifest/uses-sdk" mode="merge">
-        <uses-sdk android:minSdkVersion="21" />
-        <uses-feature android:name="android.hardware.telephony" android:required="true" />
-    </edit-config>
 </widget>
