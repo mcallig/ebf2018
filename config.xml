@@ -63,5 +63,6 @@
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="android-minSdkVersion" value="21" />
     <preference name="android-maxSdkVersion" value="40" />
+    <preference name="android-targetSdkVersion" value="28" />
     <preference name="target-device" value="handset" />
 </widget>
