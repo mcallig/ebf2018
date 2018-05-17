@@ -64,7 +64,7 @@
 			},{
 				"title":"Nomad Wood-Fired Pizza",
 				"description": "Quick, what goes with beer? If you answered more beer then seek help. If you said pizza then you're in luck. Nomad will be cooking up incredible pizza in their portable wood-fired oven at this year's Beer Fest.",
-				"url":"https://facebook.com/pg/nomadwoodfiredpizza/",
+				"url":"https://facebook.com/nomadwoodfiredpizza/",
 				"image":"food_nomad.jpg"
 			},
 			{
@@ -144,7 +144,7 @@
 				"title":"The Tuck Shop",
 				"description": "Something for the wee ones and bar snacks for adults, the tuck shop will be serving up an array of soft drinks, sweets, crisps, nuts and one or two hints on enjoying the beer festival as a family. Situated next to Rainbow Twisters, who will be offering up face-painting, glitter tattoos and balloon animals, the tuck shop will make sure there is something for kids to enjoy.",
 				"url":"",
-				"image":"no_image.jpg"
+				"image":"rest_tuck.jpg"
 			},
 			{
 				"title":"The Wee Beer Shop",
@@ -206,7 +206,7 @@
 		]
 	},"gin": {
 		"title":"Eaglesham Gin",
-		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold: The Orry, Eaglesham Gin. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'The Orry' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'The Orry' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
+		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold: The Orry, Eaglesham Gin. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'The Orry Gin' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'The Orry Gin' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
 	},
 	"schedule": {
 		"title":"Schedule",
