@@ -173,7 +173,7 @@ var ebf = (function () {
     doPush: function(page, data) {
       switch (page) {
         case "beer-list":
-          $("#ons-beer-list").html("<ons-list-header modifier=\"purple\" id=\"beer-list-header\">"+data.items[0].brewery.brewery_name+"</ons-list-header>");
+          $("#ons-beer-list").html("<ons-list-header modifier=\"purple\" class=\"bg-color-secondary-1-2\" id=\"beer-list-header\">"+data.items[0].brewery.brewery_name+"</ons-list-header>");
           $.each(data.items, function() {
 
             $("#ons-beer-list").append(ebf.writeBeer(this,false));
@@ -220,7 +220,7 @@ var ebf = (function () {
           $("#ons-toDrink-list").html("");
           $.each(beers, function() {
             if(brewery != this.brewery.brewery_id)
-                $("#ons-toDrink-list").append("<ons-list-header modifier=\"purple\">"+this.brewery.brewery_name+"</ons-list-header>");
+                $("#ons-toDrink-list").append("<ons-list-header modifier=\"purple\"  class=\"bg-color-secondary-1-2\">"+this.brewery.brewery_name+"</ons-list-header>");
             $("#ons-toDrink-list").append(ebf.writeBeer(this,true));
             $("#"+this.beer.bid).rateYo({
               rating: $("#"+this.beer.bid).data("rating"),
