@@ -199,7 +199,7 @@ body, .list, .menu-header, .header-font {
   height: 55vw;
   width: 100%;
   font-size: 4vw;
-  background:url(../images/home-dog.jpg);
+  background:url(../images/photo_0.jpg);
   background-size:100%;
   background-repeat:no-repeat;
   display:flex;
@@ -208,6 +208,7 @@ body, .list, .menu-header, .header-font {
   align-items:flex-end;
   text-align:right;
   font-family: "Palanquin Dark";
+  transition:1s;
 }
 
 .right-text {

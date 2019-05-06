@@ -10,7 +10,8 @@ var ebf = (function () {
 
   return {
     init: function() {
-      //localStorage.clear();
+      localStorage.clear();
+
       ebf.initData();
       //ons.disableAutoStyling();
       //ons.platform.select('android'); // probably not necessary, but hey, why not.
@@ -235,6 +236,12 @@ var ebf = (function () {
 
 
       }
+
+    },
+    changePhoto : function()
+    {
+
+          $(".home-content").css("background-image","url(../images/photo_"+Math.floor(Math.random() * Math.floor(6))+".jpg)");
 
     },
     initHome : function() {
