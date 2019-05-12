@@ -165,54 +165,84 @@
 		]
 	},
 	"music": {
-		"title":"Music",
+		"title":"Entertinment",
 		"content":"",
 		"items" : [
+
 			{
+				"day":"Friday",
 				"music_id":"1",
-				"title":"AChoired Taste",
-				"description": "AChoired Taste is a warm and welcoming community vocal ensemble singing classic anthems and Broadway songs from the last 6 decades.",
-				"url":"https://www.facebook.com/achoiredtaste11/",
-				"image":"music_at.jpg"
-			},
-			{
-				"music_id":"2",
 				"title":"Let's Get Eclectic",
 				"description": "With a love of music without prejudice, along with an extensive record collection varying all genre's, an awesome speaker system and some rather funky lights – you are going to be in for a treat, whether it's disco, funk, soul, pop, new-wave, dance, party classics or future classics. Let's Get Eclectic is the event DJ that's breaks the mold. ",
 				"url":"https://www.facebook.com/letsgeteclectic/",
 				"image":"music_lge.jpg"
 			},
 			{
+				"day":"Friday",
+				"music_id":"2",
+				"title":"Papa Shandy and the Drams",
+				"description": "Based in Glasgow, Papa Shandy and the Drams were founded in 2012 and haven't looked back since. As Scottish folk musicians, there is a very good reason why this 6 piece Glasgow function band is popular all over the world. <br /><br />The distinct, smoky voice of Kieran Sinclair heads up one of the fastest selling wedding and function bands in Scotland today. Managed exclusively by Hireaband, their set list is vast, covering anything from Mumford and Sons to AC/DC. With their unique folk and bluegrass style, Papa Shandy and the Drams are undeniably the best pop and folk band around ",
+				"url":"http://papashandyandthedrams.com/",
+				"image":"music_papa.jpg"
+			},
+			{
+				"day":"Saturday",
 				"music_id":"3",
-				"title":"Nipples of Venus",
-				"description": "With Nipples of Venus, it's always 'Saturday Night'. Playing Funk/Salsa versions of 90s trance classics, get ready to dance like it's 1995 again! ",
-				"url":"https://www.facebook.com/NipsOfVenus/",
-				"image":"music_nov.jpg"
+				"title":"Let's Get Eclectic",
+				"description": "With a love of music without prejudice, along with an extensive record collection varying all genre's, an awesome speaker system and some rather funky lights – you are going to be in for a treat, whether it's disco, funk, soul, pop, new-wave, dance, party classics or future classics. Let's Get Eclectic is the event DJ that's breaks the mold. ",
+				"url":"https://www.facebook.com/letsgeteclectic/",
+				"image":"music_lge.jpg"
 			},
 			{
+				"day":"Saturday",
 				"music_id":"4",
-				"title":"The Shiverin' Sheiks",
-				"description": "Bombastic 50's pop, Country Gospel, Dancefloor Rock n' Roll and Doo Wop from these wandering princes of the desert. ",
-				"url":"https://www.facebook.com/theshiverinsheiks/",
-				"image":"music_ss.jpg"
+				"title":"Mr Wilson's Second Liners",
+				"description": "In New Orleans, they celebrate in style. Second Lining is a quintessential New Orleans art form: following the band to enjoy the music, marching and dancing, twirling parasols and waving handkerchiefs.   It is a full on street intervention. If you’re lucky enough to be caught up in the commotion, you’re part of the Second Line.<br /><br />Mr. Wilson's Second Liners are revolutionary genre-bashers who knock traditional Second Lining sideways, opting for upbeat dance tracks over traditional hymns. Hot-stepping out in uniformed style, they channel the spirit of the 24-hour party people, guaranteed to get audiences dancing wherever they play.",
+				"url":"http://www.mrwilsons.org.uk/",
+				"image":"music_wilsons.jpg"
 			},
+
 			{
-				"music_id":"5",
-				"title":"Tuner",
-				"description": "Tuner is a Glasgow based DJ best-known for his Handpicked Cassette Tapes nights at Bar Brel, Lucky 7, and Mungo's in the big smoke. He'll be playing a mix of hip hop, funk and soul.",
-				"url":"",
-				"image":"music_tuner.jpg"
-			},
-			{
+				"day":"Saturday",
 				"music_id":"6",
+				"title":"Tom McGuire and the Brassholes",
+				"description": "These four lads from East Kilbride are probably the hottest property in Scotland right now. With a huge repertoire of great tunes at their disposal and with their high energy performances, they've pretty much become the perfect Scottish wedding and function band. ",
+				"url":"https://www.tomandthebrassholes.com/",
+				"image":"music_tom.jpg"
+			},
+			{
+				"day":"Saturday",
+				"music_id":"7",
 				"title":"Second Hand Electric Band",
 				"description": "With an ever growing repertoire which caters for every age group Second Hand Elastic Band guarantee to get you on your feet and keep you dancing into the wee small hours!",
-				"url":"https://facebook.com/SHEB-245606462702/",
+				"url":"http://shebweddingband.co.uk/",
 				"image":"music_sheb.jpg"
+			},{
+				"day":"Saturday",
+				"music_id":"8",
+				"title":"AChoired Taste",
+				"description": "AChoired Taste is a warm and welcoming community vocal ensemble singing classic anthems and Broadway songs from the last 6 decades.",
+				"url":"https://www.facebook.com/achoiredtaste11/",
+				"image":"music_at.jpg"
+			},{
+				"day":"Saturday",
+				"music_id":"9",
+				"title":"Clarkston Community Choir",
+				"description": "The choir began its life as a Greenbank community project but is now a stand alone success in its own right. Anyone can join and no musical ability is required. All that is needed is a love of singing and a sense of fun.",
+				"url":"https://www.greenbankglasgow.org.uk/clarkston-community-choir/",
+				"image":"music_ccc.jpg"
+			},{
+				"day":"Saturday",
+				"music_id":"10",
+				"title":"Jim the Magician",
+				"description": "Allow our roving magician Jim to bamboozle and amaze you with his incredible close up magic and sleight of hand. ",
+				"url":"https://www.beyondbeliefmagic.co.uk/",
+				"image":"music_jim.jpg"
 			}
 
 
 		]
+
 	},"gin": {
 		"title":"Eaglesham Gin",
 		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold: The Orry, Eaglesham Gin. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'The Orry Gin' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'The Orry Gin' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
@@ -1544,8 +1574,8 @@
 "brewery_name": "St. Andrews Brewing Co",
 "brewery_slug": "st-andrews-brewing-co",
 "brewery_page_url": "/StAndrewsBrewingCo",
-"brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-26786_74c9b.jpeg",
-"brewery_label_hd": "https://untappd.akamaized.net/site/brewery_logos_hd/brewery-26786_1a2bc_hd.jpeg",
+"brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-26786_df586.jpeg",
+"brewery_label_hd": "https://untappd.akamaized.net/site/brewery_logos_hd/brewery-26786_df586_hd.jpeg",
 "country_name": "Scotland",
 "brewery_in_production": 0,
 "is_independent": 1,
@@ -10942,13 +10972,61 @@
 	"show_all_beers": false,
 	"has_not_had_before": false,
 	"source": "info",
-	"total_count": 32,
+	"total_count": 33,
 	"is_search": false,
 	"type_id": false,
 	"sort": false,
 	"is_multi_type": false,
 	"count": 25,
 	"items": [{
+		"total_user_count": 0,
+		"has_had": null,
+		"total_count": 728,
+		"beer": {
+			"bid": 1,
+			"beer_name": "Ada's Drop",
+			"beer_label": "images/beer_label.jpg",
+			"beer_style": "Blueberry (Summer) Ale",
+			"beer_abv": 4,
+			"beer_ibu": 8.5,
+			"beer_slug": "merchant-city-brewing-adas-drop",
+			"beer_description": "Brewed specially for EagBeerFest, Ada's Drop was named after Fraser and Laura's daughter.  A session-strength fruit beer that takes a well-balanced, easy-drinking summer ale recipe and enhances it with the addition of blueberries, which provide a mellow tartness and a vibrant purple colour. <br/><br />4% ABV 8.5 IBU<br />Bottle Conditioned<br />Ingredients: Barley, oats, hops, yeast, water<br />Malt: Pale, amber, flaked barley, flaked oats<br />Hops: Tettnang, Perle",
+			"is_in_production": 1,
+			"created_at": "Tue, 17 Oct 2017 03:15:35 +0000",
+			"user_rating_score": 0,
+			"rating_score": 5,
+			"rating_count": 1,
+			"on_list": false,
+			"auth_rating": 0,
+			"wish_list": false
+		},
+		"brewery": {
+			"brewery_id": 365046,
+			"brewery_name": "Merchant City Brewing",
+			"brewery_slug": "merchant-city-brewing",
+			"brewery_page_url": "/MerchantCityBrewing",
+			"brewery_type": "Micro Brewery",
+			"brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-365046_02533.jpeg",
+			"country_name": "Scotland",
+			"contact": {
+				"twitter": "merchcitybrew",
+				"facebook": "https://www.facebook.com/merchantcitybrew/",
+				"instagram": "merchantcitybrewing",
+				"url": "http://www.merchantcitybrewing"
+			},
+			"location": {
+				"brewery_city": "",
+				"brewery_state": "",
+				"lat": 0,
+				"lng": 0
+			},
+			"brewery_active": 1
+		},
+		"friends": {
+			"items": [],
+			"count": 0
+		}
+	},{
 		"total_user_count": 0,
 		"has_had": null,
 		"total_count": 728,
@@ -24652,8 +24730,8 @@
 "brewery_name": "Williams Brothers Brewing Co.",
 "brewery_slug": "williams-brothers-brewing-co",
 "brewery_page_url": "/williamsbrosbrewingco",
-"brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1367_bb126.jpeg",
-"brewery_label_hd": "https://untappd.akamaized.net/site/brewery_logos_hd/brewery-1367_fe616_hd.jpeg",
+"brewery_label": "https://untappd.akamaized.net/site/brewery_logos/brewery-1367_b4e43.jpeg",
+"brewery_label_hd": "https://untappd.akamaized.net/site/brewery_logos_hd/brewery-1367_b4e43_hd.jpeg",
 "country_name": "Scotland",
 "brewery_in_production": 0,
 "is_independent": 1,

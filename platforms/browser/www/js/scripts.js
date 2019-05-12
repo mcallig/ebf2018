@@ -54,6 +54,9 @@ var ebf = (function () {
         };
 
 
+
+
+
       window.fn.pop = function() {
         var content = document.getElementById('ebfNavigator');
         content.popPage();
@@ -115,7 +118,11 @@ var ebf = (function () {
           if($("#music").html() == "")
             ebf.initMusic();
         }
-
+        else if(page.id =="beer-search")
+        {
+          ebf.searchBeer($(".search-input").val());
+          $(".search-input").val("");
+        }
 
 
       });
@@ -411,8 +418,11 @@ var ebf = (function () {
 
       return html;
     },
-    writeMusicDetail: function(music) {
-      var html = "<ons-card>";
+    writeMusicDetail: function(day,music) {
+      var html = "";
+      if(day != "")
+        html += "<h1>"+day+"</h1>";
+      html += "<ons-card>";
       html += "<div class=\"beer-detail-header\">"+music.title+"</div>";
       html += "<div class=\"content\"><img src=\"images/"+music.image+"\" width=\"37%\" style=\"float:left;padding:0 15px 0 0\"/>";
       html += music.description;
@@ -522,8 +532,13 @@ var ebf = (function () {
       {
         var data = globalData.music;
         $("#music").html("");
+        var day = "";
         $.each(data.items, function() {
-          theMusic += ebf.writeMusicDetail(this);
+          if(day != this.day)
+            theMusic += ebf.writeMusicDetail(this.day, this);
+          else
+            theMusic += ebf.writeMusicDetail("", this);
+          day = this.day;
         });
       }
       if($("#music").html() == "")
@@ -579,6 +594,44 @@ var ebf = (function () {
           clearInterval(x);
         }
       });
-    }
+    },
+    searchBeer: function(search)
+    {
+      var count = 0;
+      search = search.toUpperCase();
+      $("#beer-search-list").html("");
+      var breweries = globalData.beer.breweries;
+      var beer = {};
+      $("#beer-search-list").html("<ons-list-header modifier=\"purple\" class=\"bg-color-secondary-1-2\" id=\"beer-search-list-header\">You searched for \""+search+"\" - <span id=\"result-count\"></span> results</ons-list-header>");
+      $.each(breweries, function() {
+
+        $.each(this.beer_list.items, function() {
+          if(this.beer.beer_name.toUpperCase().includes(search) || this.beer.beer_style.toUpperCase().includes(search) || this.beer.beer_description.toUpperCase().includes(search))
+          {
+            $("#beer-search-list").append(ebf.writeBeerSearchResult(this,false));
+            count++;
+          }
+        });
+      });
+      $("#result-count").html(count);
+    },
+    writeBeerSearchResult: function(beer, toDrink) {
+      var brewery_item ="<ons-list-item onclick=\"fn.load('beer-detail.html',"+beer.brewery.brewery_id+"," +beer.beer.bid+")\" tappable id=\"beer_"+beer.beer.bid+"\">";
+      brewery_item+= "<div class=\"left\">";
+      brewery_item+= "  <img class=\"list-item__thumbnail\" src=\""+beer.beer.beer_label+"\">";
+      brewery_item+= "</div>";
+      brewery_item+= "<div class=\"center\">";
+      brewery_item+= "  <span class=\"list-item__title\">"+beer.brewery.brewery_name+ '<br />'+beer.beer.beer_name+" - "+beer.beer.beer_abv+"%</span>";
+      brewery_item+= "   <span class=\"list-item__subtitle\">"+beer.beer.beer_style+"</span>";
+      brewery_item+= "   <div class=\"rating-container\"><div class=\"rating\" id=\""+beer.beer.bid+"\" data-rating=\""+beer.beer.rating_score+"\"></div><div class=\"rating-score\">"+beer.beer.rating_score.toFixed(2)+"/5 ("+beer.beer.rating_count+" votes)</div></div>";
+      brewery_item+= "</div>";
+      if(toDrink) {
+        brewery_item+= "<div class=\"right\">";
+        brewery_item+= "<i id=\"remove_"+beer.beer.bid+"\" data-id=\""+beer.beer.bid+"\" class=\"fa fa-times-circle remove\"></i>";
+        brewery_item+= "</div>";
+      }
+      brewery_item+= "</ons-list-item>";
+      return brewery_item;
+    },
   }
 })();

@@ -206,7 +206,7 @@
               <ons-icon icon="fa-music" class="list-item__icon"></ons-icon>
             </div>
             <div class="center">
-              MUSIC
+              ENTERTAINMENT
             </div>
           </ons-list-item>
           <ons-list-item onclick="fn.load('dugs.html')" tappable>
@@ -372,6 +372,12 @@
         </div>
         <div class="title-secondary center">
           The Beer
+          <div style="text-align: center; margin-top: 10px;width:140px;float:right">
+            <ons-search-input style="height:38px"
+              placeholder="Search"
+              onchange="fn.load('search.html')"
+            ></ons-search-input>
+          </div>
         </div>
 
       </ons-toolbar>
@@ -418,6 +424,26 @@
 
       </ons-toolbar>
       <div class="wrapper" id="beer-detail-container"></div>
+
+    </ons-page>
+  </template>
+
+  <template id="search.html">
+    <ons-page id="beer-search">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+          <ons-back-button></ons-back-button>
+        </div>
+
+        <div class="title-secondary center">
+          Search Results
+        </div>
+
+      </ons-toolbar>
+      <ons-list id="beer-search-list"></ons-list>
 
     </ons-page>
   </template>
@@ -504,7 +530,7 @@
           </ons-toolbar-button>
         </div>
         <div class="title-secondary center">
-          Music
+          Entertainment
         </div>
       </ons-toolbar>
       <div id="music" class="wrapper content"></div>
