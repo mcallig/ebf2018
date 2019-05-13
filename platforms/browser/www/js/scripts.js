@@ -48,6 +48,19 @@ var ebf = (function () {
             ebf.pushData("toDrink.html");
             ebf.bindRemove();
           }
+          else if(page == "search.html") {
+            if($("#beer-search-list").length == 1)
+            {
+              var search = "";
+              $.each($(".search-input"), function(i) {
+                search += $($(".search-input")[i]).val();
+              });
+              ebf.searchBeer(search);
+
+              $(".search-input").val("");
+            }
+          }
+
 
           content.bringPageTop(page, {animation: "slide"});
 
@@ -120,8 +133,14 @@ var ebf = (function () {
         }
         else if(page.id =="beer-search")
         {
-          ebf.searchBeer($(".search-input").val());
+          var search = "";
+          $.each($(".search-input"), function(i) {
+            search += $($(".search-input")[i]).val();
+          });
+          ebf.searchBeer(search);
+
           $(".search-input").val("");
+
         }
 
 

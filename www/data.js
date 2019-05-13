@@ -87,6 +87,24 @@
 				"description": "Returning to the Beer Fest once again, Thorntonhall bring their fabulous ice cream made with milk from their own herd up at Meikle Dripps Farm. No artificial additives, emulsifiers or colourings and produced a mile down the road. You can't get better than that. Here's hoping for ice cream weather! ",
 				"url":"http://www.thorntonhallicecream.co.uk/",
 				"image":"food_thornton.jpg"
+			},
+			{
+				"title":"Tin Donkey Coffee",
+				"description": "If you somehow find yourself in the unenviable role as 'designated driver' we've got you covered. Tin Donkey are a Moorland micro-roastery sourcing the highest quality, seasonal harvests. They roast their green beans in 6kg batches in their Giesen W6 Roaster.",
+				"url":"https://tindonkeycoffee.co.uk/",
+				"image":"food_tindonkey.jpg"
+			},
+			{
+				"title":"Truckle and Loaf",
+				"description": "Say cheeeeese! With so many amazing beers to try what better way to line your stomach than  with some of the best gourmet cheese toasties you'll find anywhere. ",
+				"url":"https://www.facebook.com/truckleandloaf",
+				"image":"food_truckle.jpg"
+			},
+			{
+				"title":"Wild and Smoky",
+				"description": "Yeee-haaa! The Deep South comes to Eaglesham (via Dundee) with Wild and Smoky making their beer fest debut. They're all about low and slow barbecue with all the fixins. So get your ten gallon hat on your five gallon head and come down and see them!  ",
+				"url":"https://www.wildandsmoky.co.uk/",
+				"image":"food_smoky.jpg"
 			}
 		]
 	},
