@@ -60,6 +60,10 @@ var ebf = (function () {
               $(".search-input").val("");
             }
           }
+          else if(page == "vip.html")
+          {
+            ebf.initVIP();
+          }
 
 
           content.bringPageTop(page, {animation: "slide"});
@@ -264,12 +268,7 @@ var ebf = (function () {
       }
 
     },
-    changePhoto : function()
-    {
 
-          $(".home-content").css("background-image","url(../images/photo_"+Math.floor(Math.random() * Math.floor(6))+".jpg)");
-
-    },
     initHome : function() {
       var d = new Date();
       var h = d.getHours();
@@ -277,12 +276,14 @@ var ebf = (function () {
       var t= h+":"+m;
 
       var jam_now = globalData.schedule.items.jam_tent.find(function(element){
-        return element.start <= t && element.end >= t;
+        return element.start <= t && element.end >= t  && element.day == d.getDay();
       });
 
       var d = new Date();
-      var bf = new Date("02 June 2018");
-      var isToday = (d.toDateString() === bf.toDateString());
+      var bf1 = new Date("07 June 2019");
+      var bf2 = new Date("08 June 2019");
+
+      var isToday = (d.toDateString() === bf1.toDateString()) || (d.toDateString() === bf2.toDateString());
       console.log(isToday);
 
       if(typeof jam_now != "undefined" && isToday )
@@ -564,6 +565,17 @@ var ebf = (function () {
         $("#music").html(theMusic);
 
     },
+    initVIP: function() {
+      if(localStorage.getItem("vip") == null)
+      {
+        $("#vip-content").hide();
+        $("#vip-login").show();
+      }
+      else {
+        $("#vip-content").show();
+        $("#vip-login").hide();
+      }
+    },
     beerDetail: function(breweryID, beerID) {
       var beer = eval("globalData.beer.breweries.brewery_"+breweryID+".beer_list.items");
       var beerDetail = beer.find(function(element) {
@@ -652,5 +664,17 @@ var ebf = (function () {
       brewery_item+= "</ons-list-item>";
       return brewery_item;
     },
+    vipLogin: function() {
+      var pass = $("#password").val();
+      if(pass == "TwoPintsPrick")
+      {
+        localStorage.setItem("vip", "1");
+        $("#vip-login").hide();
+        $("#vip-content").show();
+      }
+      else {
+        $("#vip-login-error").show();
+      }
+    }
   }
 })();

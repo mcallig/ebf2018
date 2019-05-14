@@ -183,7 +183,7 @@
 		]
 	},
 	"music": {
-		"title":"Entertinment",
+		"title":"Entertainment",
 		"content":"",
 		"items" : [
 
@@ -272,16 +272,19 @@
 			"jam_tent": [
 				{
 					"music_id":"2",
+					"day":"5",
 					"start":"11:00",
 					"end":"12:00"
 				},
 				{
 					"music_id":"5",
+					"day":"6",
 					"start":"12:00",
 					"end":"14:00"
 				},
 				{
 					"music_id":"2",
+					"day":"6",
 					"start":"14:00",
 					"end":"19:00"
 				}
@@ -289,26 +292,31 @@
 			"beer_tunes": [
 				{
 					"music_id":"1",
+					"day":"5",
 					"start":"13:00",
 					"end":"14:00"
 				},
 				{
 					"music_id":"3",
+					"day":"5",
 					"start":"14:00",
 					"end":"14:30"
 				},
 				{
 					"music_id":"4",
+					"day":"6",
 					"start":"15:00",
 					"end":"16:00"
 				},
 				{
 					"music_id":"3",
+					"day":"6",
 					"start":"17:15",
 					"end":"17:45"
 				},
 				{
 					"music_id":"3",
+					"day":"6",
 					"start":"18:15",
 					"end":"18:45"
 				}
@@ -316,11 +324,13 @@
 			"dugs_pub": [
 				{
 					"music_id":"6",
+					"day":"6",
 					"start":"12:30",
 					"end":"14:00"
 				},
 				{
 					"music_id":"1",
+					"day":"6",
 					"start":"14:30",
 					"end":"15:30"
 				}

@@ -23,9 +23,6 @@
   document.addEventListener("deviceready",
     function() {
       //ons.disableAutoStatusBarFill();
-      setInterval(function() {
-        ebf.changePhoto();
-      }, 4000);
       document.addEventListener("backbutton", function() {
         }, false);
     }
@@ -215,6 +212,14 @@
             </div>
             <div class="center">
               DUG'S PUB
+            </div>
+          </ons-list-item>
+          <ons-list-item onclick="fn.load('vip.html')" tappable>
+            <div class="left">
+              <ons-icon icon="fa-diamond" class="list-item__icon"></ons-icon>
+            </div>
+            <div class="center">
+              VIPs
             </div>
           </ons-list-item>
           <ons-list-item onclick="fn.load('sitemap.html')" tappable>
@@ -565,6 +570,34 @@
     </ons-page>
   </template>
 
+  <template id="vip.html">
+    <ons-page id="ons-vip">
+      <ons-toolbar modifier="purple">
+        <div class="left">
+          <ons-toolbar-button onclick="fn.open()">
+            <ons-icon icon="md-menu"></ons-icon>
+          </ons-toolbar-button>
+        </div>
+        <div class="title-secondary center">
+          VIPs
+        </div>
+      </ons-toolbar>
+      <div id="vip" class="wrapper content">
+        <div id="vip-login">
+          <p>If you've purchased VIP tickets you can access exclusive content and information about VIP benefits by logging in here. If you haven't received your password email us at <a href="mailto:beer@eagleshambeerfest.uk">beer@eagleshambeerfest.uk</a><br /></p>
+
+          <p>
+            <ons-input id="password" modifier="underbar" type="password" placeholder="Password" float style="width:100%"></ons-input>
+          </p>
+          <p style="margin-top: 30px;">
+            <ons-button class="bg-color-primary-0" onclick="ebf.vipLogin()">Sign in</ons-button>
+          </p>
+          <p id="vip-login-error" style="color:red;display:none">Incorrect password</p>
+        </div>
+        <div id="vip-content" style="display:none">VIP Content</div>
+      </div>
+    </ons-page>
+  </template>
   <template id="sitemap.html">
     <ons-page id="ons-sitemap">
       <ons-toolbar modifier="purple">
