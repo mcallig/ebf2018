@@ -14,7 +14,7 @@
 	},
 	"dugs_pub": {
 		"title":"Dug's Pub",
-		"content":"If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug's Pub is for you. We have teamed up with leading pet store, The Pet Empawrium, to create a dedicated area to dog lovers. And we think this is the first pub of its kind in Scotland. <br /><br />Together, the EagBeerFest team and The Pet Empawrium will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year's event. There'll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug's Pub well kitted-out to make sure your dog enjoys the festival.<br /><br />Dug's Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own - and that's human beer. There may even be a dog-themed whisky to check out. Not only will they be serving up top doggy tipples, but the Pet Empawrium will be offering up an impressive range of their natural treats and foods. And on the day they will be joined by their fantastic veterinary team, Champion Vets, to offer a number of dog treatments, including grooming, free check-ups and training advice."
+		"content": "If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. <br /><br />We have teamed up with leading dog treats specialist, Walter's Kitchen, to create a dedicated area to dog lovers. Together, the EagBeerFest team and Walters' Kitchen will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. <br /><br /> There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival. Walter's Kitchen serve up 100% healthy, natural treats, suitable for all dogs. And not only are there range of cakes and treats, light on your doggy's tummy, they're light on your wallet too. We have it on good authority that their signature liver cake is the mutt's nuts!<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. And the guys from Douglas Laing & Co. will be nearby to offer up a dog-themed whisky, Scallywag. <br /><br />And if you love your dog and want it to feature on a greeting card, have a picture or crocheted replica of it created, then check out Steph Thomson at Pawtraits by Steph."
 	},
 	"food": {
 		"title":"The Food",
@@ -113,35 +113,52 @@
 		"content":"",
 		"items" : [
 			{
-				"title":"Anytime Fitness",
-				"description": "One of the area's newsest gyms, Anytime Fitness Clarkston will be in attendance on the day to help offset some of that beery goodness. They'll also be there for some fun and games, offering you the chance to win a number of fantastic prizes, including membership benefits. The friendly, professional team at Anytime Fitness can help you get to a healthier place, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 3600 gyms, and always open 24/7 convenience. So, make sure and head over to our 'Something Different' area to see what fun and games they have going on on June 2, and earn your beer!",
-				"url":"https://www.anytimefitness.co.uk/",
-				"image":"rest_af.jpg"
-			},
-			{
 				"title":"Bangin' Beards",
 				"description": "Bangin' Beards is a Glasgow based company providing high quality, natural, handcrafted products specifically for your beard. ",
 				"url":"https://www.banginbeards.com/",
 				"image":"rest_bb.jpg"
 			},
 			{
-				"title":"Bijou Wine Company",
-				"description": "The Bijou Wine Co brings something a wee bit special to events, festivals, weddings & parties serving great wines (of course), beers, ciders, spirits and punches.",
-				"url":"http://www.bijouwine.co.uk/",
-				"image":"rest_bijou.jpg"
+				"title":"Barbados 7s",
+				"description": "Fancy winning a trip to Barbados? Or a taste of the Caribbean? Well we've teamed up with Bajan, Shane Thomas who works as a marketing specialist linked to the Barbados Toursim Board and official rugby association there. He'll be selling Barbados, offering up chances to win a trip there, to win a bottle of rum, some fantastic traditional rum punch, and a bit of fun on the day. He's hooked up with Neil from Bowl Food to help create a superb Caribbean menu, so check them both out. And VIPs? Take a look in your goody bag for something special from Shane!",
+				"url":"",
+				"image":"barbados_7s.jpg"
 			},
-
 			{
-				"title":"Eaglesham Beanies",
-				"description": "If you've been following us on social media you can't have missed our special edition Eaglesham Beanie, produced for us by our friends at Lake and Loch. Hopefully you won't need them on the day but come the autumn you'll be kicking yourself if you don't have one of these.",
-				"url":"http://www.eagleshambeerfest.uk/store/",
-				"image":"rest_beanies.jpg"
+				"title":"Cocktails",
+				"description": " Speaking of cocktails, make sure and head over to check out the wonderful creations of our mixologist Greig, who will be serving up superb cocktails from The Dispensary Bar. you can't miss it - it's the inflatable balloon!",
+				"url":"",
+				"image":"cocktails.jpg"
+			},
+			{
+				"title":"Curious Liquids",
+				"description": "A top notch craft beer and fine wine purveyor, Dayton and his team at this Kilmarnock Road store have a love for the finer things in life. And you can share that with them as they offer up beers from further afield on tap, in cans, in growlers to take away, and some fantastic knowledge about their wares.",
+				"url":"",
+				"image":"curious_liquids.jpg"
+			},
+			{
+				"title":"Dug's Pub",
+				"description": "Everything our canine pals need on a day out, with beer, treats, toys and companionship. Check out the fantastic homemade delicacies of Walter's Kitchen and why not say hi to Steph from Pawtraits by Steph, who may be able to rustle you up a fantastic doggy gift, from greeting card to painting, or even a crocheted replica!",
+				"url":"",
+				"image":"dugs_pub.jpg"
+			},
+			{
+				"title":"Fizz",
+				"description": "We will have a specific fizz bar, serving up wonderful prosecco with strawberries and a few stronger offerings. Fizz and gin cocktails?",
+				"url":"",
+				"image":"fizz.jpg"
 			},
 			{
 				"title":"Geppetto Laszlo Woodwork",
 				"description": "A passion project turned business, Geppetto Laszlo Woodwork is a superb artisan producer creating bespoke woodwork for all occasions. Ideal for beer festivals, classic wooden bottle carriers, bottle openers, wall-mounted bottle openers, plaques, chairs and even bars are lovingly and passionately created by the Geppetto Laszlo.And there are plenty of examples of what they do here today, including wooden bars made for the Eaglesham team, signposts, and a whole host more. Other examples of their work includes toy boxes, tables, bunk beds, dog and cat beds, candle holders and a whole host more.",
 				"url":"https://www.facebook.com/Geppetto-Laszlo-Woodwork-223833867948423/",
 				"image":"rest_laszlo.jpg"
+			},
+			{
+				"title":"Gin",
+				"description": "We are very proud of The Orry Botanical Gin and have listened to your feedback from last year. That means we have more bars with more queues offering you a G&T of Eaglesham very own botanical tipple. There are two bars, situated at either end of the event site. Why not pop along for a refreshing drink.",
+				"url":"",
+				"image":"gin.jpg"
 			},
 			{
 				"title":"Kilbryde Hospice",
@@ -157,7 +174,7 @@
 			},
 			{
 				"title":"Rainbow Twisters",
-				"description": "Everyone likes looking their best on special days – so we are delighted to this year welcome aboard Rainbow Twisters' who will help you look your sparkling best on June 2. But not only that, they will be on hand to help provide top quality entertainment for kids and adult alike. With balloon modellers and twisters, face painters, glitter tattoos, arts and crafts, we know they will make a colourful contribution to this year's Eaglesham Beer Festival.",
+				"description": "We might not cater for kids specifically, but we are a family friendly event and the guys at Rainbow Twisters are on hand to help provide top quality entertainment with outstanding balloon modellers and twisters, face painters, glitter tattoos, and arts and crafts. We know they will make a colourful contribution to this year’s event.",
 				"url":"http://www.rainbowtwisters.com/",
 				"image":"rest_rainbow.jpg"
 			},
@@ -166,18 +183,6 @@
 				"description": "Born out of a passion for making cider in the best possible way, combined with belief in the quality of Scottish produce, and asking ‘why not?', came Thistly Cross Cider, Scotland's award winning farmhouse ciders. Established as a collaboration between farmer, Ian Rennie, and artist-turned-cidermaker, Peter Stuart, in 2008, Thistly Cross has gained a reputation for making ciders that people rave about.",
 				"url":"https://www.thistlycrosscider.co.uk/",
 				"image":"rest_thistly.png"
-			},
-			{
-				"title":"The Tuck Shop",
-				"description": "Something for the wee ones and bar snacks for adults, the tuck shop will be serving up an array of soft drinks, sweets, crisps, nuts and one or two hints on enjoying the beer festival as a family. Situated next to Rainbow Twisters, who will be offering up face-painting, glitter tattoos and balloon animals, the tuck shop will make sure there is something for kids to enjoy.",
-				"url":"",
-				"image":"rest_tuck.jpg"
-			},
-			{
-				"title":"The Wee Beer Shop",
-				"description": "The Wee Beer shop is a top notch craft beer store on Pollokshaws Rd. They've been in business since October 2017 and they'll be bringing along a selection of awesome beers for you to try.",
-				"url":"http://weebeershop.co.uk/",
-				"image":"rest_weebeer.jpg"
 			}
 
 		]
@@ -264,6 +269,10 @@
 	},"gin": {
 		"title":"Eaglesham Gin",
 		"content":"The beer fest team have teamed up with micro-producer McLean's Gins to create the village's very own juniper gold: The Orry, Eaglesham Gin. A market leader for gin in the Glasgow area, McLean's is officially Scotland's smallest commercial producer of the spirit.<br /><br />Headed up by Colin and Jess McLean - who turned the cupboard of their tenement flat into a veritable source of botanical wizadry - the Shawlands company has five gins on offer. Now they have another top tipple to add to their repertoire, with a gin packed-full of refreshing flavour and a delightful underlying spice that coats the pallet to deliver a welcome, warming, summery zest.<br /><br />'The Orry Gin' features smoked black cardamom alongside juniper and honey blossom, with a further five botanicals, delivering a smooth finish.<br /><br />A refreshing tonic and shaving of cucumber is the perfect serve for this summery gin that whisks drinkers to the golden-sand shores of the Western Isles - or even the Mediterranean if its sunny.<br /><br />'The Orry Gin' will be served for the very first time on June 2, making the festival the only place you can get your hands on this unique tipple."
+	},
+	"VIPs": {
+		"title":"VIPs",
+		"content":"For the very first time we're offering VIP tickets at EagBeerFest. The VIP experience includes: <ul><li>Entry to both days of the festival</li><li>Early entry at 11am</li><li>A free drink upon arrival on the Saturday</li><li>Access to a VIP-exclusive area with its own bar, toilets and a few other surprises</li><li>Special VIP-exclusive entertainment</li><li>A VIP goodie bag containing the following:<ul><li>A miniature Orry gin</li><li>A recipe card on how to make the perfect 'Sorry, not Orry' cocktail</li><li>A free raffle entry to win a trip to Barbados for the Rugby Sevens in December</li><li>A beer mat with drink offer for Thistly Cross Cider at EagBeerFest</li><li>A voucher for Nivens Cafe in Strathbungo</li><li>A voucher for Curious Liquids in Shawlands</li><li>A voucher for 6DN in Glasgow's West End</li><li>A voucher for WEST Brewery</li><li>Free passes for Anytime Fitness, Clarkston</li><li>Free passes for Mearns Golf Academy </li><li>VIP tasting sessions by The Dispensary Bar, Douglas Laing & Co, Thistly Cross Cider, Six Degrees North, Overtone Brewery, Merchant City Brewing & WEST Beer. Sign up for your preferred session before the festival.</li></ul></li></ul>"
 	},
 	"schedule": {
 		"title":"Schedule",
@@ -26017,7 +26026,7 @@
 		"dugs": {
 			"dugs": {
 				"title": "Dug's Pub",
-				"content": "Pubs and 'dugs' go hand-in-hand. There's not much better than going a nice big walk with the pooch then popping into your local for a pint and a read of the paper. But what do you do with 'little snoop' during the summer festival season, in crowded fields with loud music and thousands of people?  Well, the Eaglesham Beer Festival has you covered.<br /><br />We absolutely love dogs and felt it was about time to take the next step and make sure our four-legged friends were catered for So, introducing Dug's Pub, we have teamed up with The Pet Empawrium in East Kilbride to serve up plenty of dog beer and Pawsecco, tasty treats, chew toys and an area dedicated to dogs and dog lovers. As well as being kitted out with everything dogs need to enjoy a festival, Dug's Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own - and that's human beer.<br /><br />The Pet Empawrium on Glenburn Road in East Kilbride is Scotland's first all-inclusive pet centre, stocking an extensive range of natural treats and foods for animals, including a wide range of raw food and treats, quality apparel and toys. So you might say Dug's Pub is the perfect day out for dog lovers this summer."
+				"content": "If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. <br /><br />We have teamed up with leading dog treats specialist, Walter's Kitchen, to create a dedicated area to dog lovers. Together, the EagBeerFest team and Walters' Kitchen will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. <br /><br /> There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival. Walter's Kitchen serve up 100% healthy, natural treats, suitable for all dogs. And not only are there range of cakes and treats, light on your doggy's tummy, they're light on your wallet too. We have it on good authority that their signature liver cake is the mutt's nuts!<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. And the guys from Douglas Laing & Co. will be nearby to offer up a dog-themed whisky, Scallywag. <br /><br />And if you love your dog and want it to feature on a greeting card, have a picture or crocheted replica of it created, then check out Steph Thomson at Pawtraits by Steph."
 			}
 		},
 

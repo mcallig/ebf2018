@@ -112,7 +112,7 @@ var ebf = (function () {
         }
         else if(page.id === "ons-dugs") {
           if($("#dugs").html() == "")
-            $("#dugs").html("<img src=\"images/pet_empawrium.png\" width=\"100%\" />"+globalData.dugs_pub.content);
+            $("#dugs").html("<img src=\"images/waltersKITCHEN.jpg\" width=\"100%\" />"+globalData.dugs_pub.content);
 
         }
         else if(page.id == "food")
@@ -670,6 +670,7 @@ var ebf = (function () {
       {
         localStorage.setItem("vip", "1");
         $("#vip-login").hide();
+        $("#vip-content").html(globalData.VIPs.content);
         $("#vip-content").show();
       }
       else {
