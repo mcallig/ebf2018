@@ -157,8 +157,13 @@ var ebf = (function () {
       //ebf.setCountdown();
       ebf.map();
     },
-
-
+    pad: function(value) {
+      if(value < 10) {
+          return '0' + value;
+      } else {
+          return value;
+      }
+    },
     bindRemove: function() {
       $(".fa-times-circle").on("click", function(event) {
         event.stopPropagation();
@@ -273,7 +278,7 @@ var ebf = (function () {
       var d = new Date();
       var h = d.getHours();
       var m = d.getMinutes();
-      var t= h+":"+m;
+      var t= h+":"+ebf.pad(m)
 
       var jam_now = globalData.schedule.items.jam_tent.find(function(element){
         return element.start <= t && element.end >= t  && element.day == d.getDay();
@@ -302,7 +307,7 @@ var ebf = (function () {
           $(".jt-img").html("<img src=\"images/no_image.jpg\" class=\"list-item--material__thumbnail \" />");
       }
 
-      var bt_now = globalData.schedule.items.beer_tunes.find(function(element){
+      var bt_now = globalData.schedule.items.vip.find(function(element){
         return element.start <= t && element.end >= t;
       });
 
@@ -314,7 +319,7 @@ var ebf = (function () {
           return element.music_id == bt_now.music_id
         });
         $("#bt-title").html(bt_now_detail.title);
-        $("#bt-subtitle").html(bt_now.start + " to " + bt_now.end);
+        $("#bt-subtitle").html(bt_now.start + " to " + bt_now.end+(typeof bt_now.o != "undefined" ? " Outside VIP tent" : ""));
         $(".bt-img").html("<img src=\"images/"+bt_now_detail.image+"\" class=\"list-item--material__thumbnail \" />");
       }
       else
@@ -324,7 +329,7 @@ var ebf = (function () {
           $(".bt-img").html("<img src=\"images/no_image.jpg\" class=\"list-item--material__thumbnail \" />");
       }
 
-      var dp_now = globalData.schedule.items.dugs_pub.find(function(element){
+      var dp_now = globalData.schedule.items.oot.find(function(element){
         return element.start <= t && element.end >= t;
       });
 

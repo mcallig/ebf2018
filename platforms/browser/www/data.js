@@ -35,13 +35,13 @@
 			},
 			{
 				"title":"Daizy Delicious",
-				"description": "",
+				"description": "Daizy Delicious Cafe offers fresh homemade delicious food and Italian blended coffee. They also have a wide range of cakes and Berto's Brownies which are made daily in their in house bakery.",
 				"url":"https://www.facebook.com/daizydelicious/",
 				"image":"food_daizydelicious.jpg"
 			},
 			{
 				"title":"Espresso Kart",
-				"description": "",
+				"description": "Coming to us all the way from Kilmanrock, the Espesso Kart is a mobile coffee business serving up delicious barista-made coffee to all of you sensible adults.",
 				"url":"https://www.facebook.com/espressokart/",
 				"image":"food_espressokart.jpg"
 			},
@@ -194,14 +194,6 @@
 
 			{
 				"day":"Friday",
-				"music_id":"1",
-				"title":"Let's Get Eclectic",
-				"description": "With a love of music without prejudice, along with an extensive record collection varying all genre's, an awesome speaker system and some rather funky lights – you are going to be in for a treat, whether it's disco, funk, soul, pop, new-wave, dance, party classics or future classics. Let's Get Eclectic is the event DJ that's breaks the mold. ",
-				"url":"https://www.facebook.com/letsgeteclectic/",
-				"image":"music_lge.jpg"
-			},
-			{
-				"day":"Friday",
 				"music_id":"2",
 				"title":"Papa Shandy and the Drams",
 				"description": "Based in Glasgow, Papa Shandy and the Drams were founded in 2012 and haven't looked back since. As Scottish folk musicians, there is a very good reason why this 6 piece Glasgow function band is popular all over the world. <br /><br />The distinct, smoky voice of Kieran Sinclair heads up one of the fastest selling wedding and function bands in Scotland today. Managed exclusively by Hireaband, their set list is vast, covering anything from Mumford and Sons to AC/DC. With their unique folk and bluegrass style, Papa Shandy and the Drams are undeniably the best pop and folk band around ",
@@ -211,7 +203,7 @@
 			{
 				"day":"Saturday",
 				"music_id":"3",
-				"title":"Let's Get Eclectic",
+				"title":"Let's Get Eclectic (feat. Stevie Hunt)",
 				"description": "With a love of music without prejudice, along with an extensive record collection varying all genre's, an awesome speaker system and some rather funky lights – you are going to be in for a treat, whether it's disco, funk, soul, pop, new-wave, dance, party classics or future classics. Let's Get Eclectic is the event DJ that's breaks the mold. ",
 				"url":"https://www.facebook.com/letsgeteclectic/",
 				"image":"music_lge.jpg"
@@ -282,66 +274,85 @@
 				{
 					"music_id":"2",
 					"day":"5",
-					"start":"11:00",
-					"end":"12:00"
-				},
-				{
-					"music_id":"5",
-					"day":"6",
-					"start":"12:00",
-					"end":"14:00"
+					"start":"18:30",
+					"end":"19:15"
 				},
 				{
 					"music_id":"2",
-					"day":"6",
-					"start":"14:00",
-					"end":"19:00"
-				}
-			],
-			"beer_tunes": [
-				{
-					"music_id":"1",
 					"day":"5",
-					"start":"13:00",
-					"end":"14:00"
+					"start":"20:30",
+					"end":"21:15"
 				},
 				{
 					"music_id":"3",
-					"day":"5",
-					"start":"14:00",
-					"end":"14:30"
+					"day":"6",
+					"start":"12:00",
+					"end":"18:30"
+				}
+			],
+			"vip": [
+				{
+					"music_id":"7",
+					"day":"6",
+					"start":"11:15",
+					"end":"11:45"
+				},
+				{
+					"music_id":"7",
+					"day":"6",
+					"start":"12:30",
+					"end":"13:00",
+					"o":"y"
+				},
+				{
+					"music_id":"8",
+					"day":"6",
+					"start":"14:30",
+					"end":"15:30"
+				},
+				{
+					"music_id":"9",
+					"day":"6",
+					"start":"16:00",
+					"end":"17:00"
+				}
+			],
+			"oot": [
+				{
+					"music_id":"4",
+					"day":"6",
+					"start":"12:30",
+					"end":"13:00"
 				},
 				{
 					"music_id":"4",
 					"day":"6",
-					"start":"15:00",
-					"end":"16:00"
+					"start":"14:30",
+					"end":"15:00"
 				},
 				{
-					"music_id":"3",
+					"music_id":"4",
 					"day":"6",
-					"start":"17:15",
-					"end":"17:45"
+					"start":"16:30",
+					"end":"17:00"
 				},
-				{
-					"music_id":"3",
-					"day":"6",
-					"start":"18:15",
-					"end":"18:45"
-				}
-			],
-			"dugs_pub": [
 				{
 					"music_id":"6",
 					"day":"6",
-					"start":"12:30",
+					"start":"13:30",
 					"end":"14:00"
 				},
 				{
-					"music_id":"1",
+					"music_id":"6",
 					"day":"6",
-					"start":"14:30",
-					"end":"15:30"
+					"start":"15:30",
+					"end":"16:00"
+				},
+				{
+					"music_id":"6",
+					"day":"6",
+					"start":"17:30",
+					"end":"18:00"
 				}
 			]
 		}
