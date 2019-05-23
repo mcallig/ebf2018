@@ -281,7 +281,7 @@ var ebf = (function () {
       var t= h+":"+ebf.pad(m)
 
       var jam_now = globalData.schedule.items.jam_tent.find(function(element){
-        return element.start <= t && element.end >= t  && element.day == d.getDay();
+        return element.start <= t && element.end >= t  && element.day == d.getDay().toString();
       });
 
       var d = new Date();
@@ -290,7 +290,7 @@ var ebf = (function () {
 
       var isFriday = (d.toDateString() === bf1.toDateString());
       var isSaturday = (d.toDateString() === bf2.toDateString());
-      
+
 
       if(typeof jam_now != "undefined" && (isFriday || isSaturday))
       {
@@ -309,7 +309,7 @@ var ebf = (function () {
       }
 
       var bt_now = globalData.schedule.items.vip.find(function(element){
-        return element.start <= t && element.end >= t;
+        return element.start <= t && element.end >= t && element.day == d.getDay().toString();
       });
 
 
@@ -331,7 +331,7 @@ var ebf = (function () {
       }
 
       var dp_now = globalData.schedule.items.oot.find(function(element){
-        return element.start <= t && element.end >= t;
+        return element.start <= t && element.end >= t && element.day == d.getDay().toString();
       });
 
 
