@@ -92,7 +92,17 @@ var ebf = (function () {
         if(page.id === "beer") {
           if($("#brewery-list").html() != "")
           {
+            var keys = Object.keys(globalData.beer.breweries);
+            var breweries = [];
+
             $.each(globalData.beer.breweries, function(key, value) {
+              breweries.push(value);
+            });
+
+            breweries = breweries.sort(function(a, b) {
+                return (a.brewery_name > b.brewery_name) - (a.brewery_name < b.brewery_name);
+            });
+            $.each(breweries, function(key, value) {
               $("#brewery-list").append(ebf.writeBrewery(key, value));
             });
           }
@@ -209,6 +219,9 @@ var ebf = (function () {
     doPush: function(page, data) {
       switch (page) {
         case "beer-list":
+          data.items = data.items.sort(function(a, b) {
+              return (a.beer.beer_name > b.beer.beer_name) - (a.beer.beer_name < b.beer.beer_name);
+          });
           $("#ons-beer-list").html("<ons-list-header modifier=\"purple\" class=\"bg-color-secondary-1-2\" id=\"beer-list-header\">"+data.items[0].brewery.brewery_name+"</ons-list-header>");
           $.each(data.items, function() {
 
@@ -290,7 +303,6 @@ var ebf = (function () {
 
       var isFriday = (d.toDateString() === bf1.toDateString());
       var isSaturday = (d.toDateString() === bf2.toDateString());
-
 
       if(typeof jam_now != "undefined" && (isFriday || isSaturday))
       {

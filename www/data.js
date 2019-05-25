@@ -14,7 +14,7 @@
 	},
 	"dugs_pub": {
 		"title":"Dug's Pub",
-		"content": "If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. <br /><br />We have teamed up with leading dog treats specialist, Walter's Kitchen, to create a dedicated area to dog lovers. Together, the EagBeerFest team and Walters' Kitchen will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. <br /><br /> There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival. Walter's Kitchen serve up 100% healthy, natural treats, suitable for all dogs. And not only are there range of cakes and treats, light on your doggy's tummy, they're light on your wallet too. We have it on good authority that their signature liver cake is the mutt's nuts!<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. And the guys from Douglas Laing & Co. will be nearby to offer up a dog-themed whisky, Scallywag. <br /><br />And if you love your dog and want it to feature on a greeting card, have a picture or crocheted replica of it created, then check out Steph Thomson at Pawtraits by Steph."
+		"content": "If you love big walks with your pooch topped off with a pint and a read of the paper, or if you love socialising with canines more than humans, then Dug’s Pub is for you. <br /><br />We have teamed up with leading dog treats specialist, Walter's Kitchen, to create a dedicated area to dog lovers. Together, the EagBeerFest team and Walters' Kitchen will actively ensure there is a pint, wine, nibbles and somewhere to sit and play for dogs at this year’s event. <br /><br /><img src=\"images/dugs_pub2.jpg\" width=\"100%\" /> There’ll be plenty of dog beer and Pawsecco, tasty treats, chew toys on offer, with Dug’s Pub well kitted-out to make sure your dog enjoys the festival. Walter's Kitchen serve up 100% healthy, natural treats, suitable for all dogs. And not only are there range of cakes and treats, light on your doggy's tummy, they're light on your wallet too. We have it on good authority that their signature liver cake is the mutt's nuts!<br /><br />Dug’s Pub will be a great place for canine lovers to mingle, relax and have a beer or two of their own – and that’s human beer. And the guys from Douglas Laing & Co. will be nearby to offer up a dog-themed whisky, Scallywag. <br /><br />And if you love your dog and want it to feature on a greeting card, have a picture or crocheted replica of it created, then check out Steph Thomson at Pawtraits by Steph."
 	},
 	"food": {
 		"title":"The Food",
@@ -120,7 +120,7 @@
 			},
 			{
 				"title":"Barbados 7s",
-				"description": "Fancy winning a trip to Barbados? Or a taste of the Caribbean? Well we've teamed up with Bajan, Shane Thomas who works as a marketing specialist linked to the Barbados Toursim Board and official rugby association there. He'll be selling Barbados, offering up chances to win a trip there, to win a bottle of rum, some fantastic traditional rum punch, and a bit of fun on the day. He's hooked up with Neil from Bowl Food to help create a superb Caribbean menu, so check them both out. And VIPs? Take a look in your goody bag for something special from Shane!",
+				"description": "Fancy winning a Barbados hamper? Or a taste of the Caribbean? Well we've teamed up with Shane Thomas, a Bajan who works as a marketing specialist linked to the Barbados Toursim Board and official rugby association there. He'll be selling Barbados, offering up chances to win a fabulous Bajan hamper, a bottle of rum, some fantastic traditional rum punch, and a bit of fun on the day. He's hooked up with Neil from Bowl Food to help create a superb Caribbean menu, so check them both out. And VIPs? Take a look in your goody bag for something special from Shane!",
 				"url":"",
 				"image":"barbados_7s.jpg"
 			},
@@ -264,7 +264,7 @@
 	},
 	"VIPs": {
 		"title":"VIPs",
-		"content":"For the very first time we're offering VIP tickets at EagBeerFest. The VIP experience includes: <ul><li>Entry to both days of the festival</li><li>Early entry at 11am</li><li>A free drink upon arrival on the Saturday</li><li>Access to a VIP-exclusive area with its own bar, toilets and a few other surprises</li><li>Special VIP-exclusive entertainment</li><li>A VIP goodie bag containing the following:<ul><li>A miniature Orry gin</li><li>A recipe card on how to make the perfect 'Sorry, not Orry' cocktail</li><li>A free raffle entry to win a trip to Barbados for the Rugby Sevens in December</li><li>A beer mat with drink offer for Thistly Cross Cider at EagBeerFest</li><li>A voucher for Nivens Cafe in Strathbungo</li><li>A voucher for Curious Liquids in Shawlands</li><li>A voucher for 6DN in Glasgow's West End</li><li>A voucher for WEST Brewery</li><li>Free passes for Anytime Fitness, Clarkston</li><li>Free passes for Mearns Golf Academy </li><li>VIP tasting sessions by The Dispensary Bar, Douglas Laing & Co, Thistly Cross Cider, Six Degrees North, Overtone Brewery, Merchant City Brewing & WEST Beer. Sign up for your preferred session before the festival.</li></ul></li></ul>"
+		"content":"For the very first time we're offering VIP tickets at EagBeerFest. The VIP experience includes: <ul><li>Entry to both days of the festival</li><li>Early entry at 11am</li><li>A free drink upon arrival on the Saturday</li><li>Access to a VIP-exclusive area with its own bar, toilets and a few other surprises</li><li>Special VIP-exclusive entertainment</li><li>A VIP goodie bag containing the following:<ul><li>A miniature Orry gin</li><li>A recipe card on how to make the perfect 'Sorry, not Orry' cocktail</li><li>A free raffle entry to win a trip to Barbados for the Rugby Sevens in December</li><li>A beer mat with drink offer for Thistly Cross Cider at EagBeerFest</li><li>A voucher for Nivens Cafe in Strathbungo</li><li>A voucher for Curious Liquids in Shawlands</li><li>A voucher for 6DN in Glasgow's West End</li><li>A voucher for WEST Brewery</li><li>Free passes for Anytime Fitness, Clarkston</li><li>Free passes for Mearns Golf Academy </li><li>VIP tasting sessions by The Dispensary Bar, Douglas Laing & Co, Thistly Cross Cider, Six Degrees North, Overtone Brewery, Merchant City Brewing & WEST Beer. Sign up for your preferred session before the festival.</li></ul></li></ul><br /><br /><video width=\"100%\"  controls><source src=\"images/cocktail.mov\" type=\"video/mp4\"></video>"
 	},
 	"schedule": {
 		"title":"Schedule",
@@ -1665,7 +1665,7 @@
 		"beer": {
 			"bid": 189853,
 			"beer_name": "Crail Ale",
-			"beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-189853_678c5_sm.jpeg",
+			"beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-189853_38e5b_sm.jpeg",
 			"beer_style": "Pale Ale - English",
 			"beer_abv": 4.5,
 			"beer_ibu": 0,
@@ -1953,7 +1953,7 @@
 		"beer": {
 			"bid": 149344,
 			"beer_name": "Oatmeal Stout",
-			"beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-OatmealStout_149344.jpeg",
+			"beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-189853_38e5b_sm.jpeg",
 			"beer_style": "Stout - Oatmeal",
 			"beer_abv": 4.5,
 			"beer_ibu": 0,
@@ -11657,7 +11657,7 @@
 		"beer": {
 			"bid": 2932365,
 			"beer_name": "Kristall Weizen",
-			"beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2932365_5d2d9_sm.jpeg",
+			"beer_label": "https://untappd.akamaized.net/site/beer_logos/beer-2932365_c5e68_sm.jpeg",
 			"beer_style": "Kristallweizen",
 			"beer_abv": 5.4,
 			"beer_ibu": 27,
