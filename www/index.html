@@ -42,7 +42,7 @@
 
   function initMap() {
 
-    var map = new google.maps.Map(document.getElementById('sitemap'), {
+    var map = new google.maps.Map(document.getElementById('fridayMap'), {
       zoom:18,
       center: {lat: 55.740434, lng: -4.272166},
       mapTypeId: 'satellite'
@@ -53,7 +53,24 @@
       new google.maps.LatLng(55.74150369257297, -4.269808751323353));
 
     // The photograph is courtesy of the U.S. Geological Survey.
-    var srcImage = 'images/sitemap.jpg';
+    var srcImage = 'images/friday_sitemap.jpg';
+
+    // The custom USGSOverlay object contains the USGS image,
+    // the bounds of the image, and a reference to the map.
+    overlay = new USGSOverlay(bounds, srcImage, map);
+
+    map = new google.maps.Map(document.getElementById('saturdayMap'), {
+      zoom:18,
+      center: {lat: 55.740434, lng: -4.272166},
+      mapTypeId: 'satellite'
+    });
+
+    var bounds = new google.maps.LatLngBounds(
+      new google.maps.LatLng(55.73984881891915, -4.2740680992390025),
+      new google.maps.LatLng(55.74150369257297, -4.269808751323353));
+
+    // The photograph is courtesy of the U.S. Geological Survey.
+    var srcImage = 'images/saturday_sitemap.jpg';
 
     // The custom USGSOverlay object contains the USGS image,
     // the bounds of the image, and a reference to the map.
@@ -547,7 +564,7 @@
         Perfect for the summer months, this is a beer we are massively proud of and believe it will be a HUGE hit on the day!
         <br /><br />
         We'll have it in bottles and on draught on the day and you can try it for the first time on the FRIDAY EVENING SESSION
-        
+
       </div>
 
     </ons-page>
@@ -652,7 +669,7 @@
     </ons-page>
   </template>
   <template id="sitemap.html">
-    <ons-page id="ons-sitemap">
+    <ons-page id="sitemap">
       <ons-toolbar modifier="purple">
         <div class="left">
           <ons-toolbar-button onclick="fn.open()">
@@ -663,8 +680,23 @@
           Sitemap
         </div>
       </ons-toolbar>
-      <div id="sitemap" class="wrapper content">
-        <img src="images/sitemap.jpg" width="100%" />
+      <ons-tabbar swipeable modifier="purple" id="infoTabs">
+        <ons-tab page="fridayMap.html" label="Friday" icon="fa-map" active></ons-tab>
+        <ons-tab page="saturdayMap.html" label="Saturday" icon="fa-map"></ons-tab>
+      </ons-tabbar>
+    </ons-page>
+  </template>
+  <template id="fridayMap.html">
+    <ons-page id="ons-sitemap">
+      <div id="fridayMap" class="wrapper content">
+        <img src="images/friday_sitemap.jpg" width="100%" />
+      </div>
+    </ons-page>
+  </template>
+  <template id="saturdayMap.html">
+    <ons-page id="ons-sitemap">
+      <div id="saturdayMap" class="wrapper content">
+        <img src="images/saturday_sitemap.jpg" width="100%" />
       </div>
     </ons-page>
   </template>

@@ -3,7 +3,7 @@
   "display": "standalone",
   "name": "EBF",
   "short_name": "EBF",
-  "version": "com.phonegap.ebf",
+  "version": "‌com.sunburstlabs.ebf.*",
   "description": "Eaglesham Beer Fest 2018",
   "author": "Sunburst Labs",
   "icons": [
