@@ -62,7 +62,7 @@
     <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="android-minSdkVersion" value="21" />
-    <preference name="android-maxSdkVersion" value="29" />
+    <preference name="android-maxSdkVersion" value="28" />
     <preference name="android-targetSdkVersion" value="27" />
     <preference name="target-device" value="handset" />
 </widget>
