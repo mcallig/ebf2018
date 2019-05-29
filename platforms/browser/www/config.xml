@@ -57,7 +57,7 @@
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="android-minSdkVersion" value="21" />
-    <preference name="android-maxSdkVersion" value="27" />
+    <preference name="android-maxSdkVersion" value="29" />
     <preference name="android-targetSdkVersion" value="27" />
     <preference name="target-device" value="handset" />
 </widget>
