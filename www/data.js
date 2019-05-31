@@ -137,6 +137,12 @@
 				"image":"curious_liquids.jpg"
 			},
 			{
+				"title":"Douglas Laing",
+				"description": "Organising a beer festival can be quite stressful you know, and we wanted a way to relax after the event with a little Uisge beatha! <br /><br />So we’ve invited along the perfect guest this year to help us unwind. Please welcome, Douglas Laing & Co, purveyors of some of Scotland’s finest whisky - the water of life <br /><br />For the first time at #EagBeerFest we’re welcoming along a leading whisky producer! And we can’t think of a better for to the day than Douglas Laing & Co.<br /><br />Established in 1948, Douglas Laing serves up the finest artisan, small batch and single cask bottlings. <br /><br />This proud family business will offer up the most special, quality-driven and unique Scotch Whisky experience for the discerning whisky connoisseurs of Eaglesham! <br /><br />And if you’re a VIP ticket holder, you can enjoy a chance to get up close and meet with the Douglas Laing team!",
+				"url":"https://www.douglaslaing.com/",
+				"image":"sd_douglas.png"
+			},
+			{
 				"title":"Dug's Pub",
 				"description": "Everything our canine pals need on a day out, with beer, treats, toys and companionship. Check out the fantastic homemade delicacies of Walter's Kitchen and why not say hi to Steph from Pawtraits by Steph, who may be able to rustle you up a fantastic doggy gift, from greeting card to painting, or even a crocheted replica!",
 				"url":"",
@@ -264,7 +270,7 @@
 	},
 	"VIPs": {
 		"title":"VIPs",
-		"content":"For the very first time we're offering VIP tickets at EagBeerFest. The VIP experience includes: <ul><li>Entry to both days of the festival</li><li>Early entry at 11am</li><li>A free drink upon arrival on the Saturday</li><li>Access to a VIP-exclusive area with its own bar, toilets and a few other surprises</li><li>Special VIP-exclusive entertainment</li><li>A VIP goodie bag containing the following:<ul><li>A miniature Orry gin</li><li>A recipe card on how to make the perfect 'Sorry, not Orry' cocktail</li><li>A free chance to win a fabulous Bajan hamper</li><li>A beer mat with drink offer for Thistly Cross Cider at EagBeerFest</li><li>A voucher for Nivens Cafe in Strathbungo</li><li>A voucher for Curious Liquids in Shawlands</li><li>A voucher for 6DN in Glasgow's West End</li><li>A voucher for WEST Brewery</li><li>Free passes for Anytime Fitness, Clarkston</li><li>Free passes for Mearns Golf Academy </li><li>VIP tasting sessions by The Dispensary Bar, Douglas Laing & Co, Thistly Cross Cider, Six Degrees North, Overtone Brewery, Merchant City Brewing & WEST Beer. Sign up for your preferred session before the festival.</li></ul></li></ul><br /><br /><video width=\"100%\"  controls><source src=\"images/cocktail.mp4\" type=\"video/mp4\"></video>"
+		"content":"For the very first time we're offering VIP tickets at EagBeerFest. The VIP experience includes: <ul><li>Entry to both days of the festival</li><li>Early entry at 11am</li><li>A free drink upon arrival on the Saturday</li><li>Access to a VIP-exclusive area with its own bar, toilets and a few other surprises</li><li>Special VIP-exclusive entertainment</li><li>A VIP goodie bag containing the following:<ul><li>A miniature Orry gin</li><li>A recipe card on how to make the perfect 'Sorry, not Orry' cocktail</li><li>A free chance to win a fabulous Bajan hamper</li><li>A beer mat with drink offer for Thistly Cross Cider at EagBeerFest</li><li>A voucher for Nivens Cafe in Strathbungo</li><li>A voucher for Curious Liquids in Shawlands</li><li>A voucher for 6DN in Glasgow's West End</li><li>A voucher for WEST Brewery</li><li>Free passes for Anytime Fitness, Clarkston</li><li>Free passes for Mearns Golf Academy </li><li>VIP tasting sessions by The Dispensary Bar, Douglas Laing & Co, Thistly Cross Cider, Six Degrees North, Overtone Brewery, Merchant City Brewing & WEST Beer. Sign up for your preferred session before the festival.</li></ul></li></ul><br /><br />If the video below fails to load you can view it here instead: <a href=\"https://youtu.be/0AChev2K7SY\">https://youtu.be/0AChev2K7SY</a><br /><br /><video width=\"100%\"  controls><source src=\"images/cocktail.mp4\" type=\"video/mp4\"></video>"
 	},
 	"schedule": {
 		"title":"Schedule",
