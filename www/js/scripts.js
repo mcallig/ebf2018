@@ -10,7 +10,7 @@ var ebf = (function () {
 
   return {
     init: function() {
-      localStorage.clear();
+      //localStorage.clear();
 
       ebf.initData();
       //ons.disableAutoStyling();
