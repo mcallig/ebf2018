@@ -288,13 +288,14 @@ var ebf = (function () {
       var bf1 = new Date("07 June 2019");
       var bf2 = new Date("08 June 2019");
 
-      var isToday = (d.toDateString() === bf1.toDateString()) || (d.toDateString() === bf2.toDateString());
-      console.log(isToday);
+      var isFriday = (d.toDateString() === bf1.toDateString());
+      var isSaturday = (d.toDateString() === bf2.toDateString());
+      
 
-      if(typeof jam_now != "undefined" && isToday )
+      if(typeof jam_now != "undefined" && (isFriday || isSaturday))
       {
         var jam_now_detail = globalData.music.items.find(function(element) {
-          return element.music_id == jam_now.music_id
+          return (element.music_id == jam_now.music_id) && (isFriday ? "5" : "6") == jam_now.day
         });
         $("#jt-title").html(jam_now_detail.title);
         $("#jt-subtitle").html(jam_now.start + " to " + jam_now.end);
@@ -313,10 +314,10 @@ var ebf = (function () {
 
 
 
-      if(typeof bt_now != "undefined" && isToday)
+      if(typeof bt_now != "undefined" && (isFriday || isSaturday))
       {
         var bt_now_detail = globalData.music.items.find(function(element) {
-          return element.music_id == bt_now.music_id
+          return (element.music_id == bt_now.music_id) && (isFriday ? "5" : "6") == bt_now.day
         });
         $("#bt-title").html(bt_now_detail.title);
         $("#bt-subtitle").html(bt_now.start + " to " + bt_now.end+(typeof bt_now.o != "undefined" ? " Outside VIP tent" : ""));
@@ -335,10 +336,10 @@ var ebf = (function () {
 
 
 
-      if(typeof dp_now != "undefined" && isToday)
+      if(typeof dp_now != "undefined" && (isFriday || isSaturday))
       {
         var dp_now_detail = globalData.music.items.find(function(element) {
-          return element.music_id == dp_now.music_id
+          return (element.music_id == dp_now.music_id) && (isFriday ? "5" : "6") == dp_now.day
         });
         $("#dp-title").html(dp_now_detail.title);
         $("#dp-subtitle").html(dp_now.start + " to " + dp_now.end);
